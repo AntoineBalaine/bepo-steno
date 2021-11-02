@@ -1,0 +1,3 @@
+[plover.system]
+French Bépo = plover_bepo.system
+

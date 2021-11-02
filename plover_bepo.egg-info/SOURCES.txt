@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+plover_bepo/__init__.py
+plover_bepo/system.py
+plover_bepo.egg-info/PKG-INFO
+plover_bepo.egg-info/SOURCES.txt
+plover_bepo.egg-info/dependency_links.txt
+plover_bepo.egg-info/entry_points.txt
+plover_bepo.egg-info/requires.txt
+plover_bepo.egg-info/top_level.txt
+plover_bepo.egg-info/zip-safe
