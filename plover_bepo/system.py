@@ -2,12 +2,10 @@
 
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
-    'P', 'E', 'O', 'V', 'D', 'l', '$', 
-    'A', 'U', 'I', 'Y', 'K', 'C', 'T', 'S', 'R', 'N', 'M', 'F', 'n', 
-	#'P', 'A', 'E', 'U', 'O', 'I', 'V', 'R', 'N', 'Q', 'Y', 'T', 'c', 's', 't', 'n', 'p', 'r',
-	#'i', 'e', 'a', 'o',
-	'*', '#'
-)
+ 'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
+ 'O', 'E', 'A', 'U', 'I', 'l', 'n', '$', 'D', 'C', 
+'#'
+ )
 IMPLICIT_HYPHEN_KEYS = KEYS
 SUFFIX_KEYS = ()
 NUMBER_KEY = None
@@ -23,9 +21,8 @@ KEYMAPS = {
         'E': 'w',
         'O': 'e',
         '*': 'r',
-        'V': 'u',
         'D': 'i',
-        'l': 'o',
+        'L': 'o',
         '$': 'p',
         'A': 'a',
         'U': 's',
@@ -38,36 +35,14 @@ KEYMAPS = {
         'R': 'l',
         'N': ';',
         'M': '\'',
-        'F': '\\',
+        'F': '/',
         'n': 'n',
-#        'P': 'q',
-#		'A': 'a',
-#		'E': 'w',
-#		'U': 's',
-#		'O': 'e',
-#		'I': 'd',
-#		'V': 'r',
-#		'R': 'f',
-#		'N': 'c',
-#		'Q': 'v',
-#		'*': ('t', 'g', 'y', 'h'),
-#		'Y': 'n',
-#		'T': 'm',
-#		'c': 'u',
-#		's': 'j',
-#		't': 'i',
-#		'n': 'k',
-#		'p': 'o',
-#		'r': 'l',
-#		'i': 'p',
-#		'e': ';',
-#		'a': '[', 
-#		'o': '\'',
+        'l': 'm',
 		'arpeggiate': 'space',
 		# Suppress adjacent keys to prevent miss-strokes.
-		'no-op': ('z', ',', '.', '/', ']'),
+		'no-op': ('z', ',', '.', ']'),
 	},
 }
 
 DICTIONARIES_ROOT = 'asset:plover_bepo:dictionaries'
-DEFAULT_DICTIONARIES = (DICTIONARIES_ROOT)
+DEFAULT_DICTIONARIES = ('01_French_SION.json', 'init.json', DICTIONARIES_ROOT)
