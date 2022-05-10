@@ -3,6 +3,14 @@ MANIFEST.in
 README.md
 setup.cfg
 setup.py
+./plover_bepo/dictionaries/01_French_SION.json
+./plover_bepo/dictionaries/02_French_Chiffres.json
+./plover_bepo/dictionaries/03_French_Adverbes.json
+./plover_bepo/dictionaries/04_French_Adjectifs.json
+./plover_bepo/dictionaries/05_French_Noms.json
+./plover_bepo/dictionaries/06_French_Verbes.json
+./plover_bepo/dictionaries/07_French_User.json
+./plover_bepo/dictionaries/init.json
 plover_bepo/__init__.py
 plover_bepo/system.py
 plover_bepo.egg-info/PKG-INFO
