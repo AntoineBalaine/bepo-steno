@@ -31,15 +31,29 @@ Assurez-vous d'utiliser Plover 4.x (dernière version) - les versions anterieure
 
 * Invoquer la commande suivante depuis un terminal (cf [Invoke Plover from the command line](https://github.com/openstenoproject/plover/wiki/Invoke-Plover-from-the-command-line) pour plus de détails)
 
-      ```
-      plover -s plover_plugins install git+https://github.com/user/repo
-      ```
-      
+`plover -s plover_plugins install git+https://github.com/AntoineBalaine/bepo-steno`
+
+**MacOS:**
+`/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install git+https://github.com/AntoineBalaine/bepo-steno`
+À noter: MacOS requiert d'autoriser plover dans préférences système > sécurité > confidentialité > accessibilité
+**Linux:**
+`plover.AppImage -s plover_plugins install git+https://github.com/AntoineBalaine/bepo-steno`
+**Windows**
+`.\plover_console.exe -s plover_plugins install git+https://github.com/AntoineBalaine/bepo-steno`
+
       NB: `https://github.com/user/repo.git` ne fonctionnera pas; 
-   
+
 * Vous devriez voir un message indicant `Succesfully installed`, suivi d'un nombre de paquets, suivi du plugin.
 
 * Re-démarrez Plover
+
+* Allez dans `Configure`, puis `System` et sélectionnez `French Bépo`
+
+* Dans le cas où l'installation ne fonctionne pas, 
+    1. Si le plugin ne descend pas, vous pouvez faire une installation locale en clonant ce repo, et en invoquant la même commande avec l'emplacement du dosser sur votre ordinateur: 
+    `plover -s plover_plugins install emplacementUtilisateur/bepo-steno`
+    3. Si le clavier ne connecte pas sur MacOS, dé-autorisez et ré-autorisez plover dans les préférences de sécurité sus-indiquées. 
+    2. Si les dictionnaires ne chargent pas, clonez ce repo, et importez les manuellement depuis la fenêtre principale de plover (en bas de fenêtre, bouton vert "+").
 
 ### Présentation
 ##### Bépo sur Grandjean: un plugin de sténographie pour le clavier bépo.

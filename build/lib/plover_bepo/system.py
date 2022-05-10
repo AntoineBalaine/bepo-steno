@@ -2,7 +2,7 @@
 
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
- 'G', 'S', 'B', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
+ 'S', 'B', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
  'O', 'E', 'A', 'à', 'U', 'É', 'I', 'l', 'n', '$', 'D', 'C', 
 '#'
  )
@@ -10,14 +10,13 @@ IMPLICIT_HYPHEN_KEYS = KEYS
 SUFFIX_KEYS = ()
 NUMBER_KEY = None
 NUMBERS = {}
-UNDO_STROKE_STENO = 'G'
+UNDO_STROKE_STENO = ''
 ORTHOGRAPHY_RULES = []
 ORTHOGRAPHY_RULES_ALIASES = {}
 ORTHOGRAPHY_WORDLIST = None
 KEYMAPS = {
 	'Keyboard': {
 		'#': ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '='),
-        'G': ',',
         'B': 'q',
         'E': 'f',
         'P': 'e',
