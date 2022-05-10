@@ -2,8 +2,8 @@
 
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
- 'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
- 'O', 'E', 'A', 'U', 'I', 'l', 'n', '$', 'D', 'C', 
+ 'S', 'B', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
+ 'O', 'E', 'A', 'à', 'U', 'É', 'I', 'l', 'n', '$', 'D', 'C', 
 '#'
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
@@ -17,15 +17,18 @@ ORTHOGRAPHY_WORDLIST = None
 KEYMAPS = {
 	'Keyboard': {
 		'#': ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '='),
-        'P': 'q',
-        'E': 'w',
-        'O': 'e',
-        '*': 'r',
+        'B': 'q',
+        'E': 'f',
+        'P': 'e',
+        'O': 'r',
+        '*': 'u',
         'D': 'i',
         'L': 'o',
         '$': 'p',
         'A': 'a',
+        'à': 'z',
         'U': 's',
+        'É': 'w',
         'I': 'd',
         'Y': 'x',
         'K': ('c', 'b'),
@@ -38,11 +41,12 @@ KEYMAPS = {
         'F': '/',
         'n': 'n',
         'l': 'm',
-		'arpeggiate': 'space',
+		# 'arpeggiate': 'space',
 		# Suppress adjacent keys to prevent miss-strokes.
-		'no-op': ('z', ',', '.', ']'),
+		'no-op': (',', '.', ']'),
 	},
 }
 
 DICTIONARIES_ROOT = 'asset:plover_bepo:dictionaries'
-DEFAULT_DICTIONARIES = ('01_French_SION.json', 'init.json', DICTIONARIES_ROOT)
+# DEFAULT_DICTIONARIES = ('01_French_SION.json', 'init.json', DICTIONARIES_ROOT)
+DEFAULT_DICTIONARIES = ( '01_French_SION.json', '02_French_Chiffres.json', '03_French_Adverbes.json', '04_French_Adjectifs.json', '05_French_Noms.json', '06_French_Verbes.json', '07_French_User.json', 'init.json', DICTIONARIES_ROOT, ) 
