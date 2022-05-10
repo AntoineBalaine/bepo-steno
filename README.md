@@ -1,37 +1,136 @@
-# Grandjean sur Bépo
+# Sténo Bépo
 
-### Qu'est-ce que c'est?
-Une adaptation de la sténo Grandjean à la disposition de clavier bépo. Permet d'utiliser l'écriture accélérée en sténo à l'aide d'une disposition de dactylo. 
+[Installation](#installation) \
+[Présentation](#présentation) \
+[Cahier des charges](#cahier-des-charges) \
+[La sténo Grandjean](#la-sténo-grandjean) \
+[Adaptation au Bépo](#adaptation-au-bépo) \
+[Désambiguer les homophones](#désambiguer-les-homophones) \
+[Outillage](#outillage) \
+[À venir](#à-venir) 
 
-#### Un mot sur le bépo, pour contexte:
-La disposition de clavier bépo a été inventée dans le but de substituer l'azerty comme standard utilisé pour la langue française. La disposition a été conçue sur la base d'une analyse de la fréquence d'utilisation des lettres dans la langue: les lettres les plus utilisées sont au centre du clavier, les moins utilisées sont à des emplacements périphériques, avec une distribution des consonnes vers la main droite et des voyelles vers la main gauche.
-Le bépo rend aussi accessible des symboles nécessaires au français qui sont difficiles d'accès sur un azerty (quand était la dernière fois que vous avez volontairement tapé un "œ"?). Ne pas avoir certains symboles accessibles revient à contraindre les utilisateurs à faire des fautes en écrivant, ce qui est dommage et bête. 
+```
+_________________________________________             
+|  B|  É|  P|  O|   |   |  V|  D|  L|  J|             
+|___|___|__p|__o|___|___|__*|___|___|__$|___           
+| A | U | I | E |   | C | T | S | R | N |  M|         
+|___|___|___|___|___|___|___|___|___|___|___|  
+|   |  Y|  X|   |  K|  '|  Q|   |   |  F|               
+|___|___|___|___|___|__n|__£|___|___|___|               
+```
 
-### Un mot sur la sténo Grandjean, pour contexte aussi:
-Le système Grandjean est une méthode de sténotypie inventée à l'origine pour le français, qui été étendue à l'usage de l'espagnol et (je crois aussi) à l'italien. Comme toutes les méthodes de sténotypie, elle dépend d'une machine équipée d'un clavier dont la disposition des lettres est conçue spécifiquement pour la sténo. 
-La disposition permet d'écrire des mots abréviés en phonétique, donnant ainsi une vitesse d'écriture accélérée pouvant monter jusqu'à 300 mots par minute. 
-Malgré la vitesse d'écriture, parce que la disposition d'un clavier de sténo est fondamentalement incompatible avec celle d'un clavier de dactylo (c.à.d d'un clavier traditionnel), le système Grandjean n'a pas pu connaître une large diffusion: la dactylo est infiniment plus facile à apprendre et infiniment plus flexible, quoiqu'au prix d'une vitesse de frappe ralentie (110 mots par minute max.) et d'une précision dégradée, et en plus le Grandjean implique la double punition de contraindre ses utilisateurs à apprendre et la sténo et la disposition du clavier dédié.
+### Installation
 
-### Pour quoi faire?
-À ma connaissance, il n'y a pas de disposition dactylographique qui soit compatible avec la sténo - cette implémentation sur le bépo est une première. 
-Ceci implique que pour un utilisateur du bépo, il devient possible d'apprendre la sténo sans avoir à apprendre aussi la disposition de clavier Grandjean. Le «bépo-iste» bénéficie d'un apprentissage accéléré de la sténo car il a déjà la mémoire musculaire de l'emplacement des lettres sur le clavier. 
-Parce que le bépo est une disposition dactylographique, elle peut être installée sur l'ordinateur et le smartphone (tous systèmes d'exploitations confondus) et peut être apprise et utilisée au jour le jour, hors d'un contexte d'entraînement spécifique.
+Le présent projet n'en est qu'à ses débuts et n'est donc pas inclu dans la liste des plug-ins du gestionnaire de Plover. Il faudra l'installer manuellement.
 
-Le deuxième avantage potentiel (et je dis bien potentiel) est que la sténo Grandjean a été implémentée dans plusieurs langues, ce qui signifie que le Grandjean sur bépo pourrait être adapté pour les autres langues latines. En ayant une disposition dactylographique dans plusieurs langues, on ouvre la porte à une diffusion plus large de la sténo. 
- 
-### Pour qui?
-Les gens de lettres, la recherche, les gens du droit, les codeurs: toutes les professions qui requièrent l'usage de beaucoup de texte.
+## Versions compatibles
 
-### Comment ça marche ? 
-L'implémentation est un plugin pour le logiciel de sténo Plover. Les dictionnaires sont ceux du Grandjean-Français qu'Aziz Yamloul a rendu disponible sur le répo de plover-france il y a dix ans. On peut remercier les créateurs de Plover et M. Yamloul d'avoir généreusement rendu leurs travaux disponibles.
-Pour toute requête ou demande de changement dans le système, créez une «issue» ou envoyez moi une pull-request.
+Assurez-vous d'utiliser Plover 4.x (dernière version) - les versions anterieures n'incluent pas les plugins.
 
-### Désavantages et limitations? 
-Il n'y a pas de solution technique sans une contrepartie technique:
-- Apprendre la sténo est clairement un investissement en temps. J'apprends moi-même le Grandjean-sur-bépo en ce moment, et je mettrai cette page à jour pour indiquer la quantité de temps qu'il m'aura fallu pour atteindre 60 mots par minute - dès que j'y arriverai. Dans l'immédiat, j'estime que ça devrait prendre entre 20 et 40 heures de pratique pour un «bépo-iste» confirmé.
-- Grandjean-sur-bépo est inutilisable hors du contexte de Plover. Pour s'en servir, il faut installer Plover. C'est comme ça. 
-- Le français est une langue phonétiquement très ambigüe: nombres de mots et conjugaisons différents sont des homophones. Ceci pose problème pour la sténo qui est basée sur une transcription phonétique: à la transcription d'un manuscrit, des fautes de grammaires ou d'homophonie peuvent facilement se glisser dans le texte et fausser le sens de l'écrit sans que ce soit la faute de l'auteur ou du sténotypiste, simplement parce que le logiciel à interprété un homophone erroné. Je travaille actuellement à une solution pour ce problème.
-- Parce que la sténo requiert de frapper plusieurs touches simultanément avec un seul doigt, il est recommandé d'utiliser un clavier adapté. Un clavier adapté, c'est un clavier ortholinéaire à touches plates, avec capacité NKRO (c.à.d pas de limites au nombre de touches simultanées). Dans les entrées de gamme (et sans avoir à s'investir dans le merveilleux monde des claviers mécaniques custom pour fous du gaming) un planck d'occasion et un jeu de 50 touches plates devrait être accessible en-dessous de 150 euros. 
+## Instructions
 
-### Pour aller plus loin:
-Je ferai prochainement une mise à jour avec des instructions claires pour comprendre comment marche la sténo Grandjean. En attendant, vous pouvez vous diriger vers l'excellente présentation de M. Yamlloul sur les répos de plover-France: le premier, et le second.
+* Invoquer la commande suivante depuis un terminal (cf [Invoke Plover from the command line](https://github.com/openstenoproject/plover/wiki/Invoke-Plover-from-the-command-line) pour plus de détails)
+
+      ```
+      plover -s plover_plugins install git+https://github.com/user/repo
+      ```
+      
+      NB: `https://github.com/user/repo.git` ne fonctionnera pas; 
+   
+* Vous devriez voir un message indicant `Succesfully installed`, suivi d'un nombre de paquets, suivi du plugin.
+
+* Re-démarrez Plover
+
+### Présentation
+##### Bépo sur Grandjean: un plugin de sténographie pour le clavier bépo.
+Ce plug-in est une extension pour le [logiciel de sténo Plover](https://www.openstenoproject.org/plover/), avec un système de frappes basé sur la méthode Grandjean (méthode de sténo traditionelle en français).
+
+Sa finalité est de fournir aux bépoïstes une technique d’écriture accélérée sur leur clavier de tous les jours - par opposition à une machine de sténo - sans les contraindre à apprendre une nouvelle disposition. 
+En reposant sur une disposition déjà connue du bépoïste, le temps nécessaire à l’apprentissage de la sténo est fortement réduit.
+
+Le plug-in tient sur deux piliers: le bépo modifié pour la sténo, et le dictionnaire. Pour ce dernier, j’ai modifié le dictionnaire open-source du plug-in [Plover-France](https://github.com/azizyemloul/plover-france), en l’adaptant un peu aux contraintes du bépo.
+
+### Cahier des charges
+- doit tenir sur un clavier ortholinéaire taille 40% (càd. [un planck](https://deskthority.net/wiki/Planck)),
+- doit utiliser la disposition bépo d’origine au maximum, doit modifier la disposition le moins possible.
+- doit avoir un moyen de désambiguiser les mots homophones autant que possible.
+- doit avoir un moyen de désambiguiser les terminaisons des conjugaisons des verbes autant que possible.
+
+### La sténo Grandjean
+Cf. [ l'excellent article de Plover France ](https://github.com/azizyemloul/plover-france-dict#%C3%A0-propos-de-la-st%C3%A9notypie) sur le fonctionnement de la sténotypie Grandjean.
+
+### Adaptation au Bépo
+- touches Grandjean modifiées 
+  1. «P*» est remplacé par «B»
+  2. «ᴎ» s’annote «n». Le «N» sera traité comme début de syllabe, et «n» comme fin de syllabe
+  3. «£» s’annote «l». Le «L» sera traité comme début de syllabe, et «l» comme fin de syllabe
+- touches Bépo modifiées 
+
+La sténo requiert d’avoir des consonnes dupliquées - les doublons servent à différencier les consonnes de début et de fin de syllabe ("sass", sténographié "SA$"). Installer des consonnes dupliquées sur le bépo impose de modifier la disposition d’origine. Cependant, chaque modification du bépo peut devenir une nouveauté gênante pour les bépoïstes.
+Pour minimiser la gêne, la disposition actuelle suit les principes suivants:
+
+- les lettres de début de syllabe doivent garder l’emplacement d’origine sur le bépo
+- les doublons de fin de syllabe doivent être placés à des emplacements disponibles du bépo (càd. sur des touches qui ne sont pas utilisées par la méthode Grandjean).
+
+J’ai porté une attention particulière à l’emplacement des lettres de fin de syllabe sur le clavier. Il en résulte quelques changements du bépo d’origine; ces changements sont des compromis et peuvent être appelés à changer à l’avenir - si l’on me prouve une disposition plus pratique, je serai ravi de l’intégrer dans le plug-in.
+  1. «\$» se place sur «j» (frappe à l’annulaire droit)
+  2. «ᴎ», devenu «n», se place sur «’» (frappe au pouce)
+  3. «£», devenu «l», se place sur «q» (frappe au pouce ou index)
+  4. «\*» se place sur «v» (frappe à l'index)
+
+### Désambiguer les homophones
+Parce que le français est une langue orthographique avant que phonétique, et que la sténo est une méthode phonétique avant qu’orthographique, toute transcription sténographique est vouée à souffrir des ambiguités phonétiques de la langue. C’est à dire qu’un même son peut correspondre à plusieurs mots: «ces», «ses», «c’est», «s’est», «sais», «sait»; et que ce son ne peut être sténographié que par une seule frappe: «SE». Cette spécificité du français défie toute méthode de transcription phonétique, et impose l’usage d’un moyen de désambiguiser les orthographies d’un même son. 
+
+  Plusieurs méthodes de désambiguation sont utilisées par la sténo dans d’autres langues: 
+
+    -ajout de frappes-préfixes 
+    -ajout de frappes-suffixes
+
+  Le présent projet fait cependant usage d’une touche «orthographie». Utilisée comme suffixe, ou placée dans la dernière syllabe d’un mot, elle converti les fins de syllabe en terminaisons orthographiques. Ainsi, «terminés» peut être frappé «TEl/MI/NÉE\$»: la touche d’orthographie «É» indique que le «\$» est en fait une terminaison en «s». On pourra ainsi conjuguer les homophones d’un verbe:
+
+```
+  «terminé»: «TEl/MI/NE» 
+  «terminer»: «TEl/MI/NÉEl» ou «TEl/MI/NE/Él»
+  «terminés»: «TEl/MI/NÉE\$» ou «TEl/MI/NÉE» ou «TEl/MI/NE/É» ou «TEl/MI/NE/É$»
+  «terminai»: «TEl/MI/NÉEI» ou «TEl/MI/NE/ÉI»
+  «terminais»: «TEl/MI/NÉEI\$» ou «TEl/MI/NEI$»
+  «terminait»: «TEl/MI/NÉEID» ou «TEl/MI/NE/ÉID»
+  «terminaient»: «TEl/MI/NÉEn» ou «TEl/MI/NÉEIn» ou «TEl/MI/NÉEInD» ou «TEl/MI/NE/Én» ou «TEl/MI/NE/ÉnD» 
+```
+
+   Cette touche ne couvre pas tous les cas d’ambiguités, mais pose un bon départ pour les conjuguaisons des verbes, et permet de distinguer le nombre des noms communs.
+
+
+### Outillage
+##### Plug-in
+structure du plugin
+
+  - le fichier sténo.py d’un côté, et 
+  - le dico de l’autre.
+##### Dictionnaire
+Le dico doit être le plus catégorisé possible, par fichiers: 
+  - **Verbes**: un fichier par groupe de verbes (1er groupe, 2e groupe, 3e groupe)
+  - **Noms communs**: un fichier par genre/nombre (masculin/singulier, masculin/pluriel, féminin/singulier, féminin/pluriel)
+  - **Adverbes**: un seul fichier (pour le moment)
+  - **Chiffres**: un seul fichier
+  - **Adjectifs**: un fichier par nombre
+  - **Commandes**: un fichier contenant les commandes destinées à la manœuvre de Plover
+##### Conjugueur
+Un répositoire de scripts en typescript servant à: 
+  conjuguer les verbes, 
+  accorder les noms communs, 
+  filtrer les dictionnaires du projet-parent [Plover-France](https://github.com/azizyemloul/plover-france-dict)
+  adjoindre les frappes de désambiguisation, etc.
+
+
+### À venir:
+  Le présent projet n’est malheureusement pas encore utilisable au quotidien - son dictionnaire est encore trop incomplet. 
+  Pour tout utilisateur intéressé à contribuer, les PR sont les bienvenues. 
+
+##### Feuille de route:
+- Inclure les verbes du premier et deuxième groupe manquants (la liste des frappes à monter est dans le répo «Conjugueur»)
+- Inclure les conjuguaisons du troisième groupe (liste aussi présente dans le «Conjugueur»)
+- Ajouter les frappes de désambiguisation partout où c’est nécessaire et nettoyer le dictionnaire
+- Inclure d’autres touches de désambiguisation (parmi les hypothèses, «Ç» pour désambiguiser les «ses» et «ces»)
+
+
