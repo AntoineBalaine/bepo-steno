@@ -6413,7 +6413,6 @@
 "LAnD/F*El": "landwehr",
 "LAnD/FAl": "lampe-phare",
 "LAnD/ROI": "lamproie",
-"LEC": "laie",
 "LE$": "laisse",
 "LE$/BYEn": "lesbienne",
 "LE/F*I/TA/SYOn": "lévitation",
@@ -6466,6 +6465,7 @@
 "LE/YI/TI/MAC": "légitimation",
 "LE/YI/TI/MI/TE": "légitimité",
 "LE/YI/TI/MID": "légitimité",
+"LEC": "laie",
 "LEC/SI": "lexie",
 "LEC/TRI$": "lectrice",
 "LEC/TUl": "lecture",
@@ -13748,6 +13748,6 @@
 "YUI$": "juive",
 "YUI$/RI": "juiverie",
 "YUn/K*L": "jungle",
-"YUnD": "junte",
 "YUnD": "junte"
+"YUnD": "junte",
 }
