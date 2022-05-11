@@ -1,3 +1,4 @@
+{
 "A/BA/LOUl/T*ÉI$": "abalourdis",
 "A/BA/LOUl/T*ÉI$D": "abalourdissent",
 "A/BA/LOUl/T*ÉIC": "abalourdies",
@@ -14245,7 +14246,7 @@
 "YOUÉID/É": "jouît",
 "YOUÉID": "jouit",
 "YOUÉIlD": "jouirent",
-"YOUÉIlnD": "jouirent"
+"YOUÉIlnD": "jouirent",
 "YOUI$/É": "jouisses",
 "YOUI$": "jouisse",
 "YOUIC": "jouie",
@@ -14277,4 +14278,5 @@
 "YOUI/SÉnD": "jouissent",
 "YOUI/SOn": "jouissons",
 "YOUI/SYE": "jouissiez",
-"YOUI/SYOn": "jouissions",
+"YOUI/SYOn": "jouissions"
+}

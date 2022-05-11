@@ -1,3 +1,4 @@
+{
 "A$/PEl/C": "aspersion",
 "A$/PI/RA/C": "aspiration",
 "A/BE/RA/C": "aberration",
@@ -452,7 +453,7 @@
 "I/RI/TA/C": "irritation",
 "I/RO/RA/C": "irroration",
 "I/S*O/LA/C": "isolation",
-"I/T*An/TI/FI/KA/C": "identification"
+"I/T*An/TI/FI/KA/C": "identification",
 "I/T*EA/C": "idéation",
 "I/T*EA/LI/S*A/C": "idéalisation",
 "I/T*RA/TA/C": "hydratation",
@@ -5445,4 +5446,5 @@
 "YO/NI/S*A/C": "ionisation",
 "YU$/TI/FI/KA/C": "justification",
 "YU/BI/LA/C": "jubilation",
-"YUC/STA/PO/S*I/C": "juxtaposition",
+"YUC/STA/PO/S*I/C": "juxtaposition"
+}

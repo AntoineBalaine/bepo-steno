@@ -1,5 +1,4 @@
 {
-}
 "F*InD": "20",
 "F*InD/E/Un": "21",
 "F*InD/KAD": "24",
@@ -64,7 +63,7 @@
 "NEU$": "9",
 "NEU$/MIl": "9 000",
 "NEU$/MIl/SInC/SAn": "9 500",
-"NEU$/MIl/SInC/SAn/SIn/KAnD": "9 550"
+"NEU$/MIl/SInC/SAn/SIn/KAnD": "9 550",
 "NEU$/SAn": "900",
 "NEU$/SAn/SIn/KAnD": "950",
 "On$": "11",
@@ -358,4 +357,5 @@
 "UID/MIl/SInC/SAn/SIn/KAnD": "8 550",
 "UID/SAn": "800",
 "UID/SAn/SIn/KAnD": "850",
-"Un/*": "1",
+"Un/*": "1"
+}
