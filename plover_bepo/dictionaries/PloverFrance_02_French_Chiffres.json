@@ -11,7 +11,6 @@
 "UID": "8",
 "NEU$": "9",
 "T*Y$": "10",
-
 "On$": "11",
 "T*OU$": "12",
 "TREI$": "13",
@@ -111,7 +110,6 @@
 "KAD/F*InD/T*YED": "97",
 "KAD/F*InD/T*UID": "98",
 "KAD/F*InD/T*YEU$": "99",
-
 "SAn/*": "100",
 "SAn/T*Y$": "110",
 "SAn/On$": "111",
@@ -213,7 +211,6 @@
 "SAn/KAD/F*InD/T*YED": "197",
 "SAn/KAD/F*InD/T*UID": "198",
 "SAn/KAD/F*InD/T*YEU$": "199",
-
 "T*EU/SAn": "200",
 "T*EU/SAn/T*Y$": "210",
 "T*EU/SAn/On$": "211",
@@ -315,7 +312,6 @@
 "T*EU/SAn/KAD/F*InD/T*YED": "297",
 "T*EU/SAn/KAD/F*InD/T*UID": "298",
 "T*EU/SAn/KAD/F*InD/T*YEU$": "299",
-
 "TROI/SAn": "300",
 "KAD/SAn": "400",
 "SInC/SAn": "500",
@@ -324,7 +320,6 @@
 "SED/SAn": "700",
 "UID/SAn": "800",
 "NEU$/SAn": "900",
-
 "TROI/SAn/SIn/KAnD": "350",
 "KAD/SAn/SIn/KAnD": "450",
 "SInC/SAn/SIn/KAnD": "550",
@@ -333,7 +328,6 @@
 "SED/SAn/SIn/KAnD": "750",
 "UID/SAn/SIn/KAnD": "850",
 "NEU$/SAn/SIn/KAnD": "950",
-
 "MIl/*": "1 000",
 "T*EU/MIl": "2 000",
 "TROI/MIl": "3 000",
@@ -344,7 +338,6 @@
 "SED/MIl": "7 000",
 "UID/MIl": "8 000",
 "NEU$/MIl": "9 000",
-
 "MIl/SInC/SAn": "1 500",
 "T*EU/MIl/SInC/SAn": "2 500",
 "TROI/MIl/SInC/SAn": "3 500",
@@ -355,7 +348,6 @@
 "SED/MIl/SInC/SAn": "7 500",
 "UID/MIl/SInC/SAn": "8 500",
 "NEU$/MIl/SInC/SAn": "9 500",
-
 "MIl/SInC/SAn/SIn/KAnD": "1 550",
 "T*EU/MIl/SInC/SAn/SIn/KAnD": "2 550",
 "TROI/MIl/SInC/SAn/SIn/KAnD": "3 550",
@@ -366,5 +358,4 @@
 "SED/MIl/SInC/SAn/SIn/KAnD": "7 550",
 "UID/MIl/SInC/SAn/SIn/KAnD": "8 550",
 "NEU$/MIl/SInC/SAn/SIn/KAnD": "9 550"
-
 }
