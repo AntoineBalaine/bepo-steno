@@ -12,7 +12,7 @@
 duplicatedKeysFile=$1
 dictionnaryDirectory=$2
 
-if [ -z $1 ] || [ -z $2 ] ; then 
+if [ -z "$1" ] || [ -z "$2" ] ; then 
     echo "Usage: ./substitueur.sh duplicatedKeysFile dictionnaryDirectory"
     exit 1
 fi
@@ -20,7 +20,7 @@ if [[ ! -f "$duplicatedKeysFile" ]] ; then
   echo "Duplicated keys file doesn't exist"
   exit 1
 fi
-if [ $(find "$dictionnaryDirectory" -name "$duplicatedKeysFile") ] ; then
+if [ "$(find "$dictionnaryDirectory" -name "$duplicatedKeysFile")" ] ; then
   echo "Duplicated keys file cannot be in dictionnary directory"
   exit 1
 fi
@@ -29,20 +29,24 @@ if [[ ! -d "$dictionnaryDirectory" ]] ; then
   exit 1
 fi
 
-IFS=""
-substitutionLines=($(grep ",\s*\"" $duplicatedKeysFile))
+IFS="
+"
+substitutionLines=( `grep ",\s*\"" $duplicatedKeysFile` )
+
 
 for line in "${substitutionLines[@]}" ; do
-  IFS=',' 
-  read -ra originalAndSubstitute <<< "$line"
-  fileNames=($(grep -H -R "${originalAndSubstitute[0]}" $dictionnaryDirectory | cut -d: -f1))
-
+  echo $line
+  IFS=, read -ra originalAndSubstitute <<< $line
+  fileNames=( `grep -H -R "${originalAndSubstitute[0]}" "$dictionnaryDirectory" | cut -d: -f1` )
   for i in "${fileNames[@]}"; do
-    original=$(printf '%q\n' "${originalAndSubstitute[0]}")
-    substitute=$(printf '%q\n' "${originalAndSubstitute[1]}")
-    fullLine=$(printf '%q\n' "${line}" )
+    # original=$(printf '%q\n' "${originalAndSubstitute[0]}")
+    # substitute=$(printf '%q\n' "${originalAndSubstitute[1]}")
+
+    original=$(printf '%s\n' "${originalAndSubstitute[0]}" | sed -e 's/[\/&]/\\&/g')
+    substitute=$(printf '%s\n' "${originalAndSubstitute[1]}" | sed -e 's/[\/&]/\\&/g')
+    fullLine=$(printf '%s\n' "$line" | sed -e 's/[\/&]/\\&/g')
+
     sed "s/$original/$substitute/" $i | sponge $i
     sed "/$fullLine/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
-
   done
 done
