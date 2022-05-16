@@ -1,6 +1,7 @@
 {
-  "BPOÉ": "{PLOVER:TOGGLE}",
-  "SP$": "{^ ^}",
-  "*L$D": "{PLOVER:LOOKUP}",
-  "STRN": "{PLOVER:SUGGESTIONS}"
+"SP$": "{^ ^}",
+"STRN": "{PLOVER:SUGGESTIONS}",
+"BPOÉ": "{PLOVER:TOGGLE}",
+"*L$D": "{PLOVER:LOOKUP}",
+"EAUI": "{PLOVER:ADD_TRANSLATION}"
 }
