@@ -5,18 +5,18 @@
 [Cahier des charges](#cahier-des-charges) \
 [La sténo Grandjean](#la-sténo-grandjean) \
 [Adaptation au Bépo](#adaptation-au-bépo) \
-[Désambiguer les homophones](#désambiguer-les-homophones) \
+[Désambiguïser les homophones](#désambiguïser-les-homophones) \
 [Outillage](#outillage) \
 [À venir](#à-venir) 
 
 ```
 _________________________________________             
-|  B|  É|  P|  O|   |   |  V|  D|  L|  J|             
-|___|___|__p|__o|___|___|__*|___|___|__$|___           
-| A | U | I | E |   | C | T | S | R | N |  M|         
+|  B|  É|  P|  O|  È|  ^|  V|  D|  L|  J|             
+|___|___|___|___|___|___|__*|___|___|__$|___           
+| A | U | I | E |  ,| C | T | S | R | N |  M|         
 |___|___|___|___|___|___|___|___|___|___|___|  
-|   |  Y|  X|   |  K|  '|  Q|   |   |  F|               
-|___|___|___|___|___|__n|__£|___|___|___|               
+|  À|  Y|  X|  .|  K|  '|  Q|  G|  H|  F|               
+|___|___|__K|___|___|__n|__£|___|___|___|               
 ```
 
 ### Installation
@@ -57,9 +57,10 @@ Assurez-vous d'utiliser Plover 4.x (dernière version) - les versions anterieure
 
 ### Présentation
 ##### Bépo sur Grandjean: un plugin de sténographie pour le clavier bépo.
-Ce plug-in est une extension pour le [logiciel de sténo Plover](https://www.openstenoproject.org/plover/), avec un système de frappes basé sur la méthode Grandjean (méthode de sténo traditionelle en français).
+Ce plug-in est une extension pour le [logiciel de sténo Plover](https://www.openstenoproject.org/plover/), avec un système de frappes basé sur la méthode Grandjean (méthode de sténo traditionelle en français). Son dictionnaire adapte la méthode Grandjean à la disposition de [clavier Bépo](https://bepo.fr/wiki/Accueil). 
+La disposition Bépo est une alternative au clavier traditionnel Azerty, qui a été conçue spécifiquement pour les besoins du français.
 
-Sa finalité est de fournir aux bépoïstes une technique d’écriture accélérée sur leur clavier de tous les jours - par opposition à une machine de sténo - sans les contraindre à apprendre une nouvelle disposition. 
+La finalité du plug-in est de fournir aux bépoïstes une technique d’écriture accélérée sur leur clavier de tous les jours - par opposition à une machine de sténo - sans les contraindre à apprendre une nouvelle disposition. 
 En reposant sur une disposition déjà connue du bépoïste, le temps nécessaire à l’apprentissage de la sténo est fortement réduit.
 
 Le plug-in tient sur deux piliers: le bépo modifié pour la sténo, et le dictionnaire. Pour ce dernier, j’ai modifié le dictionnaire open-source du plug-in [Plover-France](https://github.com/azizyemloul/plover-france), en l’adaptant un peu aux contraintes du bépo.
@@ -67,8 +68,8 @@ Le plug-in tient sur deux piliers: le bépo modifié pour la sténo, et le dicti
 ### Cahier des charges
 - doit tenir sur un clavier ortholinéaire taille 40% (càd. [un planck](https://deskthority.net/wiki/Planck)),
 - doit utiliser la disposition bépo d’origine au maximum, doit modifier la disposition le moins possible.
-- doit avoir un moyen de désambiguiser les mots homophones autant que possible.
-- doit avoir un moyen de désambiguiser les terminaisons des conjugaisons des verbes autant que possible.
+- doit avoir un moyen de désambiguïser les mots homophones autant que possible.
+- doit avoir un moyen de désambiguïser les terminaisons des conjugaisons des verbes autant que possible.
 
 ### La sténo Grandjean
 Cf. [ l'excellent article de Plover France ](https://github.com/azizyemloul/plover-france-dict#%C3%A0-propos-de-la-st%C3%A9notypie) sur le fonctionnement de la sténotypie Grandjean.
@@ -92,10 +93,10 @@ J’ai porté une attention particulière à l’emplacement des lettres de fin 
   3. «£», devenu «l», se place sur «q» (frappe au pouce ou index)
   4. «\*» se place sur «v» (frappe à l'index)
 
-### Désambiguer les homophones
-Parce que le français est une langue orthographique avant que phonétique, et que la sténo est une méthode phonétique avant qu’orthographique, toute transcription sténographique est vouée à souffrir des ambiguités phonétiques de la langue. C’est à dire qu’un même son peut correspondre à plusieurs mots: «ces», «ses», «c’est», «s’est», «sais», «sait»; et que ce son ne peut être sténographié que par une seule frappe: «SE». Cette spécificité du français défie toute méthode de transcription phonétique, et impose l’usage d’un moyen de désambiguiser les orthographies d’un même son. 
+### Désambiguïser les homophones
+Parce que le français est une langue orthographique avant que phonétique, et que la sténo est une méthode phonétique avant qu’orthographique, toute transcription sténographique est vouée à souffrir des ambiguités phonétiques de la langue. C’est à dire qu’un même son peut correspondre à plusieurs mots: «ces», «ses», «c’est», «s’est», «sais», «sait»; et que ce son ne peut être sténographié que par une seule frappe: «SE». Cette spécificité du français défie toute méthode de transcription phonétique, et impose l’usage d’un moyen de désambiguïser les orthographies d’un même son. 
 
-  Plusieurs méthodes de désambiguation sont utilisées par la sténo dans d’autres langues: 
+  Plusieurs méthodes de désambiguïsation sont utilisées par la sténo dans d’autres langues: 
 
     -ajout de frappes-préfixes 
     -ajout de frappes-suffixes
@@ -134,7 +135,7 @@ Un répositoire de scripts en typescript servant à:
   conjuguer les verbes, 
   accorder les noms communs, 
   filtrer les dictionnaires du projet-parent [Plover-France](https://github.com/azizyemloul/plover-france-dict)
-  adjoindre les frappes de désambiguisation, etc.
+  adjoindre les frappes de désambiguïsation, etc.
 
 
 ### À venir:
@@ -144,7 +145,7 @@ Un répositoire de scripts en typescript servant à:
 ##### Feuille de route:
 - Inclure les verbes du premier et deuxième groupe manquants (la liste des frappes à monter est dans le répo «Conjugueur»)
 - Inclure les conjuguaisons du troisième groupe (liste aussi présente dans le «Conjugueur»)
-- Ajouter les frappes de désambiguisation partout où c’est nécessaire et nettoyer le dictionnaire
-- Inclure d’autres touches de désambiguisation (parmi les hypothèses, «Ç» pour désambiguiser les «ses» et «ces»)
+- Ajouter les frappes de désambiguïsation partout où c’est nécessaire et nettoyer le dictionnaire
+- Inclure d’autres touches de désambiguïsation (parmi les hypothèses, «Ç» pour désambiguïser les «ses» et «ces»)
 
 
