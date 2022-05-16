@@ -48,6 +48,6 @@ for line in "${substitutionLines[@]}" ; do
 
     sed "s/$original/$substitute/" $i | sponge $i
     sed "/$fullLine/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
-    sed "/$(echo $line | cut -d: -f1)/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
+    sed "/$(echo $fullLine | cut -d: -f1)/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
   done
 done
