@@ -2978,8 +2978,6 @@
 "KUlD": "culte",
 "KUlD": "kurde",
 "KÉIlD": "kilts",
-"LA": "la",
-"LA": "là",
 "LA$": "lasse",
 "LA$": "lave", "LA/F*": "lave",
 "LA$/TRAl": "l'astral",

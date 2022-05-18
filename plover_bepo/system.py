@@ -3,7 +3,7 @@
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
  'S', 'B', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
- 'O', 'E', 'A', 'U', 'É', 'I', 'l', 'n', '$', 'D', 'C', 
+ 'O', 'E', 'A', 'À', 'U', 'É', 'I', 'l', 'n', '$', 'D', 'C', 
 '#'
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
@@ -26,6 +26,7 @@ KEYMAPS = {
         'L': 'o',
         '$': 'p',
         'A': 'a',
+        'À': 'z',
         'U': 's',
         'É': 'w',
         'I': 'd',

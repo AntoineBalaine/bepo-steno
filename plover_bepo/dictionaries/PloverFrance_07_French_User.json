@@ -99,6 +99,7 @@
   "LA/FEl/*": "l'affaire",
   "LA/K*RI/KUl/TUl": "l'agriculture",
   "LA": "la",
+  "*LA": "la{^ ^}",
   "LA/NEC": "l'année",
   "LA/NE/SAn$": "naissance",
   "LE/LA/BO/RAC": "l'élaboration",
