@@ -29,25 +29,22 @@ if [[ ! -d "$dictionnaryDirectory" ]] ; then
   exit 1
 fi
 
-IFS="
-"
-substitutionLines=( `grep ",\s*\"" $duplicatedKeysFile` )
+mapfile -t substitutionLines < <(grep ",\s*\"" "$duplicatedKeysFile")
+# substitutionLines=( $(grep ",\s*\"" "$duplicatedKeysFile") )
 
 
 for line in "${substitutionLines[@]}" ; do
-  echo $line
-  IFS=, read -ra originalAndSubstitute <<< $line
-  fileNames=( `grep -H -R "${originalAndSubstitute[0]}" "$dictionnaryDirectory" | cut -d: -f1` )
+  IFS=, read -ra originalAndSubstitute <<< "$line"
+  original=$(printf '%s\n' "${originalAndSubstitute[0]}" | sed -e 's/[\/&]/\\&/g')
+  substitute=$(printf '%s\n' "${originalAndSubstitute[1]}" | sed -e 's/[\/&]/\\&/g')
+  fullLine=$(printf '%s\n' "$line" | sed -e 's/[\/&]/\\&/g')
+
+  mapfile -t fileNames < <(grep -H -R "$(printf '\%s' "$original" | sed -e 's/*/\\*/g')" "$dictionnaryDirectory" | cut -d: -f1)
+  # fileNames=( $(grep -H -R "${originalAndSubstitute[0]}" "$dictionnaryDirectory" | cut -d: -f1) )
   for i in "${fileNames[@]}"; do
-    # original=$(printf '%q\n' "${originalAndSubstitute[0]}")
-    # substitute=$(printf '%q\n' "${originalAndSubstitute[1]}")
 
-    original=$(printf '%s\n' "${originalAndSubstitute[0]}" | sed -e 's/[\/&]/\\&/g')
-    substitute=$(printf '%s\n' "${originalAndSubstitute[1]}" | sed -e 's/[\/&]/\\&/g')
-    fullLine=$(printf '%s\n' "$line" | sed -e 's/[\/&]/\\&/g')
-
-    sed "s/$original/$substitute/" $i | sponge $i
-    sed "/$fullLine/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
-    sed "/$(echo $fullLine | cut -d: -f1)/d" $duplicatedKeysFile | sponge $duplicatedKeysFile
+   sed "s/$original/$substitute/" "$i" | sponge "$i"
+   sed "/$fullLine/d" "$duplicatedKeysFile" | sponge "$duplicatedKeysFile"
+   sed "/$(echo "$fullLine" | cut -d: -f1)/d" "$duplicatedKeysFile" | sponge "$duplicatedKeysFile"
   done
 done

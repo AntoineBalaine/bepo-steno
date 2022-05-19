@@ -30,7 +30,7 @@ for ((i = 0;  i< ${#filesList[@]}; i++)); do
     fileA="${filesList[$i]}"
     fileB="${filesToProcess[$j]}"
 
-    duplicatedKeys+=( `grep -f <(grep -o ^\s*[^:]*: $fileA) $fileB` )
+    duplicatedKeys+=( $(grep -f <(grep -o ^\s*[^:]*: $fileA) $fileB) )
   done
 done
 
@@ -47,5 +47,5 @@ do
 done
 
 
-echo "${outputKeys[@]}" | sort >> duplicatedKeys.json
+echo "${outputKeys[@]}" | sort >> duplicatedKeysModif.json
 
