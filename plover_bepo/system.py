@@ -3,7 +3,7 @@
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
  'S', 'B', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
- 'O', 'E', 'È', 'A', 'À', 'U', 'É', 'I', 'l', 'n', '$', 'D', 'C', 
+ 'O', 'E', 'È', 'A', 'À', 'U', 'I', 'l', 'É', 'n', '$', 'D', 'C', 
 '#'
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
