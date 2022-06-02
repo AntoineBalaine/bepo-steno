@@ -1,3 +1,642 @@
+acétobacter
+afrikander
+afrikaner
+alandier
+albergier
+alevinier
+alfatier
+allumettier
+amadouvier
+amidonnier
+amylobacter
+anacardier
+angledozer
+annoncier
+ardoisier
+argousier
+avelinier
+avocassier
+azerolier
+baguenaudier
+baguier
+balisier
+bergamotier
+bessemer
+bigaradier
+blanc-manger
+blister
+bloc-évier
+bobinier
+bocager
+bolier
+bonnetier
+bouchonnier
+boulinier
+boursicotier
+boutonnier
+boyaudier
+brise-fer
+buandier
+buffetier
+buissonnier
+butanier
+buvetier
+cadmier
+cajeputier
+caloyer
+camérier
+carlinguier
+cartier
+casernier
+centenier
+chaisier
+chambrier
+chanvrier
+chartrier
+chaufournier
+chaînier
+chiffrier
+cimentier
+cirier
+clémentinier
+cocréancier
+colzatier
+confer
+contre-fer
+copaïer
+coquillier
+cornier
+corsetier
+coupe-papier
+crabier
+cymbalier
+dentellier
+dinandier
+dominotier
+doublier
+ensemblier
+entrefer
+eye-liner
+fablier
+façonnier
+ferratier
+finassier
+flaconnier
+footballer
+fouacier
+franc-quartier
+freezer
+févier
+gabarrier
+galonnier
+garde-manger
+gattilier
+gazetier
+giletier
+gobeletier
+gonfanonier
+goyavier
+grainier
+gravatier
+hauturier
+heaumier
+hebdomadier
+horse-power
+houblonnier
+houppier
+hurdler
+icaquier
+indigotier
+ivoirier
+jambosier
+jamerosier
+jaquier
+kasher
+laisser-aller
+laissez-passer
+lamier
+langoustier
+languier
+lanier
+lantanier
+latanier
+layetier
+limettier
+linier
+magnanier
+manglier
+manœuvrier
+massier
+matinier
+messier
+meulier
+minaudier
+minnesinger
+minutier
+morutier
+moulinier
+moyen-courrier
+mulassier
+muscadier
+médaillier
+médicinier
+ménétrier
+méthanier
+navier
+obier
+oeufrier
+onglier
+pantouflier
+parcheminier
+parurier
+paumier
+peignier
+perlier
+pertuisanier
+pilulier
+pincelier
+piroguier
+pis-aller
+plumassier
+pontier
+potinier
+poucier
+pressier
+propanier
+proyer
+prébendier
+prêts-à-porter
+putassassier
+péageer
+péronier
+quartanier
+quassier
+quillier
+radioreporter
+regrattier
+remisier
+robinetier
+rocker
+rocouyer
+rollier
+rondier
+roselier
+rubanier
+régatier
+résinier
+sapotier
+scraper
+scrubber
+sottisier
+soudier
+souffletier
+sourcilier
+sous-brigadier
+sous-clavier
+spalter
+sparganier
+spirifer
+stadhouder
+stathouder
+statthalter
+stéarinier
+suifer
+superwelter
+surloyer
+tabletier
+tamier
+tamisier
+taulier
+taupier
+teen-ager
+terre-neuvier
+tourier
+tuilier
+tullier
+tunnelier
+vaccinier
+vanillier
+veloutier
+vinaigrier
+violier
+virolier
+vomer
+vomiquier
+wagonnier
+walk-over
+weber
+zonier
+ébénier
+échelier
+épinglier
+étalier
+Länder
+cônir
+dahir
+hâloir
+ridoir
+rodoir
+alésoir
+drayoir
+fichoir
+fondoir
+fossoir
+germoir
+grésoir
+guipoir
+jabloir
+juchoir
+linsoir
+nichoir
+pendoir
+planoir
+rifloir
+rouloir
+régloir
+tordoir
+affiloir
+arrêtoir
+bobinoir
+bourroir
+enrayoir
+gaufroir
+greffoir
+grugeoir
+houssoir
+marquoir
+moussoir
+plomboir
+purgeoir
+saignoir
+soufroir
+voussoir
+à-valoir
+ébarboir
+émondoir
+accordoir
+aspersoir
+découpoir
+mouilloir
+rouissoir
+ébauchoir
+écharnoir
+égrappoir
+égrugeoir
+émouchoir
+dégorgeoir
+nonchaloir
+surmontoir
+ébranchoir
+étrangloir
+aplatissoir
+déchargeoir
+saupoudroir
+vendangeoir
+échenilloir
+écussonnoir
+agenouilloir
+emboutissoir
+faire-valoir
+équarrissoir
+sous-comptoir
+transplantoir
+bouton-poussoir
+wagon-réservoir
+épair
+képhir
+cinétir
+duumvir
+décemvir
+rivulair
+septemvir
+contre-vair
+demi-soupir
+
+chaire
+cheire
+praire
+cataire
+laraire
+pilaire
+repaire
+triaire
+tubaire
+ulmaire
+vinaire
+épiaire
+actuaire
+corsaire
+foliaire
+libraire
+limbaire
+miliaire
+nectaire
+ouï-dire
+planaire
+pulpaire
+quinaire
+radiaire
+rétiaire
+soléaire
+thonaire
+uvulaire
+vaccaire
+valvaire
+élitaire
+aréolaire
+bien-dire
+bifilaire
+cométaire
+dipolaire
+disquaire
+donataire
+décadaire
+locataire
+loculaire
+loricaire
+légataire
+minutaire
+nodulaire
+partiaire
+pilulaire
+pulicaire
+tarifaire
+tumulaire
+vacataire
+veuglaire
+vitulaire
+aciculaire
+adversaire
+annuitaire
+antiquaire
+armillaire
+caudataire
+coplanaire
+cymbalaire
+dentelaire
+dignitaire
+fistulaire
+lamellaire
+lucernaire
+mamillaire
+matricaire
+micellaire
+pariétaire
+partenaire
+persicaire
+piaculaire
+présalaire
+reliquaire
+résiduaire
+sagittaire
+septénaire
+signataire
+stipulaire
+sursalaire
+tabellaire
+uliginaire
+unifilaire
+vacuolaire
+valvulaire
+vexillaire
+abdicataire
+aliénataire
+allocataire
+allocutaire
+apophysaire
+baptistaire
+biloculaire
+calcéolaire
+catilinaire
+colocataire
+colégataire
+diamantaire
+dédicataire
+délégataire
+dépositaire
+fibrillaire
+finalitaire
+flagellaire
+frumentaire
+indivisaire
+moscoutaire
+naviculaire
+operculaire
+optionnaire
+phytozoaire
+prestataire
+pédiculaire
+scutellaire
+sermonnaire
+serpentaire
+surproduire
+tronculaire
+unilinéaire
+utriculaire
+voluptuaire
+attributaire
+bimillénaire
+cosignataire
+destinataire
+endossataire
+factionnaire
+hématozoaire
+indemnitaire
+inégalitaire
+multifilaire
+pamphlétaire
+particulaire
+pensionnaire
+phagocytaire
+portionnaire
+postscolaire
+primipilaire
+propriétaire
+préciputaire
+préglaciaire
+prémilitaire
+pédicellaire
+pédonculaire
+résignataire
+savoir-faire
+scripturaire
+stipendiaire
+subliminaire
+suburbicaire
+syndicataire
+tortionnaire
+transpolaire
+triloculaire
+uniloculaire
+vestibulaire
+adjudicataire
+alluvionnaire
+circumpolaire
+commanditaire
+commendataire
+concordataire
+consignataire
+corpusculaire
+discothécaire
+décisionnaire
+fonctionnaire
+interbancaire
+interlinéaire
+interoculaire
+intervallaire
+juxtalinéaire
+latifundiaire
+latitudinaire
+munitionnaire
+plébiscitaire
+polynucléaire
+postglaciaire
+proconsulaire
+protestataire
+périglaciaire
+pétitionnaire
+religionnaire
+renonciataire
+récipiendaire
+sacramentaire
+tractionnaire
+trigémellaire
+usufructuaire
+abandonnataire
+appendiculaire
+bibliothécaire
+bucco-dentaire
+chirographaire
+copropriétaire
+domiciliataire
+entrepositaire
+infraliminaire
+instrumentaire
+intranucléaire
+microglossaire
+multitubulaire
+nivo-glaciaire
+paralittéraire
+phytosanitaire
+réceptionnaire
+réclusionnaire
+saint-nectaire
+sous-locataire
+sous-orbitaire
+supraliminaire
+traditionnaire
+commissionnaire
+coreligionnaire
+demi-circulaire
+extracellulaire
+extrajudiciaire
+grand-angulaire
+génito-urinaire
+intermusculaire
+intracellulaire
+nu-propriétaire
+permissionnaire
+pluricellulaire
+pseudo-bulbaire
+semi-auxiliaire
+soumissionnaire
+sous-prolétaire
+sous-scapulaire
+équimoléculaire
+autogestionnaire
+contresignataire
+fidéicommissaire
+intermoléculaire
+intramoléculaire
+manutentionnaire
+nue-propriétaire
+subdivisionnaire
+antiparlementaire
+antiréglementaire
+demi-pensionnaire
+compromissionnaire
+interparlementaire
+extra-parlementaire
+intra-communautaire
+sous-bibliothécaire
+hospitalo-universitaire
+bétoire
+doloire
+mémoire
+drayoire
+ducroire
+jabloire
+lardoire
+pantoire
+décisoire
+eupatoire
+novatoire
+peignoire
+pétitoire
+captatoire
+collusoire
+dimissoire
+excrétoire
+gestatoire
+polissoire
+ratissoire
+rescisoire
+récursoire
+sécrétoire
+élévatoire
+émonctoire
+épuratoire
+évocatoire
+abrogatoire
+absolutoire
+aspiratoire
+commissoire
+discrétoire
+définitoire
+dénégatoire
+estimatoire
+faldistoire
+fumigatoire
+invitatoire
+possessoire
+résolutoire
+supplétoire
+usurpatoire
+aide-mémoire
+aplatissoire
+expurgatoire
+fidéjussoire
+frustratoire
+fulminatoire
+imprécatoire
+masticatoire
+subrogatoire
+évaporatoire
+articulatoire
+auscultatoire
+conciliatoire
+condamnatoire
+rémunératoire
+sternutatoire
+surérogatoire
+sacrificatoire
+classificatoire
+sous-répertoire
+cardiorespiratoire
+exèdre
+foudre
+gindre
+trièdre
+bélandre
+hexaèdre
+malandre
+heptaèdre
+loi-cadre
+pentaèdre
+parafoudre
+périchondre
+contre-ordre
+wagon-foudre
 dt
 où
 Ada
@@ -197,7 +836,6 @@ bangs
 barns
 bayai
 bayas
-bayer
 bayez
 bayât
 berça
@@ -274,12 +912,10 @@ cyans
 cycas
 cèpes
 cônie
-cônir
 cônis
 cônit
 cônît
 cœurs
-dahir
 dalot
 darce
 derny
@@ -346,6 +982,173 @@ furax
 fèces
 féale
 férié
+adjure
+anoure
+arcure
+cénure
+forure
+lunure
+ménure
+nouure
+oxyure
+panure
+rivure
+râpure
+salure
+silure
+virure
+zonure
+biffure
+chinure
+dasyure
+exhaure
+flexure
+givrure
+hydrure
+jaspure
+lepture
+léonure
+ophiure
+paliure
+pouture
+présure
+rinçure
+ruinure
+râblure
+tissure
+tonture
+vannure
+écalure
+étamure
+évasure
+aperture
+colature
+démêlure
+dérayure
+effanure
+enlevure
+enrayure
+fourbure
+fraisure
+fressure
+gaufrure
+glairure
+gélivure
+incisure
+macroure
+maillure
+mangeure
+mouchure
+niellure
+pédicure
+triplure
+varheure
+vergeure
+ébarbure
+écornure
+angusture
+argenture
+arséniure
+barbelure
+bavochure
+bisulfure
+cadrature
+damassure
+décousure
+déferrure
+emprésure
+enclouure
+enfonçure
+faufilure
+froissure
+gravelure
+grumelure
+mordorure
+palmature
+panachure
+prélature
+rudenture
+siliciure
+sulcature
+tellurure
+tiqueture
+vigneture
+égoutture
+émaillure
+épaufrure
+bichlorure
+contexture
+embourrure
+empointure
+enchâssure
+enfléchure
+enguichure
+enjolivure
+judicature
+modénature
+oxysulfure
+persulfure
+projecture
+propréture
+recourbure
+roquelaure
+saccharure
+sertissure
+ternissure
+troncature
+téléosaure
+écartelure
+étalingure
+acuponcture
+alcoolature
+antimoniure
+aquiculture
+blettissure
+cuniculture
+destructure
+encastelure
+ichtyosaure
+noircissure
+oléiculture
+polysulfure
+pyrogravure
+rembourrure
+riziculture
+rotogravure
+vermiculure
+viniculture
+chantepleure
+demi-reliure
+déchiqueture
+enchevêtrure
+ferricyanure
+floriculture
+ignipuncture
+limniculture
+échauboulure
+enchevauchure
+forcipressure
+héliciculture
+mytiliculture
+osiériculture
+primogéniture
+similigravure
+spongiculture
+sériciculture
+trufficulture
+truiticulture
+tête-de-Maure
+capilliculture
+salmoniculture
+têtes-de-Maure
+conchyliculture
+contresignature
+cuniculiculture
+paralittérature
+technostructure
+électroponcture
+électropuncture
+
 fœtus
 gagas
 gamet
@@ -487,7 +1290,6 @@ marks
 maths
 mayen
 mayes
-mazer
 maïas
 menin
 mesas
@@ -533,7 +1335,6 @@ négus
 nœuds
 oasis
 obels
-obier
 obits
 obèle
 oeuvé
@@ -563,14 +1364,12 @@ pians
 pietà
 pifai
 pifas
-pifer
 pifes
 pifez
 pifât
 pifée
 pifés
 pigea
-piger
 pigez
 pigée
 pigés
@@ -758,7 +1557,6 @@ tænia
 tètes
 tétai
 tétas
-téter
 tétez
 tétât
 tétés
@@ -788,10 +1586,8 @@ vitae
 vivré
 voici
 volis
-vomer
 vulgo
 vécut
-weber
 xyste
 xérus
 xérès
@@ -814,7 +1610,6 @@ zélés
 édams
 éléis
 émets
-épair
 éphod
 épigé
 épode
@@ -826,7 +1621,6 @@ zélés
 îlien
 ISPELL
 Joliot
-Länder
 Pédalo
 Rhodia
 Rhovyl
@@ -857,13 +1651,11 @@ acores
 acérez
 adamar
 adepte
-adjure
 adjuré
 adnées
 adrets
 adulai
 adulas
-aduler
 adules
 adulez
 adulât
@@ -929,7 +1721,6 @@ annaux
 annone
 anodes
 anomie
-anoure
 anurie
 aortes
 apical
@@ -944,7 +1735,6 @@ appuyé
 apside
 aqueux
 archal
-arcure
 ardues
 armets
 arnica
@@ -1031,7 +1821,6 @@ bogies
 boille
 boldos
 bolets
-bolier
 bombyx
 boscos
 boucau
@@ -1050,7 +1839,6 @@ bribes
 bricks
 brifai
 brifas
-brifer
 brifes
 brifez
 brifât
@@ -1067,7 +1855,6 @@ bruira
 bryone
 brélai
 brélas
-bréler
 brélez
 brélât
 brélée
@@ -1098,7 +1885,6 @@ calaos
 calice
 caltai
 caltas
-calter
 caltes
 caltez
 caltât
@@ -1116,7 +1902,6 @@ capuce
 capéez
 carmai
 carmas
-carmer
 carmez
 carmât
 carmée
@@ -1132,19 +1917,16 @@ celons
 celtes
 cerces
 chacun
-chaire
 checks
 cheffe
 cheikh
 cheiks
-cheire
 chelem
 chiite
 chintz
 choeur
 chopai
 chopas
-choper
 chopes
 chopez
 chopât
@@ -1163,7 +1945,6 @@ cidres
 cincle
 cippes
 cireux
-cirier
 cirres
 cirrus
 cistre
@@ -1181,7 +1962,6 @@ comics
 commas
 commit
 commît
-confer
 connut
 conçut
 conçût
@@ -1200,7 +1980,6 @@ coxaux
 coyaus
 coûtai
 coûtas
-coûter
 coûtes
 coûtez
 coûtât
@@ -1213,7 +1992,6 @@ crains
 crambé
 cranai
 cranas
-craner
 cranez
 cranât
 cranée
@@ -1247,7 +2025,6 @@ cynips
 cyprès
 câblot
 cætera
-cénure
 cérame
 cérats
 cérite
@@ -1402,7 +2179,6 @@ exclût
 excusé
 excède
 exècre
-exèdre
 eût-il
 eût-on
 faciès
@@ -1444,8 +2220,6 @@ fontis
 forfis
 forfit
 forfît
-forure
-foudre
 fougea
 fouges
 fougez
@@ -1455,7 +2229,6 @@ fovéas
 foxées
 framée
 frapes
-fraser
 frasil
 frenet
 frisse
@@ -1480,7 +2253,6 @@ fécial
 férial
 fériée
 fériés
-févier
 fût-ce
 fût-il
 fût-on
@@ -1517,7 +2289,6 @@ giboie
 gigues
 gildes
 gilles
-gindre
 glacis
 gliale
 glomes
@@ -1620,7 +2391,6 @@ hydrie
 hymens
 hymnes
 hyènes
-hâloir
 hâtifs
 hélons
 hémine
@@ -1683,7 +2453,6 @@ jaïnas
 jennys
 jerkai
 jerkas
-jerker
 jerkes
 jerkez
 jerkât
@@ -1708,7 +2477,6 @@ kapoks
 karbau
 karman
 karmas
-kasher
 kayacs
 kayaks
 kendos
@@ -1724,7 +2492,6 @@ kouros
 kraals
 krafts
 kurdes
-képhir
 labium
 labiée
 labiés
@@ -1733,10 +2500,8 @@ lactés
 laguis
 laiera
 lairds
-lamier
 lamies
 lanice
-lanier
 lapiaz
 lapsus
 laptot
@@ -1768,7 +2533,6 @@ limnée
 limule
 liners
 lingas
-linier
 linéal
 litchi
 liteau
@@ -1789,7 +2553,6 @@ luisit
 luites
 lumens
 lunchs
-lunure
 lusins
 luzule
 lycose
@@ -1889,7 +2652,6 @@ méfont
 mégohm
 méhara
 méléna
-ménure
 méprit
 méprît
 mérous
@@ -1905,7 +2667,6 @@ napées
 naquit
 natice
 navaux
-navier
 nebkas
 nervin
 neumes
@@ -1930,7 +2691,6 @@ norois
 nostoc
 noueux
 noulet
-nouure
 noyers
 noyons
 nuirai
@@ -1965,7 +2725,6 @@ odéons
 oestre
 oeuvée
 oeuvés
-offrir
 offris
 offrit
 offrît
@@ -2005,7 +2764,6 @@ ovibos
 ovinés
 oxymel
 oxyton
-oxyure
 ozones
 ozonée
 ozonés
@@ -2024,7 +2782,6 @@ paluds
 pancas
 panels
 panics
-panure
 papion
 papule
 par-là
@@ -2043,7 +2800,6 @@ pathos
 pattue
 pausai
 pausas
-pauser
 pausez
 pausât
 pavies
@@ -2138,7 +2894,6 @@ potelé
 pouces
 poupes
 poëles
-praire
 prames
 praxis
 profès
@@ -2150,7 +2905,6 @@ promît
 promût
 proses
 protée
-proyer
 pruine
 prunus
 prèles
@@ -2197,7 +2951,6 @@ pézize
 quartz
 quasis
 quelqú
-querir
 quinze
 quipou
 quipus
@@ -2276,11 +3029,8 @@ riccie
 riciné
 rictus
 ridage
-ridoir
 riffle
 risban
-rivure
-rocker
 rocoua
 rocoue
 rocous
@@ -2288,7 +3038,6 @@ rocoué
 rocqua
 rocque
 rocqué
-rodoir
 rohart
 romano
 rompis
@@ -2307,7 +3056,6 @@ rumens
 ruminé
 râpage
 râpeux
-râpure
 récrit
 rédies
 réduis
@@ -2339,7 +3087,6 @@ salmis
 salols
 salsas
 salses
-salure
 samare
 sambas
 samits
@@ -2390,7 +3137,6 @@ shimmy
 shunts
 sialis
 silphe
-silure
 silves
 sinité
 sirlis
@@ -2464,7 +3210,6 @@ suette
 suffit
 suifai
 suifas
-suifer
 suifes
 suifez
 suifât
@@ -2481,7 +3226,6 @@ supère
 surahs
 surate
 surfas
-surfer
 surfes
 surfez
 surfis
@@ -2515,7 +3259,6 @@ tafias
 tagète
 talweg
 tamias
-tamier
 tamils
 tandis
 tanins
@@ -2540,7 +3283,6 @@ tendra
 tendît
 tenrec
 tenson
-tercer
 tercez
 tercée
 tercés
@@ -2690,7 +3432,6 @@ vingts
 vireur
 vireux
 virose
-virure
 viseux
 vivrée
 vivrés
@@ -2736,8 +3477,6 @@ zeugma
 zeugme
 zonale
 zonaux
-zonier
-zonure
 zooïde
 zoïles
 zygène
@@ -2849,7 +3588,6 @@ adipose
 adipsie
 adjurai
 adjuras
-adjurer
 adjures
 adjurez
 adjurât
@@ -2898,7 +3636,6 @@ agréent
 agrégea
 agrégez
 agréons
-aguiser
 agérate
 ailante
 ailloli
@@ -2941,7 +3678,6 @@ alvéolé
 alépine
 alésage
 aléseur
-alésoir
 alésons
 amadous
 amarile
@@ -2994,7 +3730,6 @@ appelle
 appuies
 appuyai
 appuyas
-appuyer
 appuyez
 appuyât
 appuyée
@@ -3053,7 +3788,6 @@ attelez
 attende
 attends
 attiras
-attirer
 attires
 attirez
 attirât
@@ -3078,13 +3812,11 @@ azurite
 aïeules
 aïkidos
 badiane
-baguier
 baierai
 baieras
 baierez
 baillai
 baillas
-bailler
 baillez
 baillât
 baillée
@@ -3142,7 +3874,6 @@ bicarré
 bidents
 bielles
 biffage
-biffure
 bifocal
 bifteck
 bigames
@@ -3169,7 +3900,6 @@ bitords
 biveaux
 blablas
 blendes
-blister
 blondel
 blutage
 blèches
@@ -3181,7 +3911,6 @@ blêmant
 blêmera
 blêmiez
 blêmons
-bocager
 bocards
 bogheis
 boilles
@@ -3217,7 +3946,6 @@ brandes
 brassin
 brellai
 brellas
-breller
 brellez
 brellât
 brellée
@@ -3255,7 +3983,6 @@ brélées
 brévité
 bubales
 buccins
-buffler
 bugrane
 burelle
 burelée
@@ -3273,7 +4000,6 @@ bédégar
 bégaies
 bélière
 bélugas
-bétoire
 bétyles
 bêchage
 cacaoté
@@ -3281,7 +4007,6 @@ cacolet
 cadença
 cadmiai
 cadmias
-cadmier
 cadmies
 cadmiez
 cadmiât
@@ -3302,7 +4027,6 @@ caletez
 calette
 calices
 calleux
-caloyer
 caltais
 caltait
 caltant
@@ -3356,7 +4080,6 @@ carolus
 carpeau
 carroie
 cartels
-cartier
 carénez
 casbahs
 casseau
@@ -3365,7 +4088,6 @@ casuels
 caséfia
 caséfie
 caséfié
-cataire
 caudaux
 causale
 causals
@@ -3404,7 +4126,6 @@ chicons
 chiffes
 chiites
 chinage
-chinure
 chitons
 chleuhe
 choeurs
@@ -3437,7 +4158,6 @@ cicéros
 cigales
 cilices
 cincles
-cinétir
 cirages
 ciriers
 cirière
@@ -3498,13 +4218,11 @@ convive
 convoie
 conçois
 conçoit
-copaïer
 copiste
 coprahs
 coquard
 corbins
 cornacs
-cornier
 corozos
 coryzas
 cosaque
@@ -3529,7 +4247,6 @@ coûteux
 coûtiez
 coûtons
 coûtées
-crabier
 crabots
 craigne
 craints
@@ -3639,7 +4356,6 @@ daphnés
 daraise
 darique
 dartois
-dasyure
 datages
 dateuse
 daubeur
@@ -3686,7 +4402,6 @@ dizains
 dociles
 dodinai
 dodinas
-dodiner
 dodines
 dodinez
 dodinât
@@ -3695,7 +4410,6 @@ dodinés
 doggers
 doleaux
 dolmans
-doloire
 dolosif
 domisme
 donacie
@@ -3710,13 +4424,11 @@ douteux
 douvain
 dracéna
 draiera
-drayoir
 drennes
 droguet
 drontes
 droppai
 droppas
-dropper
 droppes
 droppez
 droppât
@@ -3730,7 +4442,6 @@ dupeurs
 dupeuse
 duramen
 duratif
-duumvir
 duvetez
 duvette
 duègnes
@@ -3782,7 +4493,6 @@ défèque
 défères
 déférai
 déféras
-déférer
 déférez
 déférât
 déférée
@@ -3792,7 +4502,6 @@ défîtes
 dégelez
 dégotai
 dégotas
-dégoter
 dégotes
 dégotez
 dégotât
@@ -3806,7 +4515,6 @@ dégîtez
 déistes
 déjetez
 déjette
-délacer
 délaces
 délacez
 délacée
@@ -3837,13 +4545,11 @@ dépeçât
 déplaît
 déports
 déragea
-dérager
 dérages
 déragez
 déraies
 détalai
 détalas
-détaler
 détales
 détalez
 détalât
@@ -3857,7 +4563,6 @@ détiens
 détient
 détonai
 détonas
-détoner
 détones
 détonez
 détonât
@@ -3876,11 +4581,9 @@ effréné
 elbeufs
 embatte
 embattu
-emboire
 embuvez
 embêtai
 embêtas
-embêter
 embêtes
 embêtez
 embêtât
@@ -3898,13 +4601,11 @@ empuses
 empyème
 empênai
 empênas
-empêner
 empênes
 empênez
 empênât
 empênée
 empênés
-encoure
 encours
 encourt
 encouru
@@ -3919,7 +4620,6 @@ engrois
 enjoins
 enlevai
 enlevas
-enlever
 enlevez
 enlevât
 enlevée
@@ -3929,14 +4629,12 @@ ennuies
 ennuyez
 ennéade
 enquise
-enrager
 enrages
 enragez
 enraies
 enraqua
 enrênai
 enrênas
-enrêner
 enrênes
 enrênez
 enrênât
@@ -3944,7 +4642,6 @@ enrênée
 enrênés
 enrôlai
 enrôlas
-enrôler
 enrôles
 enrôlez
 enrôlât
@@ -3982,7 +4679,6 @@ exclura
 excrète
 excusai
 excusas
-excuser
 excusez
 excusât
 excusée
@@ -3991,7 +4687,6 @@ excèdes
 exerçai
 exerças
 exerçât
-exhaure
 exiguës
 exocets
 exogame
@@ -4001,7 +4696,6 @@ extrais
 exècres
 exèdres
 exégète
-fablier
 factage
 factors
 fadings
@@ -4060,7 +4754,6 @@ festifs
 festoie
 fibreux
 ficelez
-fichoir
 fictifs
 fidèles
 figeons
@@ -4083,7 +4776,6 @@ fla-fla
 flaches
 flagada
 flapies
-flexure
 flipots
 flocage
 flouves
@@ -4097,7 +4789,6 @@ flûteau
 foireux
 foliacé
 foliots
-fondoir
 fonçons
 forceps
 forfera
@@ -4109,7 +4800,6 @@ fortuné
 forures
 forçons
 fossoie
-fossoir
 foudres
 fougeai
 fougeas
@@ -4130,7 +4820,6 @@ framées
 frasils
 fraters
 frayage
-freezer
 freinte
 frileux
 friquet
@@ -4220,7 +4909,6 @@ genépis
 gerbage
 gerbeur
 germens
-germoir
 gerseau
 gerçais
 gerçait
@@ -4234,7 +4922,6 @@ ginguet
 ginkgos
 girasol
 givreux
-givrure
 glabres
 glaceur
 glaceux
@@ -4270,7 +4957,6 @@ grevons
 gri-gri
 grignai
 grignas
-grigner
 grignes
 grignez
 grignon
@@ -4294,18 +4980,15 @@ grécité
 grésage
 gréseux
 grésils
-grésoir
 grésons
 gueltes
 guibole
 guibres
 guideau
 guipage
-guipoir
 guivrée
 guivrés
 guldens
-guniter
 gunites
 guèbres
 gymnote
@@ -4372,11 +5055,9 @@ houleux
 houques
 hourdai
 hourdas
-hourder
 hourdes
 hourdez
 hourdie
-hourdir
 hourdis
 hourdit
 hourdât
@@ -4395,13 +5076,11 @@ humours
 humérus
 huottes
 huppées
-hurdler
 hutinet
 hyaline
 hyalins
 hyalite
 hydries
-hydrure
 hyoïdes
 hypogés
 hypéron
@@ -4495,7 +5174,6 @@ isthmes
 itérons
 ivraies
 jabirus
-jabloir
 jacobus
 jaconas
 jacquet
@@ -4504,13 +5182,11 @@ jacqués
 jadéite
 jambose
 jangada
-jaquier
 jardons
 jarosse
 jaseran
 jaseurs
 jaseuse
-jaspure
 jattées
 jaugeur
 javarts
@@ -4537,7 +5213,6 @@ joujoux
 jovials
 joviens
 jubarte
-juchoir
 judelle
 judokas
 jugeons
@@ -4607,7 +5282,6 @@ laniers
 lapilli
 laptots
 laqueux
-laraire
 larvées
 laryngé
 lascifs
@@ -4622,7 +5296,6 @@ laïcats
 laïques
 lendits
 lentigo
-lepture
 leucine
 leucite
 leucome
@@ -4654,7 +5327,6 @@ liniers
 linkage
 linnéen
 linsang
-linsoir
 linters
 linéale
 linéaux
@@ -4716,7 +5388,6 @@ lysines
 lèguent
 légiste
 lénitif
-léonure
 lépisme
 lépreux
 lésante
@@ -4725,7 +5396,6 @@ lévirat
 ma-jong
 macquai
 macquas
-macquer
 macques
 macquez
 macquât
@@ -4786,7 +5456,6 @@ maroute
 marries
 marrube
 marxien
-massier
 mastics
 matages
 mathabx
@@ -4804,7 +5473,6 @@ meistre
 mellite
 mellâhs
 membrus
-menacer
 menacez
 menacée
 menacés
@@ -4818,8 +5486,6 @@ merguez
 merlins
 merlons
 messers
-messier
-meulier
 mi-fins
 mi-voix
 micacée
@@ -4865,7 +5531,6 @@ morfaux
 morfils
 morguai
 morguas
-morguer
 morguez
 morguât
 morguée
@@ -4940,7 +5605,6 @@ méioses
 mélaena
 mélitte
 mélénas
-mémoire
 méningé
 ménures
 méplate
@@ -4981,7 +5645,6 @@ neutres
 niables
 niaouli
 nichets
-nichoir
 nilgaut
 nivales
 nivelez
@@ -5040,7 +5703,6 @@ obtenus
 obtiens
 obtient
 obvenez
-obvenir
 obviens
 obérons
 ocellée
@@ -5087,7 +5749,6 @@ onciale
 onciaux
 ondoies
 ondoyez
-onglier
 ongulée
 ont-ils
 onzains
@@ -5099,7 +5760,6 @@ oolithe
 oospore
 opaques
 ophites
-ophiure
 opuntia
 opérons
 orageux
@@ -5147,7 +5807,6 @@ pairies
 pairles
 pajotai
 pajotas
-pajoter
 pajotes
 pajotez
 pajotât
@@ -5155,7 +5814,6 @@ pajotée
 pajotés
 paletta
 paletté
-paliure
 pallium
 palléal
 palmite
@@ -5181,7 +5839,6 @@ papyrus
 parados
 parafai
 parafas
-parafer
 parafes
 parafez
 parafât
@@ -5212,7 +5869,6 @@ patards
 patelle
 pattues
 paulien
-paumier
 paumoie
 pausais
 pausait
@@ -5238,14 +5894,12 @@ pellets
 peltées
 peléens
 pendage
-pendoir
 pentane
 pentode
 pentose
 pentues
 peptone
 perchis
-perlier
 permets
 permien
 permise
@@ -5296,7 +5950,6 @@ pigions
 pigiste
 pignada
 pignade
-pilaire
 pileurs
 pilleux
 pilotis
@@ -5335,7 +5988,6 @@ plagaux
 plaigne
 plaints
 planage
-planoir
 planèze
 plasmas
 plastes
@@ -5383,7 +6035,6 @@ pondrai
 pondras
 pondrez
 pondues
-pontier
 pontils
 ponçons
 poplité
@@ -5397,13 +6048,11 @@ potards
 potelée
 potelés
 potencé
-poucier
 pouding
 pouliot
 poulote
 poupins
 pourvut
-pouture
 praires
 pralins
 priante
@@ -5444,7 +6093,6 @@ prélegs
 préoral
 prépaie
 présura
-présure
 présuré
 prévint
 psoques
@@ -5476,7 +6124,6 @@ pythien
 pyuries
 pyélite
 pèchent
-péageer
 pébrine
 pébrocs
 pécaïre
@@ -5532,7 +6179,6 @@ raieras
 raierez
 raisiné
 ramagea
-ramager
 ramagez
 ramagée
 ramagés
@@ -5559,8 +6205,6 @@ rassoie
 rassois
 rassoit
 ratiers
-raucher
-rauquer
 rauques
 ravelin
 rayères
@@ -5571,7 +6215,6 @@ rebrûlé
 recelez
 recepai
 recepas
-receper
 recepez
 recepât
 recepée
@@ -5580,14 +6223,12 @@ recevez
 recevra
 recolai
 recolas
-recoler
 recoles
 recolez
 recolât
 recolée
 recolés
 recouds
-recoure
 recours
 recourt
 recouru
@@ -5657,7 +6298,6 @@ rendors
 rendort
 repaies
 repaira
-repaire
 repairé
 reparte
 reparue
@@ -5737,11 +6377,9 @@ ridages
 ridoirs
 riffles
 rififis
-rifloir
 rigotte
 rimayes
 rinçons
-rinçure
 ripieno
 rippers
 risbans
@@ -5757,7 +6395,6 @@ rockers
 rockets
 rocouai
 rocouas
-rocouer
 rocoues
 rocouez
 rocouât
@@ -5765,14 +6402,12 @@ rocouée
 rocoués
 rocquai
 rocquas
-rocquer
 rocques
 rocquez
 rocquât
 rodoirs
 rognage
 roharts
-rollier
 romands
 romanos
 romprai
@@ -5780,7 +6415,6 @@ rompras
 romprez
 ronceux
 rondeau
-rondier
 rosacée
 rosacés
 roselet
@@ -5790,7 +6424,6 @@ rotacés
 rotangs
 rotarys
 rotures
-rouloir
 rouvrez
 rouvris
 rouvrit
@@ -5805,16 +6438,13 @@ rudéral
 rufians
 rugueux
 ruineux
-ruinure
 ruminai
 ruminas
-ruminer
 rumines
 ruminez
 ruminât
 ruminée
 ruminés
-râblure
 râlants
 râpages
 râpures
@@ -5831,13 +6461,11 @@ récrive
 récrées
 récréez
 réduira
-réduire
 réduise
 réduves
 référez
 régents
 réglets
-régloir
 réglons
 régnons
 rémoras
@@ -5865,7 +6493,6 @@ sachems
 sacomes
 sacquai
 sacquas
-sacquer
 sacques
 sacquez
 sacquât
@@ -5939,10 +6566,8 @@ scolies
 scopies
 scoties
 scoured
-scraper
 scutums
 sebkhas
-secoure
 secourt
 secouru
 seguias
@@ -5999,7 +6624,6 @@ sodokus
 soffite
 soignai
 soignas
-soigner
 soignes
 soignez
 soignât
@@ -6016,12 +6640,10 @@ soprano
 sorghos
 sorguai
 sorguas
-sorguer
 sorgues
 sorguez
 sorguât
 soudans
-soudier
 soudoie
 soulane
 soultes
@@ -6038,7 +6660,6 @@ souvint
 souvînt
 soûlote
 spadice
-spalter
 spartes
 spathes
 speechs
@@ -6168,7 +6789,6 @@ sévères
 sézigue
 tabards
 tablars
-tabouer
 taboués
 tachine
 tacites
@@ -6210,8 +6830,6 @@ tarsale
 tarsaux
 tartans
 tatares
-taulier
-taupier
 taupins
 tauzins
 tavelez
@@ -6226,7 +6844,6 @@ teignît
 teindra
 teintai
 teintas
-teinter
 teintez
 teintât
 teintée
@@ -6283,7 +6900,6 @@ timorés
 tinamou
 tincals
 tintins
-tissure
 tocante
 tolites
 toluols
@@ -6301,7 +6917,6 @@ tondrai
 tondras
 tondrez
 tondues
-tonture
 toquets
 torchis
 torcols
@@ -6309,7 +6924,6 @@ tordais
 tordait
 tordent
 tordiez
-tordoir
 tordons
 tordrai
 tordras
@@ -6322,7 +6936,6 @@ toréons
 toucans
 touchau
 tourets
-tourier
 touries
 tournis
 toutims
@@ -6334,7 +6947,6 @@ trapues
 trayeur
 traçons
 triages
-triaire
 tribade
 triceps
 trifide
@@ -6346,7 +6958,6 @@ tripale
 tripous
 trismus
 trisocs
-trièdre
 troches
 trochet
 trochin
@@ -6364,7 +6975,6 @@ trépans
 tss-tss
 tsé-tsé
 tuables
-tubaire
 tubifex
 tubiste
 tubulée
@@ -6372,8 +6982,6 @@ tubulés
 tufeaux
 tufiers
 tuileau
-tuilier
-tullier
 tumulus
 tungars
 tuniqué
@@ -6406,7 +7014,6 @@ tétâmes
 tétâtes
 têteaux
 ulcérez
-ulmaire
 ultimes
 uncinée
 uncinés
@@ -6445,7 +7052,6 @@ valvées
 vanesse
 vanillé
 vannage
-vannure
 vapeurs
 variolé
 varlets
@@ -6493,10 +7099,8 @@ videuse
 vidimus
 vignots
 vinages
-vinaire
 vinique
 violats
-violier
 virelai
 vireton
 vireurs
@@ -6602,8 +7206,6 @@ zézaies
 éboulis
 éburnée
 éburnés
-ébénier
-écalure
 écharde
 échidné
 écimage
@@ -6645,7 +7247,6 @@ zézaies
 énarque
 énièmes
 énormes
-énuquer
 éocènes
 éolithe
 éosines
@@ -6658,7 +7259,6 @@ zézaies
 épervin
 éphores
 épiages
-épiaire
 épicène
 épicéas
 épieurs
@@ -6695,12 +7295,10 @@ zézaies
 éruptif
 ésérine
 étaiera
-étalier
 étalisa
 étalise
 étalisé
 étamage
-étamure
 éteigne
 étendes
 étendez
@@ -6726,7 +7324,6 @@ zézaies
 étêtent
 étêtons
 évasifs
-évasure
 évidage
 évitage
 îlienne
@@ -6766,7 +7363,6 @@ abortifs
 aboulies
 aboyeuse
 abrivent
-abréagir
 abrégeai
 abrégeas
 abrégeât
@@ -6795,7 +7391,6 @@ actinite
 actinium
 actinote
 activeur
-actuaire
 acuminée
 acuminés
 acétates
@@ -6817,7 +7412,6 @@ adjurons
 adjurées
 adjuvats
 adoptifs
-adsorber
 adstrats
 adulasse
 adulerai
@@ -6835,13 +7429,11 @@ adénoïde
 aegosome
 aeschnes
 affables
-affairer
 affairez
 affameur
 affenage
 affidées
 affilage
-affiloir
 affixale
 affixaux
 affrétez
@@ -6867,7 +7459,6 @@ agnelets
 agnelins
 agnelons
 agnosies
-agrainer
 agraires
 agraphie
 agriotes
@@ -6887,7 +7478,6 @@ aillolis
 aimables
 akinésie
 akvavits
-alandier
 alanines
 alastrim
 alaterne
@@ -6904,7 +7494,6 @@ alcoyles
 aleurite
 aleurode
 aleurone
-alfatier
 algidité
 alginate
 algèbres
@@ -6934,7 +7523,6 @@ alouates
 alpistes
 alternai
 alternas
-alterner
 alternes
 alternez
 alternât
@@ -7029,7 +7617,6 @@ aoûtiens
 apagogie
 apathies
 apepsies
-aperture
 aphasies
 aphonies
 aphylles
@@ -7083,7 +7670,6 @@ arrachis
 arrimeur
 arriérez
 arroches
-arrêtoir
 arsenics
 arsénite
 artimons
@@ -7127,7 +7713,6 @@ attendez
 attendis
 attendit
 attendra
-attendre
 attendît
 attirais
 attirait
@@ -7193,7 +7778,6 @@ baillées
 balaiera
 balanite
 baliseur
-balisier
 balivage
 ballotes
 balèvres
@@ -7256,7 +7840,6 @@ berçante
 berçasse
 berçâmes
 berçâtes
-bessemer
 beylical
 beylicat
 beylisme
@@ -7285,7 +7868,6 @@ biotopes
 biotypes
 bioxydes
 bipartie
-bipasser
 bipennée
 bipennés
 biphasée
@@ -7317,8 +7899,6 @@ blêmeras
 blêmerez
 blêmions
 bobineur
-bobinier
-bobinoir
 bocagers
 boisages
 boiseurs
@@ -7358,7 +7938,6 @@ bouletés
 bouliste
 bouloirs
 bourbeux
-bourroir
 bourrues
 boutefeu
 boutoirs
@@ -7429,7 +8008,6 @@ brélâmes
 brélâtes
 brévités
 brûlages
-buandier
 buglosse
 bugranes
 bulbille
@@ -7439,7 +8017,6 @@ burelles
 burelées
 burinage
 burineur
-butanier
 buttages
 buttoirs
 butylène
@@ -7447,7 +8024,6 @@ butyrate
 butyreux
 butyrine
 buvables
-buvetier
 buveuses
 bâclages
 bâfreuse
@@ -7459,7 +8035,6 @@ bégaient
 bégaiera
 béguetez
 béjaunes
-bélandre
 bélières
 bélougas
 bélîtres
@@ -7537,7 +8112,6 @@ cameline
 camelles
 campanes
 caméline
-camérier
 cancales
 candelas
 candides
@@ -7603,7 +8177,6 @@ carrelle
 carricks
 carroies
 carroyez
-cartayer
 cartiers
 caryopse
 carénons
@@ -7614,7 +8187,6 @@ castines
 casuelle
 caséfiai
 caséfias
-caséfier
 caséfies
 caséfiez
 caséfiât
@@ -7658,7 +8230,6 @@ chabrots
 chacones
 chadburn
 chadoufs
-chaisier
 chalazes
 chamades
 champart
@@ -7675,7 +8246,6 @@ chaufour
 chaulage
 chaînage
 chaîneur
-chaînier
 check-up
 chelléen
 cheptels
@@ -7746,7 +8316,6 @@ clabauds
 clairets
 clampsai
 clampsas
-clampser
 clampses
 clampsez
 clampsât
@@ -7785,7 +8354,6 @@ cohéreur
 cohésifs
 coinçons
 cokeries
-colature
 colineau
 colinots
 colletez
@@ -7827,7 +8395,6 @@ concevra
 conclues
 concluez
 conclura
-concoure
 concours
 concourt
 concouru
@@ -7885,7 +8452,6 @@ corromps
 corrompt
 corroyez
 corrélez
-corsaire
 corsetez
 cosaques
 costales
@@ -7912,7 +8478,6 @@ coûtions
 coûtâmes
 coûtâtes
 crabiers
-craboter
 craignes
 craignez
 craignis
@@ -7922,7 +8487,6 @@ craindra
 cramique
 crampsai
 crampsas
-crampser
 crampses
 crampsez
 crampsât
@@ -7963,7 +8527,6 @@ cuillers
 cuirions
 cuisinai
 cuisinas
-cuisiner
 cuisinez
 cuisinât
 cuisinée
@@ -7989,7 +8552,6 @@ cuvelles
 cuvelons
 cyanurai
 cyanuras
-cyanurer
 cyanures
 cyanurez
 cyanurât
@@ -7998,7 +8560,6 @@ cyanurés
 cyclanes
 cyclisai
 cyclisas
-cycliser
 cyclises
 cyclisez
 cyclisât
@@ -8045,7 +8606,6 @@ côtoyons
 dalleurs
 dalmates
 danaïdes
-dansoter
 daphnies
 daraises
 darbouka
@@ -8071,7 +8631,6 @@ descelle
 descellé
 descends
 descendu
-designer
 despotes
 desquame
 desquamé
@@ -8178,7 +8737,6 @@ dosables
 dotalité
 douaires
 doublets
-doublier
 doucines
 dourines
 douvains
@@ -8197,7 +8755,6 @@ draierez
 draineur
 drapière
 drawback
-drayoire
 drayoirs
 droguets
 droppais
@@ -8210,7 +8767,6 @@ droppons
 droppées
 drumlins
 drummers
-ducroire
 ductiles
 dulcites
 dumpings
@@ -8242,7 +8798,6 @@ débattus
 débattît
 débectai
 débectas
-débecter
 débectes
 débectez
 débectât
@@ -8259,7 +8814,6 @@ décanale
 décanats
 décanaux
 décelons
-décemvir
 décevais
 décevait
 déceviez
@@ -8367,7 +8921,6 @@ dégotons
 dégotées
 dégoûtai
 dégoûtas
-dégoûter
 dégoûtes
 dégoûtez
 dégoûtât
@@ -8413,7 +8966,6 @@ démâtent
 démâtons
 démêlent
 démêlons
-démêlure
 dénoient
 dénoiera
 dénoyons
@@ -8459,7 +9011,6 @@ déragera
 dérageât
 déragiez
 déraiera
-dérayure
 déréglez
 désireux
 déstocke
@@ -8485,7 +9036,6 @@ détendez
 détendis
 détendit
 détendra
-détendre
 détendît
 déteniez
 détenons
@@ -8503,7 +9053,6 @@ détordez
 détordis
 détordit
 détordra
-détordre
 détordue
 détordus
 détordît
@@ -8525,7 +9074,6 @@ eccéités
 ectasies
 ecthymas
 ectopies
-effanure
 effaçons
 effendis
 effilage
@@ -8537,7 +9085,6 @@ embattez
 embattis
 embattit
 embattra
-embattre
 embattue
 embattus
 embattît
@@ -8620,7 +9167,6 @@ enlevait
 enlevant
 enleviez
 enlevons
-enlevure
 enlevées
 enlèvent
 enlèvera
@@ -8650,8 +9196,6 @@ enraiera
 enraquai
 enraquas
 enraquât
-enrayoir
-enrayure
 enrênais
 enrênait
 enrênant
@@ -8679,7 +9223,6 @@ entendit
 entendra
 entendît
 entrains
-entrefer
 entremit
 entremît
 entrevis
@@ -8823,7 +9366,6 @@ faussets
 faverole
 fayottai
 fayottas
-fayotter
 fayottes
 fayottez
 fayottât
@@ -8923,7 +9465,6 @@ foirante
 foirants
 foliacée
 foliacés
-foliaire
 folksong
 fondeuse
 fondoirs
@@ -8958,7 +9499,6 @@ forçages
 fossoies
 fossoirs
 fossoyez
-fouacier
 fouchtra
 fougeais
 fougeait
@@ -8975,7 +9515,6 @@ fouleuse
 fouloirs
 foulques
 fourbues
-fourbure
 fournils
 foutions
 foutrais
@@ -8992,7 +9531,6 @@ fraierez
 frairies
 fraisage
 fraisils
-fraisure
 francien
 francium
 frappage
@@ -9001,7 +9539,6 @@ frayères
 fraîchin
 freezers
 freintes
-fressure
 frettage
 friables
 frigorie
@@ -9077,15 +9614,12 @@ gas-oils
 gaspacho
 gaufrage
 gaufreur
-gaufroir
-gaufrure
 gaulages
 gaullien
 gavaches
 gaveuses
 gavottes
 gazantes
-gazetier
 gazières
 gazoducs
 gaïacols
@@ -9119,7 +9653,6 @@ giboyeux
 giboyons
 gicleurs
 gigognes
-giletier
 gin-fizz
 gingival
 ginguets
@@ -9136,7 +9669,6 @@ givrures
 glaceurs
 glaceuse
 glaireux
-glairure
 glaiseux
 glanages
 glaneurs
@@ -9178,12 +9710,10 @@ gotiques
 goulache
 goulafre
 goutteux
-goyavier
 goûteurs
 grabuges
 gracieux
 graduels
-grainier
 grandets
 graphème
 grassets
@@ -9194,7 +9724,6 @@ graveuse
 gravides
 gredines
 greffeur
-greffoir
 grenelez
 grenelle
 greneurs
@@ -9223,7 +9752,6 @@ grossoie
 groullai
 groullas
 groullât
-grugeoir
 grugeons
 grumelez
 grumelle
@@ -9232,7 +9760,6 @@ gryphées
 grènetis
 grécisai
 grécisas
-gréciser
 grécises
 grécisez
 grécisât
@@ -9245,7 +9772,6 @@ guiboles
 guidages
 guideaux
 guignard
-guignier
 guingois
 guipages
 guipoirs
@@ -9259,7 +9785,6 @@ gypaètes
 gyrostat
 gâchages
 gâtismes
-gélivure
 gémelles
 génitifs
 généreux
@@ -9299,7 +9824,6 @@ hautbois
 havenets
 haveuses
 hawaïens
-heaumier
 heiduque
 helvètes
 herbacée
@@ -9307,11 +9831,9 @@ herbacés
 hermesse
 herniées
 hersages
-herscher
 herseurs
 herseuse
 hexapode
-hexaèdre
 hiatales
 hibernal
 hibiscus
@@ -9339,7 +9861,6 @@ hoquette
 hordéine
 hormonai
 hormonas
-hormoner
 hormonez
 hormonât
 hormonée
@@ -9351,7 +9872,6 @@ hotteret
 houaches
 houaiche
 houlques
-houppier
 hourdage
 hourdais
 hourdait
@@ -9365,7 +9885,6 @@ hourdons
 hourdées
 hourques
 houseaux
-houssoir
 huilages
 huitains
 huitième
@@ -9405,7 +9924,6 @@ hélépole
 hémiones
 hétairie
 ibérides
-icaquier
 icariens
 icefield
 ichtyols
@@ -9417,7 +9935,6 @@ ignivome
 illimité
 imageons
 imaginas
-imaginer
 imagines
 imaginez
 imaginât
@@ -9456,10 +9973,8 @@ inapaisé
 inavouée
 inavoués
 inchangé
-incisure
 incivile
 inclinas
-incliner
 inclines
 inclinez
 inclinât
@@ -9570,9 +10085,7 @@ isopodes
 isosiste
 isotonie
 isotrope
-ivoirier
 jablière
-jabloire
 jabloirs
 jacquets
 jacquots
@@ -9710,21 +10223,18 @@ lamineux
 lampassé
 lancéolé
 langeons
-languier
 lanifère
 lanigère
 lapicide
 laquelle
 laqueuse
 laraires
-lardoire
 larigots
 larmoies
 larmoyez
 laryngée
 laryngés
 lastings
-latanier
 latomies
 lattages
 laudatif
@@ -9733,7 +10243,6 @@ lavarets
 lavatory
 laxismes
 laxistes
-layetier
 lazulite
 lazurite
 laïcisme
@@ -9757,7 +10266,6 @@ levronne
 lexicale
 lexicaux
 liasique
-libraire
 libretti
 libérons
 lieu-dit
@@ -9769,7 +10277,6 @@ ligueuse
 ligulées
 liliacés
 liliales
-limbaire
 limettes
 limeuses
 limicole
@@ -9888,7 +10395,6 @@ macquiez
 macquons
 macquées
 macramés
-macroure
 macérons
 maestoso
 maestros
@@ -9902,7 +10408,6 @@ mahdiste
 mahonnes
 mahratte
 mailings
-maillure
 mainates
 maintins
 maintint
@@ -9916,7 +10421,6 @@ malaires
 malaises
 malaisée
 malaisés
-malandre
 malavisé
 malaxage
 malfaits
@@ -9952,8 +10456,6 @@ mancelle
 mandores
 manetons
 mangeons
-mangeure
-manglier
 manicles
 maniérez
 mannites
@@ -9978,7 +10480,6 @@ margeons
 margeurs
 margotai
 margotas
-margoter
 margotes
 margotez
 margotât
@@ -9991,12 +10492,10 @@ marnages
 marneurs
 maronnai
 maronnas
-maronner
 maronnes
 maronnez
 maronnât
 maroutes
-marquoir
 marrubes
 marsault
 martelez
@@ -10005,13 +10504,11 @@ mascaras
 massiers
 massique
 massorah
-masséter
 mastiffs
 mastites
 masurium
 matefaim
 matinent
-matinier
 matoises
 maubèche
 maugrées
@@ -10055,7 +10552,6 @@ microbus
 midships
 mielleux
 mildious
-miliaire
 millages
 millibar
 milouins
@@ -10064,7 +10560,6 @@ minerves
 minicars
 minimums
 minipage
-minutier
 miocènes
 mirbanes
 mirepoix
@@ -10123,17 +10618,14 @@ morguées
 morphème
 mort-née
 mort-nés
-morutier
 mosaïqué
 mosaïsme
 mosettes
-mouchure
 moufette
 moulière
 mouroirs
 mourrons
 mousseux
-moussoir
 moussues
 moutiers
 moyettes
@@ -10232,7 +10724,6 @@ mévendez
 mévendis
 mévendit
 mévendra
-mévendre
 mévendue
 mévendus
 mévendît
@@ -10264,7 +10755,6 @@ navarque
 navicert
 navicule
 nazismes
-nectaire
 nescafés
 nettetés
 nettoies
@@ -10280,7 +10770,6 @@ nicodème
 nidation
 niellage
 nielleur
-niellure
 nigelles
 nilgauts
 niobiums
@@ -10303,7 +10792,6 @@ nombreux
 non-sens
 non-stop
 non-être
-nonupler
 notables
 notariée
 notariés
@@ -10397,10 +10885,8 @@ oersteds
 oerstite
 oestrale
 oestraux
-oeufrier
 offensai
 offensas
-offenser
 offensez
 offensât
 offensée
@@ -10499,7 +10985,6 @@ oublieux
 ougriens
 ourliens
 ouvreaus
-ouï-dire
 ouïghour
 ouïgours
 ovariens
@@ -10550,7 +11035,6 @@ palataux
 palatins
 palettai
 palettas
-paletter
 palettez
 palettât
 palettée
@@ -10582,14 +11066,12 @@ panicaut
 paniculé
 panmixie
 panorpes
-panosser
 panosses
 panoufle
 pansages
 pantelez
 pantelle
 pantenne
-pantoire
 pantoums
 pantènes
 papables
@@ -10612,7 +11094,6 @@ parafons
 parafées
 parataxe
 parcages
-parcoure
 parcours
 parcourt
 parcouru
@@ -10638,7 +11119,6 @@ parsemez
 parsisme
 partouse
 parulies
-parurier
 parvenez
 parviens
 parvient
@@ -10673,7 +11153,6 @@ pectique
 peelings
 peignage
 peigneur
-peignier
 peinards
 peindrai
 peindras
@@ -10774,7 +11253,6 @@ pignades
 pigèrent
 pilaires
 pilotins
-pilulier
 pinastre
 pinchard
 pinnules
@@ -10811,9 +11289,7 @@ plaignis
 plaignit
 plaignît
 plaindra
-plaindre
 planages
-planaire
 planeuse
 planisme
 planoirs
@@ -10834,7 +11310,6 @@ ploierai
 ploieras
 ploierez
 plombeur
-plomboir
 plommées
 plucheux
 plumetis
@@ -10861,7 +11336,6 @@ pointaux
 pointues
 poirotai
 poirotas
-poiroter
 poirotes
 poirotez
 poirotât
@@ -10925,7 +11399,6 @@ potamots
 potelées
 potencée
 potencés
-potinier
 potières
 pouacres
 pouciers
@@ -10943,7 +11416,6 @@ pouvions
 prescris
 prescrit
 pressens
-pressier
 priantes
 priapées
 prieures
@@ -11024,7 +11496,6 @@ préoraux
 prépaies
 présurai
 présuras
-présurer
 présures
 présurez
 présurât
@@ -11054,14 +11525,12 @@ puddleur
 pudiques
 pugnaces
 puisages
-pulpaire
 pultacée
 pultacés
 puniques
 punitifs
 pupilles
 pur-sang
-purgeoir
 purgeons
 purgeurs
 purismes
@@ -11095,14 +11564,12 @@ péchâmes
 péchâtes
 péclotai
 péclotas
-pécloter
 péclotes
 péclotez
 péclotât
 péculats
 pédiatre
 pédiculé
-pédicure
 pédimane
 pédiment
 pékinées
@@ -11123,7 +11590,6 @@ périgées
 périnéal
 périnées
 périoste
-péronier
 péroxyda
 péroxyde
 péroxydé
@@ -11135,7 +11601,6 @@ pétreuse
 pêchette
 quartile
 quassias
-quassier
 quassine
 quaterne
 quatorze
@@ -11145,8 +11610,6 @@ queusots
 qui-vive
 quichuas
 quiddité
-quillier
-quinaire
 quinaude
 quinauds
 quinines
@@ -11166,7 +11629,6 @@ racinage
 racinaux
 racleurs
 racloirs
-radiaire
 radiance
 radiatif
 radicant
@@ -11197,7 +11659,6 @@ ramagiez
 ramagées
 ramandai
 ramandas
-ramander
 ramandes
 ramandez
 ramandât
@@ -11254,7 +11715,6 @@ rebattra
 rebattît
 rebrûlai
 rebrûlas
-rebrûler
 rebrûles
 rebrûlez
 rebrûlât
@@ -11391,7 +11851,6 @@ remettez
 remettra
 remirent
 remisage
-remisier
 remisses
 remmenez
 remordes
@@ -11399,13 +11858,10 @@ remordez
 remordis
 remordit
 remordra
-remordre
 remordue
 remordus
 remordît
 remoudra
-remoudre
-remouler
 remoules
 remoulez
 remoulue
@@ -11431,7 +11887,6 @@ renvoyez
 repaiera
 repairai
 repairas
-repairer
 repaires
 repairez
 repairât
@@ -11500,7 +11955,6 @@ resurgît
 resèques
 reséquai
 reséquas
-reséquer
 reséquez
 reséquât
 reséquée
@@ -11521,7 +11975,6 @@ retendus
 retendît
 reteniez
 retenons
-retercer
 reterces
 retercez
 retercée
@@ -11537,7 +11990,6 @@ retondez
 retondis
 retondit
 retondra
-retondre
 retondue
 retondus
 retondît
@@ -11627,7 +12079,6 @@ risorius
 risottos
 rivettes
 riveuses
-rivulair
 rizeries
 robelage
 rocouais
@@ -11637,7 +12088,6 @@ rocouent
 rocouera
 rocouiez
 rocouons
-rocouyer
 rocouées
 rocquais
 rocquait
@@ -11669,7 +12119,6 @@ rookerie
 rosacées
 rosalbin
 roselets
-roselier
 rosières
 rossolis
 rostrale
@@ -11692,7 +12141,6 @@ rouvriez
 rouvrira
 rouvrons
 rouvrues
-rubanier
 rubiacée
 rubiacés
 rubicans
@@ -11755,7 +12203,6 @@ réessaie
 réfrénez
 référons
 régalage
-régatier
 régences
 régleurs
 régleuse
@@ -11775,19 +12222,16 @@ répondez
 répondis
 répondit
 répondra
-répondre
 répondue
 répondus
 répondît
 répéteur
 répétons
-résinier
 résolues
 résonant
 résoutes
 résulats
 rétamage
-rétiaire
 rétivité
 révolues
 révélons
@@ -11829,7 +12273,6 @@ sagittés
 sahélien
 saigneur
 saigneux
-saignoir
 sainbois
 saindoux
 saleuses
@@ -11858,7 +12301,6 @@ saphique
 saphènes
 saponacé
 saponine
-sapotier
 sapristi
 sapèques
 sarcleur
@@ -11900,7 +12342,6 @@ schappes
 schapska
 scheidai
 scheidas
-scheider
 scheides
 scheidez
 scheidât
@@ -11928,7 +12369,6 @@ scrapers
 scratchs
 scribans
 scriptes
-scrubber
 secoures
 secourez
 secourra
@@ -12028,7 +12468,6 @@ solfèges
 solidage
 solipède
 solistes
-soléaire
 somation
 songeons
 sont-ils
@@ -12063,7 +12502,6 @@ souffrit
 souffrît
 soufisme
 soufreur
-soufroir
 soulanes
 soulevez
 soumette
@@ -12104,7 +12542,6 @@ spergule
 spinales
 spinelle
 spiracle
-spirifer
 spirille
 spirorbe
 spitante
@@ -12205,7 +12642,6 @@ sunnites
 superman
 suppliai
 supplias
-supplier
 supplies
 suppliez
 suppliât
@@ -12238,13 +12674,11 @@ surjette
 surlonge
 surlouai
 surlouas
-surlouer
 surloues
 surlouez
 surlouât
 surlouée
 surloués
-surloyer
 surmenez
 surmulet
 suroffre
@@ -12309,7 +12743,6 @@ ségrégée
 sélacien
 sélénite
 sénestre
-sérancer
 sérances
 sérancez
 sérancée
@@ -12339,7 +12772,6 @@ talpacks
 talqueux
 tamandua
 tamarins
-tamisier
 tamoules
 tampicos
 tan-sads
@@ -12363,7 +12795,6 @@ taratata
 tarentes
 tarifiai
 tarifias
-tarifier
 tarifies
 tarifiât
 tarifiée
@@ -12454,7 +12885,6 @@ textuels
 thalamus
 thalwegs
 thermies
-thonaire
 thorines
 thorites
 thoriums
@@ -12578,7 +13008,6 @@ trinités
 tripales
 triphasé
 triplets
-triplure
 tripodie
 tripolis
 trirègne
@@ -12712,8 +13141,6 @@ usuelles
 utopiste
 utricule
 uva-ursi
-uvulaire
-vaccaire
 vacuités
 vacuoles
 vacuomes
@@ -12723,7 +13150,6 @@ valables
 valetera
 valetons
 valettes
-valvaire
 valvules
 vandales
 vanesses
@@ -12739,7 +13165,6 @@ vannures
 vaporeux
 varaigne
 varangue
-varheure
 variants
 varioles
 variolée
@@ -12774,7 +13199,6 @@ verdoyez
 vergette
 vergetée
 vergetés
-vergeure
 vermouts
 verranne
 verrines
@@ -12810,7 +13234,6 @@ vinifère
 viniques
 vinosité
 vinylite
-violeter
 violiers
 violines
 violiste
@@ -12819,7 +13242,6 @@ virelais
 viretons
 vireuses
 virolage
-virolier
 viscache
 viseuses
 visnages
@@ -12847,7 +13269,6 @@ votation
 vousoies
 vousoyez
 vousseau
-voussoir
 vouvoies
 vouvoyez
 voyeuses
@@ -12929,10 +13350,7 @@ zérumbet
 zézaient
 zézaiera
 à-propos
-à-valoir
 ébarbeur
-ébarboir
-ébarbure
 ébattais
 ébattait
 ébattant
@@ -12952,7 +13370,6 @@ zézaiera
 ébéniers
 écalures
 échardes
-échelier
 échidnés
 échéante
 échéants
@@ -12969,7 +13386,6 @@ zézaiera
 éconduis
 économes
 écorceur
-écornure
 écorçons
 écotypes
 écoumène
@@ -13004,7 +13420,6 @@ zézaiera
 élagages
 élançons
 électifs
-élitaire
 élogieux
 élusives
 éluviale
@@ -13028,7 +13443,6 @@ zézaiera
 émissive
 émissole
 émondage
-émondoir
 émottage
 émotteur
 émoulage
@@ -13116,7 +13530,6 @@ zézaiera
 étaliers
 étalisai
 étalisas
-étaliser
 étalises
 étalisez
 étalisât
@@ -13211,7 +13624,6 @@ acalèphes
 accentuel
 accepteur
 accessits
-accordoir
 accouvage
 accélérez
 acerbités
@@ -13320,7 +13732,6 @@ affûtages
 affûteurs
 affûteuse
 affûtiaux
-afrikaner
 agacerais
 agacerait
 agaceriez
@@ -13373,7 +13784,6 @@ akkadiens
 alandiers
 alastrims
 alaternes
-albergier
 albigeois
 albuginée
 albuginés
@@ -13389,7 +13799,6 @@ aleurites
 aleurodes
 aleurones
 alevinage
-alevinier
 alfatiers
 alfatière
 algazelle
@@ -13501,7 +13910,6 @@ andésites
 angevines
 angineuse
 angstroem
-angusture
 anhidrose
 anhydrite
 anilismes
@@ -13512,7 +13920,6 @@ annalités
 annamites
 annellent
 annellera
-annoncier
 annonçons
 annualité
 annulable
@@ -13594,18 +14001,15 @@ archontes
 archéenne
 archégone
 arctiques
-ardoisier
 argentans
 argenteur
 argentite
-argenture
 argilacée
 argilacés
 arginines
 argortisé
 argotisme
 argotiste
-argousier
 argyrisme
 argyroses
 armaillis
@@ -13626,7 +14030,6 @@ arrêtiste
 arrêtoirs
 arséniate
 arsénites
-arséniure
 arthrodie
 articulet
 artocarpe
@@ -13635,7 +14038,6 @@ artérites
 arythmies
 arénacées
 arénicole
-aréolaire
 aréomètre
 aréostyle
 aréquiers
@@ -13650,7 +14052,6 @@ aspartate
 aspergeai
 aspergeas
 aspergeât
-aspersoir
 assailles
 assaillit
 assiégeai
@@ -13716,7 +14117,6 @@ attirâmes
 attirâtes
 attorneys
 attrapade
-attremper
 atypiques
 audacieux
 auditorat
@@ -13744,13 +14144,11 @@ autopompe
 autorails
 autotomie
 avalistes
-avelinier
 avez-vous
 avocettes
 avouables
 avulsions
 axiologie
-azerolier
 azimutale
 azimutaux
 azotiques
@@ -13799,7 +14197,6 @@ baptismes
 baquetons
 baquettes
 barbaques
-barbelure
 barbelées
 barbettes
 barbilles
@@ -13841,7 +14238,6 @@ batellera
 bathyales
 baugèrent
 bauquière
-bavochure
 bayassent
 bayassiez
 bayerions
@@ -13877,11 +14273,9 @@ bicolores
 biconcave
 biconvexe
 biellette
-bien-dire
 bien-jugé
 bien-être
 biennales
-bifilaire
 bifocales
 bigarades
 bigleuses
@@ -13916,7 +14310,6 @@ bissexuée
 bissexués
 bistortes
 bisulfate
-bisulfure
 bitension
 bitonales
 bitumages
@@ -13954,7 +14347,6 @@ bombantes
 bondelles
 bonhomies
 bonichons
-bonnetier
 bonzeries
 booléenne
 borderies
@@ -13984,7 +14376,6 @@ bougèrent
 boui-boui
 boulbènes
 bouletées
-boulinier
 boulistes
 bourrelez
 bourrette
@@ -13999,7 +14390,6 @@ bouveries
 bouvières
 bovarysme
 box-calfs
-boyaudier
 brachiaux
 bractéale
 bractéaux
@@ -14037,14 +14427,12 @@ briferons
 briferont
 brifèrent
 briquetez
-brise-fer
 brise-jet
 brisement
 briseuses
 brièvetés
 brocantai
 brocantas
-brocanter
 brocantez
 brocantât
 brocantée
@@ -14087,7 +14475,6 @@ brélèrent
 brûleries
 buandiers
 buandière
-buffetier
 buglosses
 bulbaires
 bulbeuses
@@ -14158,7 +14545,6 @@ cadmiions
 cadmiâmes
 cadmiâtes
 cadrantes
-cadrature
 cadreuses
 caducités
 cafardeux
@@ -14281,7 +14667,6 @@ carroyage
 carroyons
 caryopses
 casaquins
-casernier
 cash-flow
 cashmeres
 casse-cul
@@ -14321,7 +14706,6 @@ cellulars
 censières
 censorats
 censorial
-centenier
 centennal
 centiares
 centibars
@@ -14339,7 +14723,6 @@ chadburns
 chaisiers
 chalutage
 chambards
-chambrier
 champarts
 chamérops
 chancelez
@@ -14347,11 +14730,9 @@ changeons
 chanlatte
 chanteaux
 chantoung
-chanvrier
 chançards
 chapelons
 chargeons
-charioter
 charismes
 charretin
 charroies
@@ -14359,7 +14740,6 @@ charroyez
 charruage
 chartisme
 chartreux
-chartrier
 chasselas
 chassepot
 chassieux
@@ -14386,7 +14766,6 @@ chevretez
 chibouque
 chicotins
 chienlits
-chiffrier
 chimismes
 chimistes
 chineuses
@@ -14420,7 +14799,6 @@ chow-chow
 chromages
 chromates
 chromique
-chromiser
 chromiste
 chronaxie
 chrémeaux
@@ -14434,7 +14812,6 @@ ciboriums
 cicutines
 cidreries
 cigogneau
-cimentier
 cingalais
 cinnamome
 cintrages
@@ -14490,7 +14867,6 @@ clovisses
 clubistes
 coaccusée
 coagulums
-coalescer
 coassocié
 cocaution
 coccidies
@@ -14526,7 +14902,6 @@ colonages
 coloriste
 colourall
 columelle
-colzatier
 combattes
 combattez
 combattis
@@ -14567,7 +14942,6 @@ comptages
 compteurs
 compérage
 compétons
-cométaire
 conations
 conatives
 concatène
@@ -14703,7 +15077,6 @@ corroyeur
 corroyons
 corrélons
 corsaires
-corsetier
 corsetons
 coryphées
 cosmiques
@@ -14766,7 +15139,6 @@ craneront
 cranèrent
 crapaütai
 crapaütas
-crapaüter
 crapaütes
 crapaütez
 crapaütât
@@ -14849,7 +15221,6 @@ cyclisées
 cyclonale
 cyclonaux
 cycloïdes
-cymbalier
 cymbalums
 cypriotes
 cyprières
@@ -14880,7 +15251,6 @@ côtoieras
 côtoierez
 dadaïsmes
 dahoméens
-damassure
 dangereux
 daniennes
 dansables
@@ -14905,7 +15275,6 @@ dentistes
 dermestes
 descellai
 descellas
-desceller
 descelles
 descellez
 descellât
@@ -14922,7 +15291,6 @@ descendît
 designers
 desquamai
 desquamas
-desquamer
 desquames
 desquamez
 desquamât
@@ -14943,7 +15311,6 @@ desservit
 desservît
 dessoulai
 dessoulas
-dessouler
 dessoules
 dessoulez
 dessoulât
@@ -14951,7 +15318,6 @@ dessoulée
 dessoulés
 dessuitai
 dessuitas
-dessuiter
 dessuites
 dessuitez
 dessuitât
@@ -15005,12 +15371,10 @@ diluviale
 diluviaux
 diluviums
 dimorphes
-dinandier
 dipalides
 diphasées
 diplopies
 diploïdes
-dipolaire
 diptyques
 dipétales
 directifs
@@ -15034,7 +15398,6 @@ discuteur
 disetteux
 disjoigne
 dispersal
-disquaire
 dissolues
 dissolves
 dissolvez
@@ -15058,7 +15421,6 @@ distordus
 distordît
 distraies
 distraira
-distraire
 distrayez
 divergeai
 divergeas
@@ -15082,7 +15444,6 @@ doigtiers
 dolomites
 dolosives
 domptages
-donataire
 donatisme
 donatiste
 dopamines
@@ -15156,7 +15517,6 @@ dystomies
 dystonies
 débarquai
 débarquas
-débarquer
 débarques
 débarquez
 débarquât
@@ -15197,7 +15557,6 @@ débâchent
 débâchons
 débâclent
 débâclons
-décadaire
 décagonal
 décagones
 décalvant
@@ -15221,7 +15580,6 @@ décideuse
 déciduale
 décigrade
 décilages
-décisoire
 déclorais
 déclorait
 décloriez
@@ -15235,7 +15593,6 @@ déconfise
 découdrai
 découdras
 découdrez
-découpoir
 décousais
 décousait
 décousant
@@ -15243,7 +15600,6 @@ décousent
 décousiez
 décousons
 décousues
-décousure
 découvres
 découvrez
 découvris
@@ -15320,7 +15676,6 @@ défendues
 défensifs
 déferions
 déferrage
-déferrure
 défiantes
 défibrage
 déficelez
@@ -15366,7 +15721,6 @@ dégoûtons
 dégoûtées
 dégravoie
 dégrevons
-dégrouper
 dégroupes
 dégroupez
 dégroupée
@@ -15424,7 +15778,6 @@ démonisme
 démoulage
 démuselez
 démuselle
-démutiser
 démâtages
 déméchage
 démêlages
@@ -15521,7 +15874,6 @@ désenraie
 désespère
 déstockai
 déstockas
-déstocker
 déstockes
 déstockez
 déstockât
@@ -15667,7 +16019,6 @@ emploiera
 employons
 empreigne
 emprésura
-emprésure
 emprésuré
 empyreume
 empâtrera
@@ -15681,14 +16032,11 @@ empênâtes
 encageons
 encalminé
 encavages
-enceindre
 encenseur
 enclosent
-enclouure
 encodages
 encodeurs
 encolleur
-encoubler
 encourais
 encourait
 encourant
@@ -15727,7 +16075,6 @@ enfileuse
 enfiévrez
 enflèches
 enfonçons
-enfonçure
 enfreigne
 enfreinte
 enfreints
@@ -15752,7 +16099,6 @@ enjoignît
 enjoindra
 enjointes
 enjonçons
-enkikiner
 enlevages
 enlevasse
 enlevions
@@ -15902,7 +16248,6 @@ ethnocide
 eucologes
 eugénates
 eugéniste
-eupatoire
 euphonies
 euphories
 euphuisme
@@ -15946,7 +16291,6 @@ exerçâmes
 exerçâtes
 exhaussai
 exhaussas
-exhausser
 exhausses
 exhaussez
 exhaussât
@@ -15990,12 +16334,10 @@ extrayons
 extremums
 extrorses
 exulcérez
-eye-liner
 fabricien
 fabuliste
 facilitai
 facilitas
-faciliter
 facilites
 facilitez
 facilitât
@@ -16027,7 +16369,6 @@ fasciculé
 fascismes
 faseillai
 faseillas
-faseiller
 faseilles
 faseillez
 faseillât
@@ -16039,7 +16380,6 @@ fauchards
 fauchette
 faudrions
 faufilage
-faufilure
 fauniques
 faussetés
 fautrices
@@ -16055,7 +16395,6 @@ fayottera
 fayottiez
 fayottons
 façonnage
-façonnier
 faîtières
 faïencées
 feignanta
@@ -16081,7 +16420,6 @@ fenugrecs
 fenêtrage
 fermantes
 fermettes
-ferratier
 ferrement
 festoient
 festoiera
@@ -16116,7 +16454,6 @@ filtrages
 finalisme
 finançons
 finasseur
-finassier
 finissage
 finnoises
 fissibles
@@ -16265,7 +16602,6 @@ frisottis
 frisquets
 frissions
 frittages
-froissure
 frontails
 frontales
 fronteaux
@@ -16306,7 +16642,6 @@ fégaterez
 félinités
 fétidités
 gabariage
-gabarrier
 gagnables
 gailletin
 gaineries
@@ -16320,7 +16655,6 @@ gallicans
 gallicole
 galliques
 galléries
-galonnier
 galopeurs
 galopeuse
 galoubets
@@ -16342,7 +16676,6 @@ gardénals
 garçonnes
 gaspachos
 gastrulas
-gattilier
 gauchères
 gaufrages
 gaufreurs
@@ -16408,7 +16741,6 @@ glaréoles
 glaucomes
 glaviotai
 glaviotas
-glavioter
 glaviotes
 glaviotez
 glaviotât
@@ -16481,8 +16813,6 @@ grattelle
 gratteuse
 grattures
 gratuités
-gravatier
-gravelure
 gravelées
 graveuses
 greffages
@@ -16526,7 +16856,6 @@ grugèrent
 grumeleux
 grumelles
 grumelons
-grumelure
 gruppetti
 grécisais
 grécisait
@@ -16594,13 +16923,11 @@ hasardeux
 haschichs
 haubanage
 haussiers
-hauturier
 heaumiers
 hectowatt
 heiduques
 heimatlos
 hellébore
-heptaèdre
 herbacées
 herberies
 herd-book
@@ -16786,7 +17113,6 @@ imposeurs
 improbité
 improuvai
 improuvas
-improuver
 improuves
 improuvez
 improuvât
@@ -17016,7 +17342,6 @@ jactances
 jalonneur
 jambettes
 jamborees
-jambosier
 janotisme
 japonisme
 japoniste
@@ -17164,7 +17489,6 @@ langèrent
 lanifères
 lanigères
 lanolines
-lantanier
 lanthanes
 lapicides
 lapinisme
@@ -17213,7 +17537,6 @@ ligotages
 ligueuses
 limailles
 limbaires
-limettier
 limicoles
 limitable
 limiteurs
@@ -17251,19 +17574,14 @@ liégeasse
 liégeoise
 liégeâmes
 liégeâtes
-locataire
-lockouter
 locomotif
-loculaire
 loculeuse
 logicisme
 logopédie
-loi-cadre
 loisibles
 longottes
 longèrent
 loqueteux
-loricaire
 losangées
 lotisseur
 loucheurs
@@ -17304,7 +17622,6 @@ lâcheuses
 lèchement
 légalisme
 légalités
-légataire
 légiférez
 légumiers
 légumines
@@ -17338,7 +17655,6 @@ maculages
 madragues
 madécasse
 maffiosos
-magnanier
 magnésien
 magnésies
 magnésite
@@ -17400,7 +17716,6 @@ managions
 mancelles
 mandantes
 mandrills
-mandriner
 manganeux
 mangetout
 mangeures
@@ -17549,7 +17864,6 @@ millivolt
 millépore
 mimologie
 minahouet
-minaudier
 minervals
 mini-jupe
 minoennes
@@ -17557,7 +17871,6 @@ minoratif
 minotiers
 minotière
 minutages
-minutaire
 minutiers
 minutieux
 mirabilis
@@ -17617,7 +17930,6 @@ mordaches
 mordacité
 mordaient
 mordicant
-mordorure
 moresques
 morfondes
 morfondez
@@ -17658,10 +17970,8 @@ mouchetez
 mouchetis
 mouchures
 moufettes
-mouilloir
 moujingue
 moulineur
-moulinier
 moulières
 mouquères
 moussoirs
@@ -17671,11 +17981,9 @@ mucilages
 mudéjares
 muguetons
 muguettes
-mulassier
 multitube
 murrhines
 muscadets
-muscadier
 muscadins
 muscardin
 muscarine
@@ -17756,7 +18064,6 @@ ménageons
 méningées
 ménologes
 ményanthe
-ménétrier
 méprenais
 méprenait
 méprenant
@@ -17774,7 +18081,6 @@ mésopause
 métaphyse
 métayages
 métayères
-méthanier
 métreuses
 métricien
 mévendais
@@ -17843,7 +18149,6 @@ nivellera
 nocivités
 noctuelle
 nocturnes
-nodulaire
 noduleuse
 noierions
 noirâtres
@@ -17858,7 +18163,6 @@ notionnel
 notonecte
 nouaisons
 nourrains
-novatoire
 novembres
 noviciats
 noétiques
@@ -18090,7 +18394,6 @@ pagaieras
 pagaierez
 paganisai
 paganisas
-paganiser
 paganises
 paganisez
 paganisât
@@ -18127,7 +18430,6 @@ palissage
 pallidums
 palléales
 palmaires
-palmature
 palmifide
 palmilobé
 palmitine
@@ -18137,7 +18439,6 @@ paludines
 palustres
 paléosols
 pampilles
-panachure
 panatelas
 pandectes
 pandémies
@@ -18201,7 +18502,6 @@ parfondez
 parfondis
 parfondit
 parfondra
-parfondre
 parfondue
 parfondus
 parfondît
@@ -18227,7 +18527,6 @@ parsemons
 parsismes
 partageux
 partances
-partiaire
 partitifs
 partitive
 partouses
@@ -18273,7 +18572,6 @@ pausèrent
 paysagers
 paysagère
 paysannat
-pdfborder
 peccables
 pectinées
 pectiques
@@ -18283,7 +18581,6 @@ peigneurs
 peigneuse
 peigniers
 peignisse
-peignoire
 peignures
 peignîmes
 peignîtes
@@ -18306,7 +18603,6 @@ pemmicans
 pentamère
 pentapols
 pentatome
-pentaèdre
 penthodes
 penthotal
 peptiques
@@ -18325,7 +18621,6 @@ perlèches
 permettes
 permettez
 permettra
-permettre
 permienne
 permirent
 permisses
@@ -18334,7 +18629,6 @@ perpètres
 persicots
 persiflai
 persiflas
-persifler
 persifles
 persiflez
 persiflât
@@ -18347,7 +18641,6 @@ pessaires
 pesteuses
 peucédans
 peut-elle
-phalanger
 phallines
 phalloïde
 pharillon
@@ -18402,11 +18695,9 @@ piloselle
 pilosisme
 pilosités
 pilotages
-pilulaire
 piluliers
 pinastres
 pince-nez
-pincelier
 pincharde
 pinchards
 pincèrent
@@ -18425,8 +18716,6 @@ pipérines
 pipéronal
 pique-feu
 piquetons
-piroguier
-pis-aller
 piscivore
 pissettes
 pitchpins
@@ -18658,7 +18947,6 @@ promouvra
 promurent
 promusses
 propagule
-propanier
 prophases
 propretés
 proscrira
@@ -18701,7 +18989,6 @@ préalpine
 préalpins
 préavisai
 préavisas
-préaviser
 préavises
 préavisez
 préavisât
@@ -18735,7 +19022,6 @@ préférons
 prégnants
 prélatine
 prélatins
-prélature
 prélevons
 prémontré
 prénatals
@@ -18784,7 +19070,6 @@ puddlages
 puddleurs
 pudicités
 pugiliste
-pulicaire
 pullorose
 pulpaires
 pultacées
@@ -18873,7 +19158,6 @@ péroreurs
 péroreuse
 péroxydai
 péroxydas
-péroxyder
 péroxydes
 péroxydez
 péroxydât
@@ -18882,7 +19166,6 @@ péroxydés
 pétalisme
 pétanques
 pétiolées
-pétitoire
 pétouilla
 pétouille
 pétouillé
@@ -18939,7 +19222,6 @@ radiatifs
 radicante
 radicants
 radiolyse
-radoubler
 rafflesia
 rafflésie
 raierions
@@ -18990,7 +19272,6 @@ rapprises
 rapprisse
 rapprêtai
 rapprêtas
-rapprêter
 rapprêtes
 rapprêtez
 rapprêtât
@@ -19130,7 +19411,6 @@ redevront
 redoivent
 redussent
 redussiez
-redéfaire
 redéfaite
 redéfaits
 redéfasse
@@ -19150,7 +19430,6 @@ refendrai
 refendras
 refendrez
 refendues
-reficeler
 reflètent
 refondais
 refondait
@@ -19175,7 +19454,6 @@ rejoignis
 rejoignit
 rejoignît
 rejoindra
-rejoindre
 rejointes
 rejugeons
 relaierai
@@ -19258,7 +19536,6 @@ renonçons
 renseigna
 renseigné
 rentables
-rentraire
 renvergea
 renverrai
 renverras
@@ -19342,7 +19619,6 @@ requerras
 requerrez
 requirent
 requisses
-requitter
 requières
 requérais
 requérait
@@ -19464,7 +19740,6 @@ revendues
 revenez-y
 reverchai
 reverchas
-revercher
 reverches
 reverchez
 reverchât
@@ -19579,7 +19854,6 @@ rougeoies
 rougeoles
 rougeoyez
 rouissage
-rouissoir
 rouleauté
 rouspétez
 rousselet
@@ -19605,7 +19879,6 @@ rubidiums
 rubiettes
 rubéoleux
 rudbeckie
-rudenture
 rudoierai
 rudoieras
 rudoierez
@@ -19932,7 +20205,6 @@ semi-coke
 semi-fini
 semonçons
 sensitifs
-septemvir
 septennal
 septièmes
 sera-t-il
@@ -19978,7 +20250,6 @@ siglaison
 sigmoïdes
 silicates
 silicique
-siliciure
 silicoses
 silicules
 silionnes
@@ -20052,7 +20323,6 @@ sorguions
 sorguâmes
 sorguâtes
 sortables
-sottisier
 sou-chong
 souchetez
 souchevez
@@ -20167,7 +20437,6 @@ standings
 staphylin
 starifiai
 starifias
-starifier
 starifies
 starifiez
 starifiât
@@ -20244,7 +20513,6 @@ suiferont
 suifèrent
 suivismes
 suivistes
-sulcature
 sulfateur
 sulfitage
 sulfosels
@@ -20309,7 +20577,6 @@ surprisse
 surprîmes
 surprîtes
 sursemons
-surtondre
 surtontes
 survenais
 survenait
@@ -20339,7 +20606,6 @@ suspendez
 suspendis
 suspendit
 suspendra
-suspendre
 suspendît
 suspenses
 susvisées
@@ -20416,7 +20682,6 @@ sérosités
 sérénités
 sésamoïde
 tabagique
-tabletier
 tabétique
 tachetons
 tachettes
@@ -20462,7 +20727,6 @@ taraudeur
 taravelle
 tarbouchs
 tardiveté
-tarifaire
 tarifante
 tarifants
 tarifiais
@@ -20487,7 +20751,6 @@ taxatives
 taxodiums
 tcharchaf
 tchitolas
-teen-ager
 teignions
 teignisse
 teignîmes
@@ -20510,7 +20773,6 @@ tellières
 tellurate
 tellureux
 tellurien
-tellurure
 tempèrent
 tendaient
 tendelles
@@ -20576,7 +20838,6 @@ tigridies
 timbrages
 timonière
 tintantes
-tiqueture
 tiqueuses
 tire-clou
 tire-fond
@@ -20699,7 +20960,6 @@ trilogies
 trimarans
 trimbalai
 trimbalas
-trimbaler
 trimbales
 trimbalez
 trimbalât
@@ -20727,7 +20987,6 @@ triumvirs
 trivalent
 trivalves
 trochiles
-trochiter
 trochlées
 troglobie
 trois-six
@@ -20771,12 +21030,10 @@ tulleries
 tullistes
 tullières
 tumorales
-tumulaire
 tungstate
 tunicelle
 tuniciers
 tuniquées
-tunnelier
 turbidité
 turbinage
 turbotins
@@ -20877,12 +21134,10 @@ usurières
 utopistes
 utricules
 uvulaires
-vacataire
 vaccaires
 vaccinale
 vaccinaux
 vaccinide
-vaccinier
 vacherins
 vaginisme
 vaginites
@@ -20897,7 +21152,6 @@ valleuses
 valvaires
 vanadique
 vanadiums
-vanillier
 vanilline
 vanillons
 vanillées
@@ -20918,7 +21172,6 @@ vauchérie
 vaudoises
 vavasseur
 veinettes
-veloutier
 veloutine
 vendaient
 vendirent
@@ -20953,7 +21206,6 @@ verveines
 vervelles
 verveuses
 vessigons
-veuglaire
 veveysans
 vexateurs
 vexatrice
@@ -20973,7 +21225,6 @@ victorias
 vicésimal
 vide-cave
 vielleurs
-vigneture
 vigoureux
 vigueries
 villosité
@@ -21014,7 +21265,6 @@ viticoles
 vitiligos
 vitreries
 vitrières
-vitulaire
 vitupérez
 vivariums
 vivipares
@@ -21023,7 +21273,6 @@ vocalisme
 vociférez
 voileries
 voiturins
-volatiser
 volatisée
 volatisés
 volettent
@@ -21034,7 +21283,6 @@ volitives
 volubiles
 volubilis
 volucelle
-vomiquier
 vomériens
 voracités
 votations
@@ -21066,9 +21314,7 @@ vésicants
 vétillard
 vétilleux
 vêlements
-wagonnier
 wagonnées
-walk-over
 walkyries
 wallabies
 wallonnes
@@ -21146,7 +21392,6 @@ zézaierez
 ébattîmes
 ébattîtes
 ébauchage
-ébauchoir
 ébiselera
 ébiselons
 éborgnage
@@ -21158,7 +21403,6 @@ zézaierez
 écartelez
 écarteurs
 écharnage
-écharnoir
 échaudage
 échelette
 écheliers
@@ -21207,14 +21451,11 @@ zézaierez
 égotismes
 égotistes
 égouttage
-égoutture
 égrainage
 égrappage
-égrappoir
 égrenages
 égrisages
 égrugeage
-égrugeoir
 égrugeons
 électrums
 éleveuses
@@ -21226,7 +21467,6 @@ zézaierez
 éléatique
 émaillage
 émailleur
-émaillure
 émargeons
 émbéguiné
 émeraudes
@@ -21249,7 +21489,6 @@ zézaierez
 émottages
 émotteurs
 émotteuse
-émouchoir
 émoulages
 émulseurs
 émulsines
@@ -21271,7 +21510,6 @@ zézaierez
 épannelle
 éparchies
 épateuses
-épaufrure
 épeautres
 épellerai
 épelleras
@@ -21285,7 +21523,6 @@ zézaierez
 épierrage
 épincelez
 épincetez
-épinglier
 épiphanes
 épiphyses
 épiphytie
@@ -21304,7 +21541,6 @@ zézaierez
 épreignes
 épreignez
 épreindra
-épreindre
 épreintes
 éprendrai
 éprendras
@@ -21400,7 +21636,6 @@ zézaierez
 étreignit
 étreignît
 étreindra
-étreindre
 étrusques
 étuveuses
 étêtement
@@ -21412,7 +21647,6 @@ zézaierez
 éviscères
 éviscérai
 éviscéras
-éviscérer
 éviscérez
 éviscérât
 éviscérée
@@ -21437,7 +21671,6 @@ abaissants
 abaisseurs
 abandonnai
 abandonnas
-abandonner
 abandonnes
 abandonnez
 abandonnât
@@ -21490,7 +21723,6 @@ acescences
 acescentes
 achetables
 acheuléens
-aciculaire
 acidimètre
 acidophile
 aciération
@@ -21561,10 +21793,8 @@ advections
 adventives
 adverbiale
 adverbiaux
-adversaire
 adversatif
 adénosines
-affacturer
 affacturée
 affacturés
 affairerai
@@ -21586,7 +21816,6 @@ afflictive
 affligeons
 affluences
 affouragea
-affourager
 affourages
 affouragez
 affouragée
@@ -21595,7 +21824,6 @@ affriquées
 affréteurs
 afféageons
 affûteuses
-afrikander
 agacerions
 agalacties
 agaçassent
@@ -21693,7 +21921,6 @@ aluminiums
 alvéolites
 aléatoires
 alémanique
-amadouvier
 amareyeurs
 amareyeuse
 ambigument
@@ -21710,7 +21937,6 @@ amerloques
 amhariques
 amibiennes
 amidonnage
-amidonnier
 ammophiles
 amnésiques
 amodiation
@@ -21743,7 +21969,6 @@ américiums
 amétropies
 anabolisme
 anabolites
-anacardier
 anacrouses
 anaglyphes
 anagnostes
@@ -21765,7 +21990,6 @@ andrologie
 andrologue
 angineuses
 angiologie
-angledozer
 anglicanes
 angliciste
 anglomanes
@@ -21789,7 +22013,6 @@ annonciers
 annoncière
 annotateur
 annualités
-annuitaire
 annulables
 annulaires
 antenaises
@@ -21803,7 +22026,6 @@ antiglisse
 antihausse
 antimoines
 antinazies
-antiquaire
 antonymies
 anxiogènes
 anémophile
@@ -21898,7 +22120,6 @@ argousiers
 argyrismes
 argyronète
 arianismes
-armillaire
 arminienne
 armoriales
 arpenteuse
@@ -22053,7 +22274,6 @@ aviculteur
 aviez-vous
 avioniques
 avivements
-avocassier
 avocatiers
 avons-nous
 avènements
@@ -22178,7 +22398,6 @@ beylicales
 biacuminée
 biacuminés
 bichlamars
-bichlorure
 bichromate
 bichromies
 biconcaves
@@ -22190,7 +22409,6 @@ bien-fonds
 bien-jugés
 bienvenues
 bifilaires
-bigaradier
 bigarreaux
 bigoteries
 bigotismes
@@ -22234,7 +22452,6 @@ blasphémez
 blastopore
 bleuetière
 bloc-notes
-bloc-évier
 blocailles
 blondoient
 blondoiera
@@ -22292,14 +22509,12 @@ bourrelons
 bourrettes
 bourriquai
 bourriquas
-bourriquer
 bourriquez
 bourriquât
 bouscueils
 bouterolle
 bouteroues
 boutonneux
-boutonnier
 bouturages
 bouveteuse
 bouvillons
@@ -22361,7 +22576,6 @@ brosseries
 brossières
 broussards
 broutement
-brugnonier
 bruineuses
 bruiraient
 bruissages
@@ -22441,7 +22655,6 @@ cailletons
 caillettes
 cailloutis
 caisseries
-cajeputier
 cajolantes
 cajoleuses
 calaminage
@@ -22495,7 +22708,6 @@ caprylique
 capsulages
 captateurs
 captatives
-captatoire
 captatrice
 captieuses
 captivants
@@ -22508,7 +22720,6 @@ caramélées
 caravanage
 carbonisai
 carbonisas
-carboniser
 carbonises
 carbonisez
 carbonisât
@@ -22574,7 +22785,6 @@ catoblépas
 catéchiste
 catégoriel
 catégorème
-caudataire
 caudrettes
 caulescent
 causalisme
@@ -22658,7 +22868,6 @@ chemisière
 chevalines
 cheviottes
 chevretons
-chevretter
 chevrières
 chevrotins
 chibouques
@@ -22790,7 +22999,6 @@ collettera
 colligeons
 collodions
 colloïdaux
-collusoire
 colluvions
 colmatages
 colonelles
@@ -22843,7 +23051,6 @@ compacités
 comparusse
 comparûmes
 comparûtes
-complanter
 complétifs
 complétive
 complétons
@@ -22869,7 +23076,6 @@ cométaires
 concatènes
 concaténai
 concaténas
-concaténer
 concaténez
 concaténât
 concaténée
@@ -22940,7 +23146,6 @@ connivente
 connivents
 conpressai
 conpressas
-conpresser
 conpresses
 conpressez
 conpressât
@@ -22971,7 +23176,6 @@ contenante
 contenions
 contentifs
 contentive
-contexture
 contiendra
 contiennes
 continrent
@@ -22981,7 +23185,6 @@ contraigne
 contraposa
 contrapose
 contraposé
-contre-fer
 contrebats
 contrecœur
 contredira
@@ -23002,10 +23205,8 @@ convulsifs
 conçoivent
 conçussent
 conçussiez
-copartager
 copartages
 copineries
-coplanaire
 copposédai
 copposédas
 copposédez
@@ -23016,7 +23217,6 @@ copulative
 coquericos
 coquettent
 coquettera
-coquillier
 corbillats
 cordellent
 cordellera
@@ -23172,7 +23372,6 @@ cycloïdaux
 cylindrage
 cylindraxe
 cylindreur
-cymbalaire
 cymbaliers
 cymbaliste
 cymbalière
@@ -23220,10 +23419,8 @@ demi-jours
 demi-pause
 demi-plans
 demi-tiges
-dentelaire
 dentellent
 dentellera
-dentellier
 denticules
 dermatites
 descellais
@@ -23255,7 +23452,6 @@ desquelles
 dessalages
 dessanglai
 dessanglas
-dessangler
 dessangles
 dessanglez
 dessanglât
@@ -23263,7 +23459,6 @@ dessanglée
 dessanglés
 dessaoulai
 dessaoulas
-dessaouler
 dessaoules
 dessaoulez
 dessaoulât
@@ -23337,14 +23532,12 @@ diffuseuse
 diffusible
 digesteurs
 digestible
-dignitaire
 digraphies
 dilacérons
 dilatables
 dilatantes
 diluviales
 diminutive
-dimissoire
 dinandiers
 diocésains
 dioptrique
@@ -23469,7 +23662,6 @@ dolcissimo
 dolorismes
 domaniales
 dominances
-dominotier
 donataires
 donatismes
 donatistes
@@ -23508,7 +23700,6 @@ droppèrent
 druidismes
 dubitatifs
 ductilités
-dudgeonner
 duellistes
 duettistes
 duodénales
@@ -23565,7 +23756,6 @@ débectâmes
 débectâtes
 débenzolai
 débenzolas
-débenzoler
 débenzoles
 débenzolez
 débenzolât
@@ -23586,7 +23776,6 @@ débosselle
 débouilles
 débouillez
 débouillie
-débouillir
 débouillis
 débouillit
 débouillît
@@ -23596,7 +23785,6 @@ débraierai
 débraieras
 débraierez
 débrochage
-débéqueter
 décachetez
 décachette
 décadaires
@@ -23620,7 +23808,6 @@ décelables
 décemviral
 décemvirat
 décennales
-décerveler
 décevaient
 décevrions
 déchaumage
@@ -23636,7 +23823,6 @@ déclaratif
 déclavetez
 déclavette
 déclinable
-déclinquer
 déclorions
 décochages
 décodeuses
@@ -23764,7 +23950,6 @@ dégagèrent
 dégivrages
 dégivreurs
 dégommages
-dégorgeoir
 dégorgeons
 dégotaient
 dégotasses
@@ -23964,7 +24149,6 @@ désencollé
 désennuies
 désennuyez
 désenraies
-désensimer
 déserteuse
 désespères
 désignatif
@@ -24109,7 +24293,6 @@ embolismes
 embossages
 embottelez
 embottelle
-embourrure
 embraierai
 embraieras
 embraierez
@@ -24140,17 +24323,14 @@ emploierai
 emploieras
 emploierez
 employeuse
-empointure
 empreignes
 empreignez
 empreignis
 empreignit
 empreignît
 empreindra
-empreindre
 emprésurai
 emprésuras
-emprésurer
 emprésures
 emprésurez
 emprésurât
@@ -24182,7 +24362,6 @@ encastelez
 encavement
 encenseurs
 encenseuse
-enchâssure
 enclitique
 enclouures
 encollages
@@ -24223,7 +24402,6 @@ enfileuses
 enfiévrons
 enfleurage
 enflèchent
-enfléchure
 enfonceurs
 enfonceuse
 enfonçures
@@ -24244,7 +24422,6 @@ engreneurs
 engreneuse
 engrumelez
 engrumelle
-enguichure
 enharmonie
 enjavelles
 enjavelons
@@ -24257,7 +24434,6 @@ enjoignons
 enjoindrai
 enjoindras
 enjoindrez
-enjolivure
 enlacèrent
 enlevaient
 enlevasses
@@ -24326,13 +24502,11 @@ enrôlèrent
 ensachages
 ensacheurs
 ensacheuse
-ensemblier
 ensemençai
 ensemenças
 ensemençât
 ensiformes
 ensorcelez
-ensoutaner
 entaillage
 entartrage
 entendions
@@ -24467,7 +24641,6 @@ exclurions
 exclussent
 exclussiez
 excréteurs
-excrétoire
 excrétrice
 excusaient
 excusasses
@@ -24606,7 +24779,6 @@ faïencière
 feignaient
 feignantai
 feignantas
-feignanter
 feignantez
 feignantât
 feignirent
@@ -24666,13 +24838,11 @@ finissages
 finisseurs
 fiscaliste
 fiscalités
-fistulaire
 fistuleuse
 fistulines
 fixatrices
 flacheries
 flaconnage
-flaconnier
 flagellums
 flagrances
 flaireuses
@@ -24705,7 +24875,6 @@ foliations
 fongicides
 fongiforme
 fongosités
-footballer
 foraminées
 forclusion
 foresterie
@@ -24791,7 +24960,6 @@ frutescent
 fuligineux
 fulminates
 fulminique
-fumeronner
 fumeterres
 fumigèrent
 funéraires
@@ -24904,7 +25072,6 @@ germicides
 germinatif
 gerçassent
 gerçassiez
-gestatoire
 gestuelles
 gibbosités
 giboierais
@@ -24954,7 +25121,6 @@ glyptiques
 glyptodons
 gnognottes
 gnomonique
-gobeletier
 gobergeais
 gobergeait
 gobergeant
@@ -25311,7 +25477,6 @@ identiques
 idiopathie
 idiotifiai
 idiotifias
-idiotifier
 idiotifies
 idiotifiez
 idiotifiât
@@ -25438,7 +25603,6 @@ indicèrent
 indifférez
 indigences
 indigestes
-indigotier
 indigotine
 indirectes
 indiscutée
@@ -25639,7 +25803,6 @@ ivoirières
 jaborandis
 jalonneurs
 jambosiers
-jamerosier
 janotismes
 japonismes
 japonistes
@@ -25675,7 +25838,6 @@ jottereaux
 jovialités
 jubilaires
 judaïcités
-judicature
 jugulantes
 jumellerai
 jumelleras
@@ -25727,7 +25889,6 @@ lamaseries
 lambourdes
 lambruches
 lambswools
-lamellaire
 lamelleuse
 lamineuses
 lampassées
@@ -25862,7 +26023,6 @@ loxodromie
 loyalismes
 loyalistes
 lubricités
-lucernaire
 lucimètres
 ludothèque
 lumachelle
@@ -25963,7 +26123,6 @@ malvoyante
 malvoyants
 maléfiques
 mameloukes
-mamillaire
 mammaliens
 mammalogie
 manageasse
@@ -25997,7 +26156,6 @@ manuélines
 manégeasse
 manégeâmes
 manégeâtes
-manœuvrier
 marasquins
 maraudages
 maraîchage
@@ -26056,7 +26214,6 @@ mastoïdite
 maternages
 matineuses
 matinières
-matricaire
 matricides
 matthioles
 maurandies
@@ -26090,7 +26247,6 @@ mi-carêmes
 mi-parties
 miaulantes
 miauleuses
-micellaire
 michelines
 microcoque
 microgrenu
@@ -26153,7 +26309,6 @@ modulantes
 modularité
 modélisont
 modélistes
-modénature
 moleskines
 moletterai
 moletteras
@@ -26310,15 +26465,12 @@ myxoedèmes
 myélocytes
 mâchements
 méandrines
-méconduire
 méconnusse
 méconnûmes
 méconnûtes
 mécréantes
-médaillier
 médiastins
 médiations
-médicinier
 médiraient
 médisantes
 médissions
@@ -26468,7 +26620,6 @@ non-usages
 non-valeur
 non-viable
 nonantième
-nonchaloir
 nonpareils
 noologique
 nord-ouest
@@ -26647,7 +26798,6 @@ organiques
 organistes
 organsinai
 organsinas
-organsiner
 organsines
 organsinez
 organsinât
@@ -26693,7 +26843,6 @@ ovulations
 oxycarboné
 oxycoupage
 oxydations
-oxysulfure
 ozocérites
 ozokérites
 ozoniseurs
@@ -26795,7 +26944,6 @@ paraferiez
 paraferons
 paraferont
 parafiscal
-parafoudre
 parafèrent
 paragrêles
 parallèles
@@ -26848,7 +26996,6 @@ paripennée
 paripennés
 parisettes
 paritaires
-pariétaire
 pariétales
 parkinsons
 parodistes
@@ -26862,7 +27009,6 @@ parquetons
 parquettes
 parqueuses
 partageons
-partenaire
 partiaires
 partiteurs
 partitives
@@ -26973,7 +27119,6 @@ permutante
 permutants
 pernicieux
 perpètrent
-persicaire
 persiflais
 persiflait
 persiflant
@@ -26986,7 +27131,6 @@ persillade
 perspectif
 persuasifs
 persulfate
-persulfure
 persulfuré
 persévères
 pervibrage
@@ -27047,7 +27191,6 @@ phylétique
 phytotrons
 phéniquées
 phénotypes
-piaculaire
 piaffeuses
 pianoforte
 pianotages
@@ -27137,7 +27280,6 @@ plombifère
 plombières
 plongèrent
 plumaisons
-plumassier
 pluralités
 plurielles
 plurivoque
@@ -27167,7 +27309,6 @@ polariseur
 polatouche
 policèrent
 polissable
-polissoire
 polissoirs
 polluantes
 pollueuses
@@ -27325,7 +27466,6 @@ progiciels
 proglottis
 prognathes
 prohibitif
-projecture
 projeteurs
 projettent
 projettera
@@ -27365,7 +27505,6 @@ propaniers
 propergols
 proposable
 propréteur
-propréture
 propulsifs
 propulsive
 propylènes
@@ -27428,7 +27567,6 @@ préavisera
 préavisiez
 préavisons
 préavisées
-prébendier
 précarités
 préceintes
 préchambre
@@ -27444,7 +27582,6 @@ prédissent
 prédissiez
 prédécoupé
 prédéfinie
-prédéfinir
 prédéfinis
 prédéfinit
 prédéfinît
@@ -27468,7 +27605,6 @@ prépositif
 préréglons
 prés-salés
 présageons
-présalaire
 présidiaux
 présidiums
 présurasse
@@ -27602,7 +27738,6 @@ pétauriste
 pétitoires
 pétouillai
 pétouillas
-pétouiller
 pétouilles
 pétouillez
 pétouillât
@@ -27614,7 +27749,6 @@ quadriceps
 quadrifide
 quadrirème
 quadruplex
-quartanier
 quartation
 quartzeuse
 quartzites
@@ -27704,7 +27838,6 @@ rampements
 ramponeaux
 randomisai
 randomisas
-randomiser
 randomises
 randomisez
 randomisât
@@ -27753,7 +27886,6 @@ rassoiront
 rassoyions
 rassérénez
 ratissages
-ratissoire
 rauwolfias
 ravagèrent
 ravaudages
@@ -27804,7 +27936,6 @@ recomparut
 recomparût
 recompilai
 recompilas
-recompiler
 recompiles
 recompilez
 recompilât
@@ -27827,7 +27958,6 @@ recoudriez
 recoudrons
 recoudront
 recoupette
-recourbure
 recourions
 recourrais
 recourrait
@@ -27922,7 +28052,6 @@ regimbeurs
 regimbeuse
 reginglard
 regorgeons
-regrattier
 reichsmark
 reichstags
 rejetables
@@ -27949,11 +28078,9 @@ relayeuses
 relectures
 relevables
 releveuses
-reliquaire
 reliraient
 relisaient
 relogèrent
-reloqueter
 reluirions
 reluisions
 reluisisse
@@ -28024,7 +28151,6 @@ renouement
 renouvelez
 renseignai
 renseignas
-renseigner
 renseignes
 renseignez
 renseignât
@@ -28094,7 +28220,6 @@ reperçâtes
 repiquages
 repleuvait
 repleuvent
-repleuvoir
 repliables
 reploierai
 reploieras
@@ -28102,7 +28227,6 @@ reploierez
 replussent
 reporteurs
 reportrice
-repourvoir
 reprendrai
 reprendras
 reprendrez
@@ -28130,7 +28254,6 @@ reroisâmes
 reroisâtes
 resarcelée
 rescisions
-rescisoire
 rescousses
 respectifs
 ressaierai
@@ -28139,7 +28262,6 @@ ressaierez
 ressayages
 ressemblai
 ressemblas
-ressembler
 ressembles
 ressemblez
 ressemblât
@@ -28241,7 +28363,6 @@ retordîmes
 retordîtes
 retournage
 retraduira
-retraduire
 retraduise
 retraduite
 retraduits
@@ -28255,7 +28376,6 @@ retransmît
 retrayante
 retrayants
 retrayions
-retreindre
 retrievers
 retroussis
 revaillent
@@ -28330,7 +28450,6 @@ rivetterai
 rivetteras
 rivetterez
 roast-beef
-robinetier
 roboratifs
 rocaillage
 rocailleur
@@ -28360,7 +28479,6 @@ ronceraies
 ronfleuses
 rongements
 roqueforts
-roquelaure
 roquentins
 rosaniline
 rose-croix
@@ -28435,12 +28553,10 @@ râtellerai
 râtelleras
 râtellerez
 réacquises
-réacquérir
 réactrices
 réadmettes
 réadmettez
 réadmettra
-réadmettre
 réadmirent
 réadmisses
 réamorçons
@@ -28454,7 +28570,6 @@ réapprisse
 réapprîmes
 réapprîtes
 réarrangea
-réarranger
 réarranges
 réarrangez
 réarrangée
@@ -28475,7 +28590,6 @@ récréatifs
 récupérons
 récursions
 récursives
-récursoire
 récépissés
 rédigèrent
 réductases
@@ -28554,7 +28668,6 @@ résections
 réserpines
 réserviste
 résidantes
-résiduaire
 résinifère
 résinières
 résolutifs
@@ -28566,7 +28679,6 @@ résorcines
 résultants
 réticulums
 rétorsions
-rétreindre
 rétroactes
 rétrocédez
 rétrovirus
@@ -28613,7 +28725,6 @@ sacchareux
 saccharidé
 saccharins
 saccharolé
-saccharure
 sacciforme
 sacquaient
 sacquasses
@@ -28626,7 +28737,6 @@ sacqueront
 sacquèrent
 saducéenne
 safranière
-sagittaire
 sagittales
 sagoutiers
 sahélienne
@@ -28688,7 +28798,6 @@ satanismes
 satinettes
 satineuses
 satiriques
-satisfaire
 satisfasse
 satisfecit
 satisferai
@@ -28729,7 +28838,6 @@ scheidâmes
 scheidâtes
 schistoïde
 schizoïdie
-schlinguer
 schlittage
 schlitteur
 schnauzers
@@ -28776,12 +28884,10 @@ septennats
 septennaux
 septicités
 septmoncel
-septénaire
 serez-vous
 seront-ils
 serratules
 serre-fils
-sertissure
 sevrerions
 sexagésime
 sexologies
@@ -28801,7 +28907,6 @@ sidérantes
 sidérostat
 siffleuses
 siglaisons
-signataire
 silencieux
 siliceuses
 silicicole
@@ -28829,7 +28934,6 @@ sinologies
 sinologues
 sintérisai
 sintérisas
-sintériser
 sintérises
 sintérisez
 sintérisât
@@ -28919,7 +29023,6 @@ soumettrez
 soumissent
 soumissiez
 soupirante
-sourcilier
 sourcières
 souriaient
 souririons
@@ -28962,7 +29065,6 @@ souvinrent
 souvinsses
 souï-manga
 spallation
-sparganier
 sparteries
 spartéines
 spatangues
@@ -28995,7 +29097,6 @@ squamifère
 squirreuse
 squirrheux
 stabilités
-stadhouder
 stagiaires
 staminales
 staphyline
@@ -29009,7 +29110,6 @@ starifiera
 starifiiez
 starifions
 starifiées
-stathouder
 statuaires
 steinbocks
 stellaires
@@ -29019,7 +29119,6 @@ stercoraux
 stertoreux
 stimugènes
 stimulines
-stipulaire
 stockfisch
 stockistes
 stomatites
@@ -29040,7 +29139,6 @@ stylobates
 stylomines
 styptiques
 styrolènes
-stéarinier
 stéariques
 stégomyies
 sténosages
@@ -29133,7 +29231,6 @@ surlouions
 surlouâmes
 surlouâtes
 surmenages
-surmontoir
 surmoulage
 surnageons
 surnombres
@@ -29148,7 +29245,6 @@ surprennes
 surprenons
 surprirent
 surprisses
-sursalaire
 survenance
 survenions
 surviendra
@@ -29207,7 +29303,6 @@ séborrhées
 sécessions
 sécréteuse
 sécrétines
-sécrétoire
 séculaires
 séculières
 séduirions
@@ -29246,7 +29341,6 @@ sérologies
 sésamoïdes
 tabagiques
 tabagismes
-tabellaire
 tablatures
 tabletiers
 tabletière
@@ -29334,7 +29428,6 @@ tente-abri
 tenthrèdes
 tercerions
 terebellum
-ternissure
 terpinéols
 terpénique
 terramares
@@ -29564,7 +29657,6 @@ trombidion
 trompetons
 trompettes
 trompillon
-troncature
 trophiques
 tropopause
 troqueuses
@@ -29637,7 +29729,6 @@ télébennes
 télémétrez
 téléologie
 téléonomie
-téléosaure
 téléostéen
 télépathes
 téléradios
@@ -29664,7 +29755,6 @@ tétrarchie
 tétrastyle
 ulcératifs
 ulcéroïdes
-uliginaire
 ultra-sons
 ultracourt
 unanimiste
@@ -29672,7 +29762,6 @@ unanimités
 unciformes
 unguifères
 unicolores
-unifilaire
 unifoliées
 unilingues
 unisexuées
@@ -29708,7 +29797,6 @@ vaccinelle
 vaccinides
 vacciniers
 vaccinoïde
-vacuolaire
 vade-mecum
 vaginismes
 vagissante
@@ -29722,7 +29810,6 @@ valeteriez
 valeterons
 valeteront
 validement
-valvulaire
 valérianes
 vanadinite
 vanadiques
@@ -29778,7 +29865,6 @@ vertébrées
 veuglaires
 veveysanne
 vexatrices
-vexillaire
 viabilités
 vicariales
 vicariante
@@ -29799,7 +29885,6 @@ vidéoclips
 vignetures
 villanelle
 villosités
-vinaigrier
 vingt-cinq
 vingt-deux
 vingt-huit
@@ -29955,13 +30040,11 @@ zézaieront
 ébiselerez
 éborgnages
 ébranchage
-ébranchoir
 ébrasement
 éburnéenne
 écaillages
 écailleurs
 écartelons
-écartelure
 écervelées
 échangeons
 échangeuse
@@ -30024,14 +30107,12 @@ zézaieront
 éloquences
 élyséennes
 éléatiques
-élévatoire
 émaciation
 émaillages
 émailleurs
 émailleuse
 émaillures
 émargèrent
-émbéguiner
 émbéguinez
 émbéguinée
 émbéguinés
@@ -30046,7 +30127,6 @@ zézaieront
 émigrantes
 émincèrent
 émollients
-émonctoire
 émorfilage
 émotivités
 émotteuses
@@ -30123,7 +30203,6 @@ zézaieront
 épuisables
 épurateurs
 épuratives
-épuratoire
 épurements
 équerrages
 équeutages
@@ -30158,7 +30237,6 @@ zézaieront
 était-elle
 étalageons
 étalagiste
-étalingure
 étalisasse
 étaliserai
 étaliseras
@@ -30197,7 +30275,6 @@ zézaieront
 étouffades
 étouffages
 étouffeurs
-étrangloir
 étreignais
 étreignait
 étreignant
@@ -30225,7 +30302,6 @@ zézaieront
 éviscérons
 éviscérées
 évitements
-évocatoire
 évènements
 Antéchrists
 Esquimaudes
@@ -30245,7 +30321,6 @@ abandonniez
 abandonnons
 abandonnées
 abbevillien
-abdicataire
 abjurations
 abnégations
 aboieraient
@@ -30253,7 +30328,6 @@ abominables
 aboutements
 abrogations
 abrogatives
-abrogatoire
 abrogeables
 abrègements
 abréactions
@@ -30265,7 +30339,6 @@ abréviative
 absinthisme
 absolutions
 absolutiste
-absolutoire
 abstentions
 abstinentes
 abstracteur
@@ -30323,8 +30396,6 @@ actionneurs
 activateurs
 actuarielle
 acuponcteur
-acuponcture
-acétobacter
 acétonuries
 acétonémies
 adamantines
@@ -30418,7 +30489,6 @@ alcalimètre
 alcalinités
 alchimistes
 alchémilles
-alcoolature
 alcooliques
 alcoolismes
 alcoolémies
@@ -30428,7 +30498,6 @@ aldéhydique
 alevinières
 algébriques
 aliphatique
-aliénataire
 aliénateurs
 aliénations
 aliénatrice
@@ -30436,12 +30505,9 @@ allantoïdes
 allegrettos
 allergiques
 allergisant
-allocataire
-allocutaire
 allongèrent
 allopathies
 allotropies
-allumettier
 allèchement
 allègements
 allégeaient
@@ -30498,7 +30564,6 @@ ampliatives
 amplifiante
 amuïssement
 amygdalites
-amylobacter
 amyotrophie
 améliorante
 améliorants
@@ -30579,7 +30644,6 @@ antidopings
 antidumping
 antiglisses
 antihausses
-antimoniure
 antiphrases
 antiquaires
 antisepsies
@@ -30606,13 +30670,11 @@ apitoieront
 aplanétique
 aplatissage
 aplatisseur
-aplatissoir
 apolitiques
 apolitismes
 apolliniens
 apologistes
 apomorphine
-apophysaire
 aporétiques
 aposiopèses
 appalachien
@@ -30656,7 +30718,6 @@ apriorismes
 aprioristes
 apériodique
 aquiculteur
-aquiculture
 arabisantes
 arabisation
 arabophones
@@ -30699,7 +30760,6 @@ aspergeâmes
 aspergeâtes
 aspergilles
 asphaltages
-aspiratoire
 assembleuse
 assignables
 assistanats
@@ -30831,7 +30891,6 @@ banditismes
 banqueteurs
 banquettent
 banquettera
-baptistaire
 baquetterai
 baquetteras
 baquetterez
@@ -30870,7 +30929,6 @@ bellicismes
 bellicistes
 benzolismes
 benzéniques
-bergamotier
 berçassions
 biacuminées
 bibliomanie
@@ -30889,7 +30947,6 @@ bilaplacien
 bilatérales
 bilirubines
 billonnages
-biloculaire
 bimestriels
 binationale
 binationaux
@@ -30923,7 +30980,6 @@ blasphémons
 blastoderme
 blastopores
 blennorrhée
-blettissure
 bleuetières
 blondoierai
 blondoieras
@@ -30935,7 +30991,6 @@ boitillante
 boitillants
 bolchévisai
 bolchévisas
-bolchéviser
 bolchévises
 bolchévisez
 bolchévisât
@@ -30957,7 +31012,6 @@ botteleuses
 bottellerai
 bottelleras
 bottellerez
-bouchonnier
 bouddhistes
 boudineuses
 bouffetance
@@ -31051,7 +31105,6 @@ brévilignes
 budgétaires
 budgétivore
 buffetières
-buissonnier
 butyromètre
 bâtisseuses
 béatifiante
@@ -31094,7 +31147,6 @@ calandreurs
 calandreuse
 calculeuses
 calcédoines
-calcéolaire
 caletterais
 caletterait
 caletteriez
@@ -31167,7 +31219,6 @@ cardiotomie
 carentielle
 carençaient
 carençasses
-carlinguier
 carmassions
 carmeraient
 carminatifs
@@ -31207,7 +31258,6 @@ catapultage
 catarrhales
 catharsique
 catholiques
-catilinaire
 cationiques
 catoptrique
 catéchistes
@@ -31380,7 +31430,6 @@ cocaïnomane
 coccidioses
 coccygienne
 cochléarias
-cocréancier
 cocycliques
 codemandeur
 codirecteur
@@ -31414,10 +31463,8 @@ collocation
 colloïdales
 collusoires
 collutoires
-colocataire
 colorimètre
 colportages
-colégataire
 combattions
 combattisse
 combattrais
@@ -31448,7 +31495,6 @@ commettriez
 commettrons
 commettront
 comminutifs
-commissoire
 communardes
 communismes
 communistes
@@ -31620,7 +31666,6 @@ contraignît
 contraindra
 contraposai
 contraposas
-contraposer
 contraposes
 contraposez
 contraposât
@@ -31633,7 +31678,6 @@ contre-fers
 contre-fils
 contre-haut
 contre-rail
-contre-vair
 contrebatte
 contrebattu
 contredirai
@@ -31649,7 +31693,6 @@ contrefoute
 contrefoutu
 contrepoids
 contretemps
-contretyper
 contretypes
 contributif
 conurbation
@@ -31735,7 +31778,6 @@ coupe-coupe
 coupe-gorge
 couperosées
 courbements
-courcailler
 courcaillet
 courrouçons
 coutelières
@@ -31812,7 +31854,6 @@ culturismes
 culturistes
 cumulatives
 cumulatrice
-cuniculture
 cunéiformes
 curarisante
 curarisants
@@ -31905,7 +31946,6 @@ demi-places
 demi-quarts
 demi-queues
 demi-rondes
-demi-soupir
 demi-tarifs
 demi-volées
 dendritique
@@ -31988,7 +32028,6 @@ dessuitâmes
 dessuitâtes
 desséchants
 destructura
-destructure
 destructuré
 deux-pièces
 deux-points
@@ -32010,7 +32049,6 @@ dialectales
 dialogiques
 dialoguiste
 dialypétale
-diamantaire
 diamétrales
 diantrement
 diaphanéité
@@ -32056,7 +32094,6 @@ directivité
 directoires
 directorats
 disconvenez
-disconvenir
 disconvenue
 disconvenus
 disconviens
@@ -32077,7 +32114,6 @@ discourusse
 discourûmes
 discourûtes
 discoïdales
-discrétoire
 discutables
 discuteuses
 disertement
@@ -32175,7 +32211,6 @@ domanialité
 dominoterie
 dominotiers
 dominotière
-donjuaniser
 dorlotement
 doublements
 doucissages
@@ -32297,7 +32332,6 @@ décemvirale
 décemvirats
 décemviraux
 décevraient
-déchargeoir
 déchargeons
 déchaumages
 déchaumeuse
@@ -32379,7 +32413,6 @@ décuvaisons
 décèlements
 dédaignable
 dédaléennes
-dédicataire
 dédoublages
 déduiraient
 déduisaient
@@ -32399,7 +32432,6 @@ défibreuses
 déficellent
 déficellera
 définiteurs
-définitoire
 déflagrants
 défoliantes
 défoliation
@@ -32472,7 +32504,6 @@ délimiteurs
 délitescent
 délogements
 délustrages
-délégataire
 démaillages
 démangèrent
 démantelons
@@ -32505,10 +32536,8 @@ dénivellera
 dénoierions
 dénoncèrent
 dénotations
-dénubiliser
 dénudations
 dénutrition
-dénégatoire
 déodorantes
 dépaillages
 dépaisselez
@@ -32551,7 +32580,6 @@ déplorables
 déplussions
 déplâtrages
 dépolissage
-dépositaire
 dépossédons
 dépotements
 déprenaient
@@ -32598,21 +32626,18 @@ désembraies
 désempesons
 désencollai
 désencollas
-désencoller
 désencolles
 désencollez
 désencollât
 désencollée
 désencollés
 désenlaçons
-désennnuyer
 désennuient
 désennuiera
 désennuyons
 désenraient
 désenraiera
 déserteuses
-désertifier
 désertiques
 désescalade
 désespèrent
@@ -32809,7 +32834,6 @@ encalminées
 encaquement
 encarteuses
 encastelons
-encastelure
 encastrable
 encavements
 encenseuses
@@ -32936,7 +32960,6 @@ entre-jambe
 entre-ligne
 entre-nerfs
 entre-noeud
-entre-nuire
 entre-rails
 entrebattez
 entrebattue
@@ -32975,7 +32998,6 @@ entrevoyait
 entrevoyant
 entrevoyiez
 entrevoyons
-entrobliger
 entrouvrais
 entrouvrait
 entrouvrant
@@ -33019,7 +33041,6 @@ essuie-main
 essuierions
 esthétismes
 estimatives
-estimatoire
 estivations
 estoniennes
 estouffades
@@ -33134,7 +33155,6 @@ fadasseries
 faillissant
 faisandages
 faisandeaux
-faldistoire
 fanatisante
 fanatisants
 fasciations
@@ -33200,7 +33220,6 @@ feuiletisai
 feuiletisas
 feuiletisât
 feuillerets
-fibrillaire
 fibrineuses
 fibromateux
 fibromyomes
@@ -33220,7 +33239,6 @@ filandières
 filipendule
 filmologies
 filoniennes
-finalitaire
 financèrent
 finasseuses
 finassières
@@ -33233,7 +33251,6 @@ fistuleuses
 flaccidités
 flaconnages
 flaconniers
-flagellaire
 flambements
 flamboierai
 flamboieras
@@ -33342,14 +33359,12 @@ froussardes
 fructifères
 frumentacée
 frumentacés
-frumentaire
 frutescente
 frutescents
 frénétiques
 fréquentiel
 fulminiques
 fumigateurs
-fumigatoire
 furfuracées
 furonculeux
 fusainistes
@@ -33481,14 +33496,12 @@ gobetterait
 gobetteriez
 gobetterons
 gobetteront
-gobichonner
 godillantes
 godronnages
 goinfreries
 gomme-gutte
 gomorrhéens
 gondolantes
-gonfanonier
 gongorismes
 goniomètres
 goniométrie
@@ -33618,7 +33631,6 @@ hausse-cols
 haussements
 hautboïstes
 hauturières
-hebdomadier
 hectogramme
 hellénismes
 hellénistes
@@ -33694,11 +33706,9 @@ hornblendes
 horodateurs
 horrifiques
 hors-pistes
-horse-power
 hostellerie
 hottentotes
 houblonnage
-houblonnier
 hourdassent
 hourdassiez
 hourderions
@@ -33809,7 +33819,6 @@ hétérologue
 hôtels-Dieu
 ichtyocolle
 ichtyophage
-ichtyosaure
 iconoclasme
 iconographe
 iconologies
@@ -33954,7 +33963,6 @@ indifférons
 indigotiers
 indigotines
 indiscutées
-indivisaire
 indivisions
 indocilités
 inductrices
@@ -34134,7 +34142,6 @@ inversibles
 invertébrée
 invincibles
 inviolables
-invitatoire
 involucrées
 inécoutable
 inélastique
@@ -34250,7 +34257,6 @@ lamentables
 lamprillons
 landgraviat
 langagières
-langoustier
 langueyages
 lanterneaux
 lanugineuse
@@ -34454,7 +34460,6 @@ manégeasses
 manœuvrable
 manœuvriers
 manœuvrière
-maquereller
 maquettiste
 maquillants
 maraudeuses
@@ -34571,7 +34576,6 @@ minestrones
 minimisante
 minimisants
 ministrable
-minnesinger
 minorations
 minoratives
 minéralogie
@@ -34585,7 +34589,6 @@ mithracisme
 mithriaques
 mithridatai
 mithridatas
-mithridater
 mithridates
 mithridatez
 mithridatât
@@ -34682,7 +34685,6 @@ morphinisme
 morphogènes
 mortadelles
 mortaisages
-moscoutaire
 motogodille
 mouchettent
 mouchettera
@@ -34826,7 +34828,6 @@ nasonnement
 naufrageons
 nautonières
 navetteuses
-naviculaire
 naviguantes
 navisphères
 nazaréennes
@@ -34870,7 +34871,6 @@ noblaillons
 noctambules
 noctiluques
 noircisseur
-noircissure
 nominalisme
 nomogrammes
 nomographie
@@ -34951,7 +34951,6 @@ obviendriez
 obviendrons
 obviendront
 obvinssions
-obédiencier
 obédientiel
 octaédrique
 octroierais
@@ -34996,7 +34995,6 @@ oiselleront
 oligarchies
 olympiennes
 oléagineuse
-oléiculture
 ombilicales
 ombiliquées
 ombragèrent
@@ -35019,7 +35017,6 @@ onzièmement
 oolithiques
 opacimétrie
 opalescents
-operculaire
 ophicléides
 ophidiennes
 ophioglosse
@@ -35029,7 +35026,6 @@ opisthodome
 opothérapie
 oppressives
 opticiennes
-optionnaire
 optiquement
 optométries
 orchestique
@@ -35155,7 +35151,6 @@ pantelleras
 pantellerez
 panthéismes
 panthéistes
-pantouflier
 panégyriste
 papavérines
 papelardise
@@ -35414,7 +35409,6 @@ phylogénies
 phylétiques
 physiocrate
 physostigma
-phytozoaire
 phytéléphas
 piaculaires
 piaillardes
@@ -35544,7 +35538,6 @@ polyploïdes
 polyploïdie
 polyptyques
 polypétales
-polysulfure
 polysémique
 polythéisme
 polytonales
@@ -35583,7 +35576,6 @@ porte-queue
 porte-épées
 portlandien
 positoniums
-possessoire
 possédantes
 posticheurs
 postnatales
@@ -35656,7 +35648,6 @@ pressentons
 pressurages
 pressureurs
 pressureuse
-prestataire
 prestigieux
 prestissimo
 primatiales
@@ -35880,7 +35871,6 @@ pyridoxines
 pyrimidines
 pyrogallols
 pyrograveur
-pyrogravure
 pyroligneux
 pyrométries
 pyrrhoniens
@@ -35904,7 +35894,6 @@ pécloteront
 péclotèrent
 pécuniaires
 pédantismes
-pédiculaire
 pédiculoses
 pédiplaines
 pédogenèses
@@ -35921,7 +35910,6 @@ pénicillées
 pénitential
 pénétrables
 péremptions
-périchondre
 péridurales
 périnatales
 périodiques
@@ -36050,7 +36038,6 @@ randomisera
 randomisiez
 randomisons
 randomisées
-rapatronner
 rapiécetons
 rapiécétera
 rapiéçaient
@@ -36236,7 +36223,6 @@ redéfissent
 redéfissiez
 redémontrai
 redémontras
-redémontrer
 redémontres
 redémontrez
 redémontrât
@@ -36297,7 +36283,6 @@ remblaieras
 remblaierez
 remblayages
 rembougeons
-rembourrure
 remboîtages
 remettaient
 remettrions
@@ -36355,7 +36340,6 @@ rentoileuse
 rentrouvert
 rentrouvres
 rentrouvrez
-rentrouvrir
 rentrouvris
 rentrouvrit
 rentrouvrue
@@ -36644,7 +36628,6 @@ rivetteriez
 rivetterons
 rivetteront
 riziculteur
-riziculture
 roast-beefs
 robinetiers
 robustesses
@@ -36667,7 +36650,6 @@ roquelaures
 rosanilines
 rosissement
 rosiéristes
-rotogravure
 rotrouenges
 rotuliennes
 rouannettes
@@ -36828,7 +36810,6 @@ résinifères
 résistibles
 résistivité
 résolutives
-résolutoire
 résolvantes
 résonnantes
 rétractrice
@@ -36921,7 +36902,6 @@ saturateurs
 saturations
 saturnismes
 sauciflards
-saupoudroir
 saurissages
 saurisserie
 saurisseurs
@@ -36940,7 +36920,6 @@ scheideriez
 scheiderons
 scheideront
 scheidèrent
-schelinguer
 schistoïdes
 schizogamie
 schizoïdies
@@ -36962,7 +36941,6 @@ scripturaux
 scrofuleurs
 scrofuleuse
 scrutations
-scutellaire
 scénaristes
 secondarité
 secouements
@@ -36998,10 +36976,8 @@ seraient-ce
 serait-elle
 serfouettes
 seriez-vous
-sermonnaire
 sermonneuse
 serons-nous
-serpentaire
 serpenteaux
 serpigineux
 serre-files
@@ -37019,7 +36995,6 @@ sexagésimal
 sexagésimes
 sextillions
 sexualismes
-shampooiner
 shintoïsmes
 sialagogues
 sialorrhées
@@ -37108,7 +37083,6 @@ soudoierons
 soudoieront
 soufflantes
 souffleries
-souffletier
 souffletons
 soufflettes
 souffleuses
@@ -37153,7 +37127,6 @@ sous-tendez
 sous-tendis
 sous-tendit
 sous-tendra
-sous-tendre
 sous-tendue
 sous-tendus
 sous-tendît
@@ -37259,7 +37232,6 @@ starifiions
 starifiâmes
 starifiâtes
 stathouders
-statthalter
 statutaires
 stenciliste
 stercorales
@@ -37348,7 +37320,6 @@ superovarié
 superprofit
 superpréfet
 superstrats
-superwelter
 supinateurs
 supinations
 suppliaient
@@ -37362,7 +37333,6 @@ supplièrent
 suppléances
 suppléantes
 supplétives
-supplétoire
 supposables
 supprimable
 suppuratifs
@@ -37407,7 +37377,6 @@ surprenions
 surprennent
 surprissent
 surprissiez
-surproduire
 surprotégea
 surprotégez
 sursalaires
@@ -37726,7 +37695,6 @@ transperças
 transperçât
 transportai
 transportas
-transporter
 transportes
 transportez
 transportât
@@ -37817,7 +37785,6 @@ trompettent
 trompettera
 trompillons
 troncatures
-tronculaire
 tronçonnage
 tronçonneur
 trop-perçus
@@ -37920,7 +37887,6 @@ underground
 unificateur
 unifilaires
 uniformités
-unilinéaire
 uninominaux
 unitarismes
 univitellin
@@ -37933,10 +37899,8 @@ urtications
 uruguayenne
 urédospores
 usurpations
-usurpatoire
 utilisables
 utilitaires
-utriculaire
 utriculeuse
 uxorilocale
 uxorilocaux
@@ -37977,7 +37941,6 @@ vasomotrice
 vauclusiens
 veloutement
 velouteuses
-vendangeoir
 vendangeons
 vendangerot
 vendangette
@@ -37998,7 +37961,6 @@ verdoieriez
 verdoierons
 verdoieront
 vergerettes
-vermiculure
 vermiformes
 vermineuses
 vernisseurs
@@ -38029,7 +37991,6 @@ villanelles
 vinaigriers
 vindicatifs
 vingt-trois
-viniculture
 violacèrent
 violatrices
 violonistes
@@ -38070,7 +38031,6 @@ voltigeuses
 voltigèrent
 volubilités
 volumétries
-voluptuaire
 vomériennes
 vorticelles
 vousoierais
@@ -38153,7 +38113,6 @@ zézaierions
 échangèrent
 écharneuses
 échenillage
-échenilloir
 échevellent
 échevellera
 échevinages
@@ -38185,7 +38144,6 @@ zézaierions
 écroûteuses
 écrêtements
 écussonnage
-écussonnoir
 écœurements
 édificateur
 éditoriales
@@ -38460,7 +38418,6 @@ affouragions
 affrètements
 affublements
 africanistes
-agenouilloir
 agençassions
 agglomérants
 agglutinante
@@ -38476,7 +38433,6 @@ agronomiques
 agrégeassent
 agrégeassiez
 aguardientes
-aide-mémoire
 aiguilletons
 aiguilleuses
 aimantations
@@ -38620,7 +38576,6 @@ apitoierions
 aplanétiques
 aplatissages
 aplatisseurs
-aplatissoire
 aplatissoirs
 apodictiques
 apollinienne
@@ -38742,7 +38697,6 @@ attentionnés
 attirassions
 attireraient
 attribuables
-attributaire
 attributives
 atténuateurs
 audi-mutités
@@ -38793,7 +38747,6 @@ bacilliforme
 bactéricides
 bafouilleurs
 bafouilleuse
-baguenaudier
 baillassions
 bailleraient
 bailleresses
@@ -38848,7 +38801,6 @@ bilharzioses
 bilinguismes
 biloculaires
 bimestrielle
-bimillénaire
 bimétallique
 bimétalliste
 binationales
@@ -38871,7 +38823,6 @@ bissexuelles
 bistournages
 bitumineuses
 blackboulage
-blanc-manger
 blanchailles
 blancs-étocs
 blastodermes
@@ -38938,7 +38889,6 @@ bourriquions
 bourriquâmes
 bourriquâtes
 bourrèlement
-boursicotier
 boursouflage
 bousilleuses
 boycotteuses
@@ -39152,7 +39102,6 @@ chancelleras
 chancellerez
 chansonnière
 chantefables
-chantepleure
 chantignoles
 chapardeuses
 chapellenies
@@ -39180,7 +39129,6 @@ chatoierions
 chatouilleux
 chats-huants
 chauffe-bain
-chaufournier
 chauvinismes
 chevalements
 chevretterai
@@ -39219,7 +39167,6 @@ cinquantième
 cinémascopes
 cinématiques
 circadiennes
-circulariser
 circularités
 cisellements
 ciséleraient
@@ -39248,7 +39195,6 @@ clitoridiens
 cloisonnante
 cloisonnants
 clunisiennes
-clémentinier
 cléricatures
 coacquéreurs
 coadjutrices
@@ -39358,7 +39304,6 @@ comprissions
 compromettes
 compromettez
 compromettra
-compromettre
 compromirent
 compromisses
 compte-tours
@@ -39506,7 +39451,6 @@ contraposons
 contraposées
 contre-butai
 contre-butas
-contre-buter
 contre-butes
 contre-butez
 contre-butât
@@ -39518,7 +39462,6 @@ contre-essai
 contre-filet
 contre-fugue
 contre-jours
-contre-ordre
 contre-porte
 contre-rails
 contre-sujet
@@ -39533,7 +39476,6 @@ contrebattez
 contrebattis
 contrebattit
 contrebattra
-contrebattre
 contrebattue
 contrebattus
 contrebattît
@@ -39558,7 +39500,6 @@ contrefoutue
 contrefoutus
 contrepoints
 contreseings
-contreventer
 contribuable
 contributifs
 contributive
@@ -39621,13 +39562,11 @@ corromprions
 corruptibles
 corrélations
 corrélatives
-cosignataire
 cosmopolites
 cosmétologue
 coudoiements
 coudoierions
 coupe-ongles
-coupe-papier
 courcaillets
 couvre-pieds
 coxarthroses
@@ -39714,7 +39653,6 @@ deltoïdienne
 demi-colonne
 demi-droites
 demi-produit
-demi-reliure
 demi-soupirs
 densimétries
 dentellerais
@@ -39793,12 +39731,10 @@ dessuiterons
 dessuiteront
 dessuitèrent
 desséchantes
-destinataire
 destitutions
 destructives
 destructurai
 destructuras
-destructurer
 destructures
 destructurez
 destructurât
@@ -39809,7 +39745,6 @@ deviendrions
 dextrocardie
 diacoustique
 diacritiques
-diagonaliser
 dialoguistes
 dialypétales
 diamantaires
@@ -39820,7 +39755,6 @@ dichotomique
 dicotylédone
 didacticiels
 diencéphales
-différentier
 digitiformes
 digitigrades
 digtaliserai
@@ -40010,7 +39944,6 @@ décapsulages
 décapsuleurs
 décarbonatai
 décarbonatas
-décarbonater
 décarbonates
 décarbonatez
 décarbonatât
@@ -40030,7 +39963,6 @@ déchiffrages
 déchiffreurs
 déchiquetons
 déchiquettes
-déchiqueture
 décidabilité
 décimétrique
 décintrement
@@ -40261,8 +40193,6 @@ désapprirent
 désapprisses
 désarmements
 désarrimages
-désatelliser
-déscolariser
 désembraient
 désembraiera
 désencollais
@@ -40297,7 +40227,6 @@ désossements
 désoxydantes
 désoxydation
 désoxygénons
-déstaliniser
 déstockaient
 déstockasses
 déstockerais
@@ -40372,7 +40301,6 @@ embottellent
 embottellera
 embouquement
 emboutissage
-emboutissoir
 emboîtements
 embraierions
 embrasements
@@ -40428,7 +40356,6 @@ encastelures
 encastrables
 encensements
 enchemisages
-enchevêtrure
 enchifrenons
 enchâssement
 enclavements
@@ -40447,7 +40374,6 @@ endocardites
 endommageons
 endométrites
 endosmomètre
-endossataire
 endossements
 endothéliale
 endothéliaux
@@ -40672,7 +40598,6 @@ expromission
 expropriante
 expropriants
 expurgations
-expurgatoire
 expéditrices
 extemporanée
 extemporanés
@@ -40706,11 +40631,9 @@ faciliteriez
 faciliterons
 faciliteront
 facilitèrent
-factionnaire
 facturations
 facultatives
 faiblissants
-faire-valoir
 faisabilités
 faisanderies
 faldistoires
@@ -40754,7 +40677,6 @@ fermentatifs
 fermentative
 ferraillages
 ferrailleuse
-ferricyanure
 ferronnières
 ferroviaires
 fertilisante
@@ -40773,7 +40695,6 @@ fibromatoses
 ficellerions
 fidéjusseurs
 fidéjussions
-fidéjussoire
 filamenteuse
 filipendules
 filmothèques
@@ -40801,7 +40722,6 @@ flexibilités
 flexionnelle
 floconnantes
 floculations
-floriculture
 flosculeuses
 fluidifiante
 fluidifiants
@@ -40870,11 +40790,9 @@ fructifiante
 fructifiants
 frumentacées
 frumentaires
-frustratoire
 frutescentes
 fréquentatif
 fréquentiels
-fulminatoire
 fumigatoires
 furent-elles
 furonculeuse
@@ -40907,7 +40825,6 @@ gangreneuses
 gangréneuses
 garde-chasse
 garde-malade
-garde-manger
 garde-meuble
 garde-nappes
 garde-places
@@ -41236,7 +41153,6 @@ hémarthroses
 hématidroses
 hématologies
 hématologues
-hématozoaire
 hémiparésies
 hémiédriques
 hémocyanines
@@ -41282,7 +41198,6 @@ idéologiques
 ignifugation
 ignifugeants
 ignifugèrent
-ignipuncture
 illettrismes
 illisibilité
 illuminismes
@@ -41327,7 +41242,6 @@ improuveriez
 improuverons
 improuveront
 improuvèrent
-imprécatoire
 imprévisions
 impubliables
 impulsivités
@@ -41381,7 +41295,6 @@ incubatrices
 inculcations
 incuriosités
 incurvations
-indemnitaire
 indentations
 indiscipliné
 indivisaires
@@ -41560,7 +41473,6 @@ invertébrées
 invitatoires
 invocatoires
 inécoutables
-inégalitaire
 inélasticité
 inélastiques
 inéluctables
@@ -41668,7 +41580,6 @@ lieutenances
 ligamenteuse
 lignifiantes
 liguliflores
-limniculture
 limonadières
 limousinages
 linaigrettes
@@ -41828,7 +41739,6 @@ masculinités
 massacrantes
 massacreuses
 mastectomies
-masticatoire
 masticatrice
 mastoïdienne
 matraqueuses
@@ -41982,7 +41892,6 @@ muguetteriez
 muguetterons
 muguetteront
 multicolores
-multifilaire
 multilatéral
 multimodales
 multiplexeur
@@ -42188,7 +42097,6 @@ oedémateuses
 oeil-de-chat
 oeilletonnai
 oeilletonnas
-oeilletonner
 oeilletonnes
 oeilletonnez
 oeilletonnât
@@ -42324,7 +42232,6 @@ paléoclimats
 paléographes
 paléothérium
 paléozoïques
-pamphlétaire
 pamplemousse
 panafricaine
 panafricains
@@ -42381,7 +42288,6 @@ parathormone
 paratyphique
 paratyphoïde
 parcellaires
-parcheminier
 parcimonieux
 parcouraient
 parcourrions
@@ -42410,10 +42316,8 @@ partenariats
 participatif
 participiale
 participiaux
-particulaire
 partitionnai
 partitionnas
-partitionner
 partitionnes
 partitionnez
 partitionnât
@@ -42469,7 +42373,6 @@ pelletterons
 pelletteront
 pelliculeuse
 pelvigraphie
-pensionnaire
 pentadactyle
 pentagonales
 pentateuques
@@ -42499,11 +42402,9 @@ persifleuses
 persiflèrent
 persistances
 persulfurées
-pertuisanier
 perturbantes
 pet-de-nonne
 petits-laits
-phagocytaire
 phagocytoses
 phagédénique
 phagédénisme
@@ -42691,13 +42592,11 @@ porte-outils
 porte-parole
 porte-savons
 porte-à-faux
-portionnaire
 portlandiens
 portraitiste
 positivismes
 possessoires
 postposition
-postscolaire
 postériorité
 potamochères
 potamologies
@@ -42755,7 +42654,6 @@ pressentîtes
 pressureuses
 prestataires
 primeuristes
-primipilaire
 principalats
 prioritaires
 privatdocent
@@ -42807,7 +42705,6 @@ prophylaxies
 prophétesses
 prophétiques
 propitiation
-propriétaire
 prorogations
 prorogatives
 proscripteur
@@ -42859,7 +42756,6 @@ précambriens
 précellences
 préceptorats
 préceptrices
-préciputaire
 préconiseurs
 précontraint
 précordiales
@@ -42882,11 +42778,9 @@ préfectoraux
 préfixations
 préfloraison
 préfoliation
-préglaciaire
 préhistoires
 préjudiciels
 prématurités
-prémilitaire
 prémunitions
 prénuptiales
 préoccupants
@@ -42932,7 +42826,6 @@ pupillarités
 pupinisation
 puritanismes
 pusillanimes
-putassassier
 putrescentes
 putréfiables
 pyrograveurs
@@ -42952,9 +42845,7 @@ péclotassiez
 pécloterions
 pédagogiques
 pédantesques
-pédicellaire
 pédiculaires
-pédonculaire
 pélagianisme
 pélargoniums
 pélasgiennes
@@ -43418,7 +43309,6 @@ rescindables
 rescindantes
 resocialisai
 resocialisas
-resocialiser
 resocialises
 resocialisez
 resocialisât
@@ -43734,7 +43624,6 @@ répudiations
 répétabilité
 répétitorats
 répétitrices
-résignataire
 résiliations
 résistivités
 résolutoires
@@ -43808,7 +43697,6 @@ saupoudroirs
 saurisseries
 saut-de-loup
 saute-mouton
-savoir-faire
 savoir-vivre
 saxophoniste
 scepticismes
@@ -43828,7 +43716,6 @@ scootéristes
 scopolamines
 scorbutiques
 script-girls
-scripturaire
 scripturales
 scrofulaires
 scrofuleuses
@@ -43940,7 +43827,6 @@ soumettaient
 soumettrions
 sous-calibré
 sous-classes
-sous-clavier
 sous-comptes
 sous-couches
 sous-cutanée
@@ -44027,10 +43913,8 @@ spécialistes
 spéléologies
 spéléologues
 spéléonautes
-squatteriser
 squattérisai
 squattérisas
-squattériser
 squattérises
 squattérisez
 squattérisât
@@ -44064,7 +43948,6 @@ stigmatismes
 stilligoutte
 stimulateurs
 stimulatrice
-stipendiaire
 stolonifères
 stomachiques
 stomatologie
@@ -44104,7 +43987,6 @@ subarctiques
 subatomiques
 subdélèguent
 subintrantes
-subliminaire
 sublinguales
 submergeasse
 submergeâmes
@@ -44113,13 +43995,11 @@ subornations
 subrogateurs
 subrogations
 subrogatives
-subrogatoire
 subrécargues
 subsidiaires
 substitutifs
 substitutive
 subtropicaux
-suburbicaire
 succenturiée
 succenturiés
 successibles
@@ -44226,7 +44106,6 @@ synarthroses
 synchondrose
 synchrotrons
 syncrétismes
-syndicataire
 synesthésies
 synonymiques
 syntacticien
@@ -44372,7 +44251,6 @@ toponymiques
 tormentilles
 torpilleries
 torréfacteur
-tortionnaire
 totalitaires
 toupilleuses
 touraillages
@@ -44420,7 +44298,6 @@ translatives
 translitères
 translitérai
 translitéras
-translitérer
 translitérez
 translitérât
 translitérée
@@ -44446,7 +44323,6 @@ transperçais
 transperçait
 transperçant
 transperçons
-transpolaire
 transportais
 transportait
 transportant
@@ -44486,7 +44362,6 @@ trichophyton
 tricliniques
 trifoliolées
 trilatérales
-triloculaire
 trimbalaient
 trimbalasses
 trimbalement
@@ -44592,7 +44467,6 @@ unificateurs
 unifications
 unijambistes
 unilinéaires
-uniloculaire
 unisexualité
 unitariennes
 universelles
@@ -44634,7 +44508,6 @@ valérianique
 variabilités
 vascularisée
 vascularisés
-vasectomiser
 vasomotrices
 vasouillards
 vaticinateur
@@ -44662,7 +44535,6 @@ vert-de-gris
 verticalités
 verticillées
 vespertilion
-vestibulaire
 vice-amiraux
 vice-consuls
 vice-royauté
@@ -44724,7 +44596,6 @@ vérificative
 vésiculaires
 vésiculeuses
 vétérinaires
-wagon-foudre
 wagon-trémie
 wagons-poste
 wallingantes
@@ -44755,7 +44626,6 @@ zézaieraient
 ébullioscope
 échardonnage
 écharnements
-échauboulure
 échenillages
 échenilloirs
 échevellerai
@@ -44854,7 +44724,6 @@ zézaieraient
 épreignaient
 épreindrions
 éprendraient
-équarrissoir
 équatoriales
 équilatérale
 équilibrages
@@ -44907,7 +44776,6 @@ zézaieraient
 évangéliques
 évangélismes
 évaporations
-évaporatoire
 éventrations
 éviscéraient
 éviscérasses
@@ -44967,7 +44835,6 @@ acupunctrices
 acétyléniques
 adaptabilités
 adjectivement
-adjudicataire
 adjudicateurs
 adjudicatives
 adjudicatrice
@@ -45015,7 +44882,6 @@ allopathiques
 allostériques
 allotropiques
 allumettières
-alluvionnaire
 allégeassions
 allélomorphes
 alphabétiques
@@ -45079,7 +44945,6 @@ antinationaux
 antipaludique
 antipaludéens
 antiparallèle
-antiparasiter
 antiparticule
 antipathiques
 antipollution
@@ -45135,7 +45000,6 @@ arrondissages
 arthrographie
 arthropathies
 artichautière
-articulatoire
 artificielles
 artériotomies
 ascensionnels
@@ -45177,7 +45041,6 @@ augmentatives
 augustinienne
 aurifications
 aurignacienne
-auscultatoire
 authenticités
 auto-adhésifs
 auto-allumage
@@ -45329,7 +45192,6 @@ brillantantes
 brindezingues
 bringueballai
 bringueballas
-bringueballer
 bringueballes
 bringueballez
 bringueballât
@@ -45402,7 +45264,6 @@ carboniseriez
 carboniserons
 carboniseront
 carbonisèrent
-carbonitrurer
 carburéacteur
 carcinologies
 cardiogrammes
@@ -45495,7 +45356,6 @@ cinquante-six
 cinquantièmes
 circonscrivit
 circumduction
-circumpolaire
 cisaillements
 cités-jardins
 civilisateurs
@@ -45548,8 +45408,6 @@ combattissiez
 combattraient
 combientièmes
 comblanchiens
-commanditaire
-commendataire
 commençassent
 commençassiez
 commerçassent
@@ -45609,9 +45467,7 @@ concaténèrent
 concentriques
 conceptuelles
 conchyliennes
-conciliatoire
 concomitances
-concordataire
 concourraient
 concourussent
 concourussiez
@@ -45619,7 +45475,6 @@ concurrençais
 concurrençait
 concurrençant
 concurrençons
-condamnatoire
 condensations
 condescendais
 condescendait
@@ -45668,7 +45523,6 @@ conseilleuses
 conservations
 considérables
 considérantes
-consignataire
 consistoriaux
 consomptibles
 consonantique
@@ -45684,7 +45538,6 @@ consumérismes
 consuméristes
 consécrations
 contagiosités
-containériser
 contemptrices
 contentieuses
 contextuelles
@@ -45795,7 +45648,6 @@ cordellerions
 coronariennes
 corporatismes
 corporatistes
-corpusculaire
 correspondais
 correspondait
 correspondent
@@ -45967,7 +45819,6 @@ disconviendra
 disconviennes
 disconvinrent
 disconvinsses
-discothécaire
 discourraient
 discourtoisie
 discourussent
@@ -46117,7 +45968,6 @@ décintrements
 décintrerasse
 décintrerâmes
 décintrerâtes
-décisionnaire
 déclamatrices
 déclaratoires
 déclassements
@@ -46207,7 +46057,6 @@ dégustatrices
 dégénératives
 déjetteraient
 délibératives
-délinéamenter
 délitescences
 délitescentes
 démaquillants
@@ -46332,7 +46181,6 @@ déstockassent
 déstockassiez
 déstockerions
 désulfuration
-désurchauffer
 déteignissent
 déteignissiez
 déteindraient
@@ -46431,7 +46279,6 @@ encastrements
 encaustiquage
 encerclements
 enchevalement
-enchevauchure
 enchevêtrures
 enchâssements
 encliquetages
@@ -46678,11 +46525,9 @@ flétrissantes
 focalisations
 foisonnements
 fomentatrices
-fonctionnaire
 fongistatique
 fontainebleau
 footballeuses
-forcipressure
 forjetterions
 formaldéhydes
 formalisantes
@@ -46944,7 +46789,6 @@ hébergeassent
 hébergeassiez
 hégélianismes
 héliciculteur
-héliciculture
 héliochromies
 héliographies
 héliograveurs
@@ -47143,7 +46987,6 @@ intelligibles
 intempérantes
 intentionnées
 interastrales
-interbancaire
 intercalation
 intercessions
 intercostales
@@ -47161,9 +47004,7 @@ interjectives
 interjetterai
 interjetteras
 interjetterez
-interlinéaire
 interminables
-interoculaire
 interosseuses
 interpariétal
 interprétants
@@ -47186,7 +47027,6 @@ intersexuelle
 intersyndical
 intertropical
 interurbaines
-intervallaire
 intervenaient
 intervenantes
 interviendrai
@@ -47262,7 +47102,6 @@ jupitériennes
 jurisconsulte
 juste-milieux
 justificateur
-juxtalinéaire
 juxtaposables
 juxtaposantes
 kaolinisation
@@ -47276,7 +47115,6 @@ labiodentales
 labyrinthodon
 lactalbumines
 lactoflavines
-laisser-aller
 lamelliformes
 laminectomies
 lampadophores
@@ -47287,9 +47125,7 @@ larmoieraient
 laryngectomie
 laryngologies
 laryngologues
-latifundiaire
 latinisations
-latitudinaire
 leishmanioses
 leptocéphales
 leptolithique
@@ -47511,7 +47347,6 @@ multiplicatif
 multipolaires
 multiraciales
 multistandard
-munitionnaire
 muselleraient
 musicographes
 musicographie
@@ -47522,7 +47357,6 @@ mycodermiques
 myrmécophiles
 mythologiques
 mytiliculteur
-mytiliculture
 mytilotoxines
 myxoedémateux
 myélographies
@@ -47711,7 +47545,6 @@ orthoscopique
 oscillogramme
 oscillographe
 oscillomètres
-osiériculture
 ossifications
 ostentatoires
 ostéomalacies
@@ -47959,7 +47792,6 @@ plurilatéraux
 pluripartisme
 plurivalentes
 pluviométries
-plébiscitaire
 pléonastiques
 pneumatologie
 pneumectomies
@@ -47990,7 +47822,6 @@ polyembryonie
 polyglobulies
 polygonations
 polymérisable
-polynucléaire
 polyphoniques
 polyéthylènes
 pommellerions
@@ -48019,7 +47850,6 @@ possessivités
 post-scriptum
 postclassique
 postcommunion
-postglaciaire
 posthypophyse
 postpositions
 postscolaires
@@ -48059,12 +47889,10 @@ pressentiront
 pressentisses
 primipilaires
 primitivismes
-primogéniture
 privatdocents
 privatdozents
 probabilismes
 probabilistes
-proconsulaire
 procurerasses
 procurerèrent
 productivités
@@ -48105,7 +47933,6 @@ prosthétiques
 prosélytismes
 protactiniums
 protagonistes
-protestataire
 prothrombines
 protocolaires
 protostomiens
@@ -48220,7 +48047,6 @@ pénitentiales
 pénétromètres
 pépiniéristes
 pérennisation
-périglaciaire
 péripatétisme
 périphlébites
 périscolaires
@@ -48230,7 +48056,6 @@ pérityphlites
 péroxydassent
 péroxydassiez
 péroxyderions
-pétitionnaire
 pétouillaient
 pétouillasses
 pétouillerais
@@ -48282,7 +48107,6 @@ radioguidages
 radiologistes
 radionavigant
 radionécroses
-radioreporter
 radiosondages
 radiotélévisé
 raidirassions
@@ -48479,7 +48303,6 @@ rejointoieras
 rejointoierez
 relativisante
 relativisants
-religionnaire
 reluisissions
 remblaiements
 remblaierions
@@ -48504,7 +48327,6 @@ renflouements
 renformirasse
 renformirâmes
 renformirâtes
-renonciataire
 renonciateurs
 renonciatrice
 renouvelables
@@ -48605,7 +48427,6 @@ restreindront
 restringentes
 resurchauffai
 resurchauffas
-resurchauffer
 resurchauffes
 resurchauffez
 resurchauffât
@@ -48728,7 +48549,6 @@ réarrangeâtes
 réarrangèrent
 réassortiment
 réchampissage
-récipiendaire
 récollections
 récriminateur
 récrivissions
@@ -48791,7 +48611,6 @@ réintroduisit
 réintroduisît
 réintroduites
 réintégrables
-rémunératoire
 répandissions
 répartissable
 répondissions
@@ -48821,7 +48640,6 @@ sabbathiennes
 sabellianisme
 saccharifères
 sacculiformes
-sacramentaire
 saint-bernard
 salifications
 salmonelloses
@@ -48890,7 +48708,6 @@ shampooineurs
 shampooineuse
 shampooingnai
 shampooingnas
-shampooingner
 shampooingnes
 shampooingnez
 shampooingnât
@@ -48903,7 +48720,6 @@ sidérurgiques
 sidérurgistes
 sifflotements
 significatifs
-similigravure
 simplifiables
 simultanéisme
 simultanéités
@@ -48949,7 +48765,6 @@ sous-bailleur
 sous-calibrée
 sous-calibrés
 sous-claviers
-sous-comptoir
 sous-cutanées
 sous-diaconat
 sous-entendes
@@ -49011,7 +48826,6 @@ spirochétoses
 splanchniques
 spleenétiques
 splénomégalie
-spongiculture
 spontanéismes
 sporotrichose
 spéléologique
@@ -49038,7 +48852,6 @@ statisticiens
 statoréacteur
 stendhalienne
 sternutations
-sternutatoire
 stichomythies
 stilligouttes
 stimulatrices
@@ -49110,7 +48923,6 @@ surchargèrent
 surchauffeurs
 surcreusement
 surdi-mutités
-surdéterminer
 surdéterminée
 surdéterminés
 surencombrées
@@ -49144,7 +48956,6 @@ survécussions
 surélévations
 suréquipement
 surérogations
-surérogatoire
 sus-dominante
 sus-dénommées
 sus-hépatique
@@ -49185,7 +48996,6 @@ séquentielles
 séranceraient
 sérançassions
 sériciculteur
-sériciculture
 séricigraphie
 sérothérapies
 tabacultrices
@@ -49219,7 +49029,6 @@ terminologies
 terminologues
 ternissements
 terrafungines
-terre-neuvier
 terrorisantes
 testiculaires
 testimoniales
@@ -49274,7 +49083,6 @@ toxicodermies
 toxoplasmoses
 trachéostomie
 trachéotomies
-tractionnaire
 tradescantias
 traduisissent
 traduisissiez
@@ -49319,7 +49127,6 @@ transperçasse
 transperçâmes
 transperçâtes
 transpirantes
-transplantoir
 transpolaires
 transportasse
 transporterai
@@ -49353,7 +49160,6 @@ tressaillîtes
 tribunitienne
 trichocéphale
 trichophytons
-trigémellaire
 triloculaires
 trimbalassent
 trimbalassiez
@@ -49376,8 +49182,6 @@ tronçonnement
 trophoblastes
 trousse-pieds
 trousse-queue
-trufficulture
-truiticulture
 trypsinogènes
 tsouin-tsouin
 tubérisations
@@ -49412,7 +49216,6 @@ tétraploïdies
 tétrasyllabes
 tétratomicité
 tétratomiques
-tête-de-Maure
 tête-de-nègre
 têtes-de-mort
 ultra-sonique
@@ -49432,7 +49235,6 @@ urbanistiques
 uro-génitales
 urobilinogène
 urobilinuries
-usufructuaire
 usufruitières
 utilisatrices
 utilitarismes
@@ -49662,7 +49464,6 @@ Mini-cassettes
 abaisse-langue
 abandonnassent
 abandonnassiez
-abandonnataire
 abandonnerions
 abbevilliennes
 abolitionnisme
@@ -49779,7 +49580,6 @@ appartiendriez
 appartiendrons
 appartiendront
 appartinssions
-appendiculaire
 applaudimètres
 applicabilités
 apprivoisables
@@ -49876,7 +49676,6 @@ becs-de-lièvre
 bercelonnettes
 berginisations
 bertillonnages
-bibliothécaire
 bicaméralismes
 biculturalisme
 bien-pensantes
@@ -49937,7 +49736,6 @@ brocantassions
 brocanteraient
 bronchectasies
 bronchoscopies
-bucco-dentaire
 bucco-génitale
 budgétisations
 byzantinologie
@@ -49955,7 +49753,6 @@ calorimétrique
 cancérisations
 cannelleraient
 caoutchoutages
-capilliculture
 capitalisables
 capitalisantes
 caquetteraient
@@ -50006,7 +49803,6 @@ cherchons-nous
 chevauchements
 chevretterions
 chiffonnements
-chirographaire
 chiropracteurs
 chiropractrice
 chlorhydriques
@@ -50230,7 +50026,6 @@ coperniciennes
 copposédassent
 copposédassiez
 copposéderions
-copropriétaire
 coquelucheuses
 coquetteraient
 cordelleraient
@@ -50367,7 +50162,6 @@ dodécaphonisme
 dodécasyllabes
 dogmatiquement
 domestications
-domiciliataire
 domiciliations
 doubles-crèmes
 douilletteries
@@ -50453,7 +50247,6 @@ découvrissions
 décroissements
 dédifférenciai
 dédifférencias
-dédifférencier
 dédifférencies
 dédifférenciez
 dédifférenciât
@@ -50561,7 +50354,6 @@ désidérabilité
 désinentielles
 désingularisai
 désingularisas
-désingulariser
 désingularises
 désingularisez
 désingularisât
@@ -50665,7 +50457,6 @@ entomologistes
 entr'apercevez
 entr'apercevra
 entr'aperçoive
-entre-détruire
 entre-détruite
 entre-détruits
 entre-haïrions
@@ -50684,7 +50475,6 @@ entremettaient
 entremetteuses
 entremettrions
 entremêlements
-entrepositaire
 entreprenaient
 entreprendrais
 entreprendrait
@@ -50780,7 +50570,6 @@ fourvoieraient
 fractionnantes
 fractionnismes
 fragmentations
-franc-quartier
 franchissables
 francs-parlers
 fraternisantes
@@ -51025,7 +50814,6 @@ influençassent
 influençassiez
 informationnel
 informatisable
-infraliminaire
 ingouvernables
 ingurgitations
 inharmonieuses
@@ -51046,7 +50834,6 @@ instantanéités
 instinctuelles
 instruisissent
 instruisissiez
-instrumentaire
 instrumentiste
 insubordonnées
 insupportables
@@ -51107,7 +50894,6 @@ intimidatrices
 intradermiques
 intraduisibles
 intransitivité
-intranucléaire
 introductrices
 introduiraient
 introduisaient
@@ -51162,7 +50948,6 @@ labialisations
 labyrinthiques
 labyrinthodons
 lacédémonienne
-laissez-passer
 lance-grenades
 lance-missiles
 laryngectomies
@@ -51233,7 +51018,6 @@ meurtrissantes
 mezzo-sopranos
 microbiologies
 microcosmiques
-microglossaire
 micrographique
 microlithiques
 micrométriques
@@ -51284,14 +51068,12 @@ mortinatalités
 motopropulseur
 mots-croisiste
 mouchetterions
-moyen-courrier
 mucilagineuses
 muguetteraient
 multilatérales
 multiplicandes
 multiplicatifs
 multistandards
-multitubulaire
 munitionnaires
 musicographies
 mutationnismes
@@ -51329,7 +51111,6 @@ neutrographies
 nickelleraient
 nitrifications
 nitrocellulose
-nivo-glaciaire
 nivo-pluviales
 noctambulismes
 noircissements
@@ -51442,7 +51223,6 @@ parachronismes
 parachèvements
 paradigmatique
 parafiscalités
-paralittéraire
 parallactiques
 paramagnétisme
 paramilitaires
@@ -51522,7 +51302,6 @@ physiologistes
 physionomiques
 physionomistes
 physisorptions
-phytosanitaire
 phénakisticope
 phénobarbitals
 phénoménologue
@@ -51682,7 +51461,6 @@ prévaricatrice
 prévisibilités
 prévisionnelle
 préélectorales
-prêts-à-porter
 pseudarthroses
 pseudomembrane
 psychanalystes
@@ -51994,7 +51772,6 @@ retransmettrez
 retransmissent
 retransmissiez
 retroussements
-revasculariser
 reverchassions
 revercheraient
 rhabdomanciens
@@ -52041,12 +51818,10 @@ réarrangerions
 réassortiments
 récapitulatifs
 récapitulative
-réceptionnaire
 réceptionniste
 réchampissages
 réchauffements
 récipiendaires
-réclusionnaire
 récriminateurs
 récriminatrice
 récupératrices
@@ -52121,18 +51896,15 @@ rééquilibrerât
 sabellianismes
 sacralisations
 sacramentaires
-sacrificatoire
 sacrificatrice
 sacrificielles
 safaris-photos
 saint-cyrienne
 saint-frusquin
-saint-nectaire
 saint-simonien
 saisie-brandon
 saisies-arrêts
 salmoniculteur
-salmoniculture
 salpêtrisation
 salsepareilles
 sanctificateur
@@ -52225,7 +51997,6 @@ souffletterons
 souffletteront
 sous-activités
 sous-bailleurs
-sous-brigadier
 sous-calibrées
 sous-clavières
 sous-comptoirs
@@ -52242,10 +52013,8 @@ sous-entendras
 sous-entendrez
 sous-entendues
 sous-ingénieur
-sous-locataire
 sous-multiples
 sous-occipital
-sous-orbitaire
 sous-paierions
 sous-pubiennes
 sous-tangentes
@@ -52342,12 +52111,10 @@ superficielles
 superfinitions
 superfétations
 superréactions
-supraliminaire
 supranationaux
 suprasegmental
 suprasensibles
 surbaissements
-surcapitaliser
 surcapitalisée
 surcapitalisés
 surcompression
@@ -52451,7 +52218,6 @@ thésauriseuses
 tiercefeuilles
 tirebouchonnai
 tirebouchonnas
-tirebouchonner
 tirebouchonnes
 tirebouchonnez
 tirebouchonnât
@@ -52470,7 +52236,6 @@ toxicologiques
 toxicomaniaque
 trachéostomies
 tractionnaires
-traditionnaire
 traduisissions
 tragi-comédies
 transafricaine
@@ -52594,7 +52359,6 @@ tératologistes
 tétrachlorures
 tétraplégiques
 tétratomicités
-têtes-de-Maure
 ultra-pression
 ultra-soniques
 ultra-violette
@@ -52890,7 +52654,6 @@ bourrelleraient
 bourriquassions
 bourriqueraient
 boursouflements
-bouton-poussoir
 brettelleraient
 bringueballasse
 bringueballerai
@@ -52957,7 +52720,6 @@ cinéthéodolites
 circonférentiel
 claquetteraient
 classificateurs
-classificatoire
 claustrophobies
 climatologiques
 climatothérapie
@@ -52968,7 +52730,6 @@ cocontractantes
 codemanderesses
 colin-maillards
 combustibilités
-commissionnaire
 communicatrices
 comparaissaient
 comparaîtraient
@@ -52984,7 +52745,6 @@ comptes-chèques
 concaténassions
 concaténeraient
 conceptualismes
-conchyliculture
 conchyliologies
 concrétisations
 concurrençaient
@@ -53049,7 +52809,6 @@ contrebattrions
 contrefactrices
 contrefoutaient
 contrefoutrions
-contresignature
 controlatérales
 controversables
 controversistes
@@ -53060,7 +52819,6 @@ coordonnatrices
 copposédassions
 copposéderaient
 copropriétaires
-coreligionnaire
 correspondaient
 correspondirent
 correspondisses
@@ -53075,14 +52833,12 @@ cristallisantes
 croque-monsieur
 cross-countries
 culpabilisantes
-cuniculiculture
 cybernéticienne
 cyclomotoristes
 cytodiagnostics
 cytogénéticiens
 cérébro-spinaux
 demi-bouteilles
-demi-circulaire
 demi-finalistes
 dermatologistes
 dessanglassions
@@ -53172,7 +52928,6 @@ décloisonnement
 décolletterions
 décolonisations
 décompensations
-déconventionner
 découronnements
 dédifférenciais
 dédifférenciait
@@ -53318,7 +53073,6 @@ entr'apercevais
 entr'apercevait
 entr'apercevant
 entr'aperceviez
-entr'apercevoir
 entr'apercevons
 entr'apercevrai
 entr'apercevras
@@ -53354,8 +53108,6 @@ expansionnistes
 exploitabilités
 extemporanément
 extra-sensibles
-extracellulaire
-extrajudiciaire
 extraterrestres
 extrinsèquement
 facultativement
@@ -53374,7 +53126,6 @@ feuilletterions
 finno-ougrienne
 fluidifications
 fluviométriques
-fonctionnaliser
 fonctionnalisme
 fonctionnalités
 fonctionnarisme
@@ -53401,7 +53152,6 @@ gonadostimuline
 gonadotrophines
 goutte-à-goutte
 grammaticalités
-grand-angulaire
 grandiloquences
 grommelleraient
 guillemetterais
@@ -53409,7 +53159,6 @@ guillemetterait
 guillemetteriez
 guillemetterons
 guillemetteront
-génito-urinaire
 généralisateurs
 généralisatrice
 géomorphologies
@@ -53531,7 +53280,6 @@ interglaciaires
 interindividuel
 interjetterions
 interlocutoires
-intermusculaire
 internalisation
 interocéaniques
 interpariétales
@@ -53553,7 +53301,6 @@ interviendrions
 intervocaliques
 intra-atomiques
 intracardiaques
-intracellulaire
 intracrâniennes
 intransitivités
 intranucléaires
@@ -53688,7 +53435,6 @@ non-engagements
 non-euclidienne
 non-figuratives
 non-spécialiste
-nu-propriétaire
 nucléoprotéines
 nues-propriétés
 nutritionnelles
@@ -53763,7 +53509,6 @@ pantagruéliques
 papillonnements
 paradigmatiques
 paralittéraires
-paralittérature
 parallélisation
 paramagnétismes
 paraphrastiques
@@ -53794,7 +53539,6 @@ perce-murailles
 perceptibilités
 percussionniste
 perfectibilités
-permissionnaire
 pernicieusement
 perspectivement
 perspectivismes
@@ -53838,7 +53582,6 @@ plantureusement
 planétarisation
 pleuropneumonie
 ploutocratiques
-pluricellulaire
 plurinationales
 pluviométriques
 pneumogastrique
@@ -53901,7 +53644,6 @@ présonorisation
 présuppositions
 prévaricatrices
 prévisionnelles
-pseudo-bulbaire
 pseudomembranes
 psycho-éducatif
 psychobiologies
@@ -54149,7 +53891,6 @@ scribouilleuses
 self-government
 self-inductance
 self-inductions
-semi-auxiliaire
 semi-chenillées
 semi-nomadismes
 semi-perméables
@@ -54188,7 +53929,6 @@ sorties-de-bain
 souchetteraient
 souffletterions
 souffre-douleur
-soumissionnaire
 sourdes-muettes
 sous-admissible
 sous-amendement
@@ -54219,9 +53959,6 @@ sous-orbitaires
 sous-paieraient
 sous-peuplement
 sous-production
-sous-prolétaire
-sous-répertoire
-sous-scapulaire
 sous-tendissent
 sous-tendissiez
 sous-tendraient
@@ -54320,7 +54057,6 @@ tambours-majors
 taupes-grillons
 technocratiques
 technocratismes
-technostructure
 technétroniques
 tellurhydriques
 temporisatrices
@@ -54459,7 +54195,6 @@ volcanologiques
 voltairianismes
 vulgarisatrices
 véliplanchistes
-wagon-réservoir
 wagon-tombereau
 weltanschauungs
 zootechnicienne
@@ -54479,10 +54214,8 @@ zootechnicienne
 électroménagers
 électronicienne
 électrophorèses
-électroponcture
 électropositifs
 électropositive
-électropuncture
 électrothermies
 électrothérapie
 électrovalences
@@ -54498,7 +54231,6 @@ zootechnicienne
 épistémologiste
 époussetterions
 équarrissements
-équimoléculaire
 équipotentielle
 équiprobabilité
 érysipélateuses
@@ -54581,7 +54313,6 @@ auto-équilibrant
 autoconsommation
 autodestructions
 autofinancements
-autogestionnaire
 automobilisables
 autoradiographie
 autorégulatrices
@@ -54672,7 +54403,6 @@ contrebattissiez
 contrebattraient
 contrefoutraient
 contremaîtresses
-contresignataire
 contresignatures
 conventionnement
 conversationnels
@@ -54691,7 +54421,6 @@ cérébro-spinales
 dactylographique
 demi-circulaires
 dessaisissements
-dessaisonnaliser
 dessous-de-table
 destructurassent
 destructurassiez
@@ -54850,7 +54579,6 @@ feuiletisassions
 feuilletonesques
 feuilletonnesque
 feuilletteraient
-fidéicommissaire
 finno-ougriennes
 fonctionnalismes
 fonctionnarismes
@@ -54927,7 +54655,6 @@ informaticiennes
 informationnelle
 informatisations
 infranchissables
-infroissabiliser
 infructueusement
 infundibuliforme
 infériorisations
@@ -54950,7 +54677,6 @@ interdépendantes
 interférométries
 interindividuels
 interjetteraient
-intermoléculaire
 intermusculaires
 internalisations
 internationalité
@@ -54962,7 +54688,6 @@ intersectorielle
 intervertébrales
 interviendraient
 intracellulaires
-intramoléculaire
 intransitivement
 intransmissibles
 introduisissions
@@ -54995,7 +54720,6 @@ magnétostriction
 malintentionnées
 malléabilisation
 manoeuvrabilités
-manutentionnaire
 mathématiciennes
 mathématisations
 matrimonialement
@@ -55049,7 +54773,6 @@ non-remboursable
 non-satisfaction
 non-spécialistes
 nord-américaines
-nue-propriétaire
 négro-africaines
 négro-spirituals
 néo-classicismes
@@ -55363,7 +55086,6 @@ standardisations
 statokinésimètre
 stoechiométrique
 streptococciques
-subdivisionnaire
 substantialismes
 substantialistes
 substantivations
@@ -55554,10 +55276,8 @@ anticonjoncturels
 anticryptogamique
 antidémocratiques
 antiesclavagistes
-antiparlementaire
 antiphlogistiques
 antipéristaltique
-antiréglementaire
 antisyphilitiques
 antituberculeuses
 appesantissements
@@ -55635,7 +55355,6 @@ correspondancière
 correspondissions
 cytogénéticiennes
 dactylographiques
-demi-pensionnaire
 destructurassions
 destructureraient
 deutérocanoniques
@@ -56067,7 +55786,6 @@ bringueballeraient
 broncho-pneumonies
 bureaucratisations
 cardio-vasculaires
-cardiorespiratoire
 chromolithographie
 chromotypographies
 chèques-restaurant
@@ -56077,7 +55795,6 @@ climatopathologies
 coadministratrices
 commercialisations
 compartimentations
-compromissionnaire
 compréhensibilités
 conceptualisations
 constitutionnelles
@@ -56156,7 +55873,6 @@ interindividuelles
 interministérielle
 internationalismes
 internationalistes
-interparlementaire
 interventionnismes
 jurisprudentielles
 latino-américaines
@@ -56329,7 +56045,6 @@ désingularisassions
 désingulariseraient
 entre-détruisissiez
 environnementaliste
-extra-parlementaire
 fonctionnarisations
 gastro-intestinales
 gouvernementalismes
@@ -56352,7 +56067,6 @@ interdépartementale
 interministérielles
 interparlementaires
 interprofessionnels
-intra-communautaire
 intradermo-réaction
 lymphogranulomatose
 magnéto-électriques
@@ -56386,7 +56100,6 @@ reporters-cameramen
 rééquilibrerassions
 socio-professionnel
 socioprofessionnels
-sous-bibliothécaire
 sous-développements
 sous-embranchements
 strobophotographies
@@ -56512,7 +56225,6 @@ radiocristallographies
 socio-professionnelles
 survolteurs-dévolteurs
 contre-révolutionnaires
-hospitalo-universitaire
 inconstitutionnellement
 médico-professionnelles
 électroencéphalogrammes
