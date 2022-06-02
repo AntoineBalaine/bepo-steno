@@ -16,7 +16,6 @@ ORTHOGRAPHY_RULES_ALIASES = {}
 ORTHOGRAPHY_WORDLIST = None
 KEYMAPS = {
 	'Keyboard': {
-		'#': ('1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '='),
         'B': 'q',
         'E': 'f',
         'È': 't',
@@ -42,8 +41,6 @@ KEYMAPS = {
         'F': '/',
         'n': 'n',
         'l': 'm',
-		# Suppress adjacent keys to prevent miss-strokes.
-		'no-op': (',', '.', ']'),
 	},
 }
 
