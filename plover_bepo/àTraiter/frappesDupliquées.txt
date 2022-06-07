@@ -3286,7 +3286,6 @@
 "LYOn": "lion",
 "LYOn": "lions",
 "MA": "ma",
-"MA": "mât",
 "MA$/KE": "masquer",
 "MA$/KE": "masqué",
 "MA$/TAl": "mastar",
