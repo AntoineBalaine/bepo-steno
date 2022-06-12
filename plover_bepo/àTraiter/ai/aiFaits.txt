@@ -1,6 +1,0 @@
-"A/LED/MAn": "allaitement", "A/LÈD/MAn": "allaitement",
-"E/ME": "aimer", "È/ME": "aimer",
-"FEIlÉ": "faire", "FÈIlÉ": "faire",
-"ME": "mais", "MÈ": "mais",
-"T*E/ME": "d'aimer", "T*È/ME": "d'aimer",
-"YEnC": "j'aime", "YÈnC": "j'aime",
