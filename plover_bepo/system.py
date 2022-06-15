@@ -3,7 +3,7 @@
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
  'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
- 'O', '^', 'E', 'È', 'A', 'À', 'U', 'I', 'B', 'l', 'É', 'n', '$', 'D', 'C', 
+ 'O', '^', 'E', 'È', 'A', 'À', 'U', 'I', 'l', 'É', 'n', '$', 'B', 'D', 'C', 
 '#', 'ß', 'H', '.', ','
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
@@ -12,7 +12,6 @@ NUMBER_KEY = None
 NUMBERS = {}
 UNDO_STROKE_STENO = '*'
 ORTHOGRAPHY_RULES = [
-    (r'^(.*) \^ H$', r'\1atevi'),
 ]
 ORTHOGRAPHY_RULES_ALIASES = {}
 ORTHOGRAPHY_WORDLIST = None
