@@ -2,12 +2,12 @@
 
 # #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
- 'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 
+ 'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 'H', 
  'O', '^', 'E', 'È', 'A', 'À', 'U', 'I', 'l', 'É', 'n', '$', 'B', 'D', 'C', 
-'#', 'ß', 'H', '.', ','
+'#', 'ß', '.', ','
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
-SUFFIX_KEYS = ()
+SUFFIX_KEYS = ('.', ',')
 NUMBER_KEY = None
 NUMBERS = {}
 UNDO_STROKE_STENO = '*'
@@ -43,28 +43,32 @@ KEYMAPS = {
         'l': 'm',
         '.': 'v',
         ',': 'g',
-        'H': '{.}',
+        'H': ('{.}', '{,}'),
         'ß': '{space}',
         '^': 'y'
     },
 }
 
 DICTIONARIES_ROOT = 'asset:plover_bepo:dictionaries'
-DEFAULT_DICTIONARIES = ( 
-"PloverFrance_01_French_SION.json",
-"init.json",
-"PloverFrance_02_French_Chiffres.json",
-"nomsFémininsPluriels.json",
-"PloverFrance_03_French_Adverbes.json",
-"nomsFémininsSinguliers.json",
-"PloverFrance_07_French_User.json",
-"nomsMasculinsPluriels.json",
-"SténoTroisièmeGroupe.json",
-"nomsMasculinsSinguliers.json",
+DEFAULT_DICTIONARIES = (
 "adjectifsPluriels.json",
-"prépositions.json",
-"adjectifsSinguliers.json",
-"verbesDeuxièmeGroupe.json",
 "adjectifsSinguliersFéminins(filtrésPartiellement).json",
+"adjectifsSinguliers.json",
+"_ble.json",
+"commandes.json",
+"init.json",
+"monosyllabes.json",
+"nomsFémininsPluriels.json",
+"nomsFémininsSinguliers.json",
+"nomsMasculinsPluriels.json",
+"nomsMasculinsSinguliers.json",
+"PloverFrance_01_French_SION.json",
+"PloverFrance_02_French_Chiffres.json",
+"PloverFrance_03_French_Adverbes.json",
+"PloverFrance_07_French_User.json",
+"user.json",
+"verbesDeuxièmeGroupe.json",
 "verbesPremierGroupe.json",
+"verbesTroisièmeGroupe.json",
 ) 
+
