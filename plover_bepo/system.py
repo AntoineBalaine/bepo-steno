@@ -7,7 +7,7 @@ KEYS = (
 '#', 'ß', '.', ','
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
-SUFFIX_KEYS = ('.', ',')
+SUFFIX_KEYS = ('.', ',', 'ß')
 NUMBER_KEY = None
 NUMBERS = {}
 UNDO_STROKE_STENO = '*'
@@ -57,7 +57,6 @@ DEFAULT_DICTIONARIES = (
 "_ble.json",
 "commandes.json",
 "init.json",
-"monosyllabes.json",
 "nomsFémininsPluriels.json",
 "nomsFémininsSinguliers.json",
 "nomsMasculinsPluriels.json",
