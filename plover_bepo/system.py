@@ -1,10 +1,9 @@
-# vim: set fileencoding=utf-8 :
+#vim: set fileencoding=utf-8 :
 
-# #QYPCTHVRIAEOcsthpr*ieao
 KEYS = (
  'S', 'K', 'P', 'M', 'T', 'F', '*', 'R', 'N', 'L', 'Y', 'H', 
  'O', '^', 'E', 'È', 'A', 'À', 'U', 'I', 'l', 'É', 'n', '$', 'B', 'D', 'C', 
-'#', 'ß', '.', ','
+'ß', '.', ',',
  )
 IMPLICIT_HYPHEN_KEYS = KEYS
 SUFFIX_KEYS = ('.', ',', 'ß')
@@ -30,8 +29,8 @@ KEYMAPS = {
         'U': 's',
         'É': 'w',
         'I': 'd',
-        'Y': 'x',
-        'K': ('c', 'b'),
+        'Y': ('x', 'c'),
+        'K': 'b',
         'C': 'h',
         'T': 'j',
         'S': 'k',
@@ -46,7 +45,6 @@ KEYMAPS = {
         'H': ('.', ','),
         '^': 'y',
         'ß': 'space',
-        'arpeggiate': '',
     },
 }
 
