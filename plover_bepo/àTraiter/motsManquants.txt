@@ -1,648 +1,635 @@
-acétobacter
-afrikander
-afrikaner
-alandier
-albergier
-alevinier
-alfatier
-allumettier
-amadouvier
-amidonnier
-amylobacter
-anacardier
-angledozer
-annoncier
-ardoisier
-argousier
-avelinier
-avocassier
-azerolier
-baguenaudier
-baguier
-balisier
-bergamotier
-bessemer
-bigaradier
+acétobacter  A SE TO P*AC TEl
+afrikander A FRI KAn T*El
+afrikaner A FRI KA NEl
+alandier A LAn T*YE
+albergier Al P*El YE
+alevinier Al F*I NYE
+alfatier Al FA TYE
+allumettier A LUn TYE
+amadouvier A MA T*OU F*YE
+amidonnier A MI T*O NYE
+amylobacter A MI LO P*AC TEl
+anacardier A NA KAl T*YE
+angledozer An K*L T*O S*E
+annoncier A NOn SYE
+ardoisier Al T*OI S*YE
+argousier Al K*OU S*YE
+avelinier A F*LI NYE
+avocassier A F*O KA SYE
+azerolier A S*RO LYE
+baguenaudier P*AC NO T*YE
+baguier P*A K*YE
+balisier P*A LI S*YE
+bergamotier P*El K*A MO TYE
+bessemer PE$ ME
+bigaradier P*I K*A RA T*YE
 blanc-manger
-blister
-bloc-évier
-bobinier
-bocager
-bolier
-bonnetier
-bouchonnier
-boulinier
-boursicotier
-boutonnier
-boyaudier
-brise-fer
-buandier
-buffetier
-buissonnier
-butanier
-buvetier
-cadmier
-cajeputier
-caloyer
-camérier
-carlinguier
-cartier
-casernier
-centenier
-chaisier
-chambrier
-chanvrier
-chartrier
-chaufournier
-chaînier
-chiffrier
-cimentier
-cirier
-clémentinier
-cocréancier
-colzatier
-confer
-contre-fer
-copaïer
-coquillier
-cornier
-corsetier
-coupe-papier
-crabier
-cymbalier
-dentellier
-dinandier
-dominotier
-doublier
-ensemblier
-entrefer
+blister P*LI$ TE
+bloc-évier P*LOC E F*YE
+bobinier P*O P*I NYE
+bocager P*O KA YE
+bolier P*O LYE
+bonnetier P*On TYE
+bouchonnier P*OU SKO NYE
+boulinier P*OU LI NYE
+boursicotier P*OUl SI KO TYE
+boutonnier P*OU TO NYE
+boyaudier P*OI YO T*YE
+brise-fer P*RI$ FEl
+buandier P*U An T*YE
+buffetier P*U$B TYE
+buissonnier P*UI SO NYE
+butanier P*U TA NYE
+buvetier P*U$BC TYE
+cadmier KAD MYE
+cajeputier KABDC PU TYE
+caloyer KA LOI YE
+camérier KA ME RYE
+carlinguier KAl LIn K*YE
+cartier KAl TYE
+casernier KA S*El NYE
+centenier SAnD NYE
+chaisier SKÈ S*YE
+chambrier SKAn P*RYE
+chanvrier SKAn F*RYE
+chartrier SKAl TRYE
+chaufournier SKO FOUl NYE
+chaînier SKÈ NYE
+chiffrier SKI FRYE
+cimentier SI MAn TYE
+cirier SI RYE
+clémentinier KLA MAn TI NYE
+cocréancier KO KREAn SYE
+colzatier KOl S*A TYE
+confer KOn FEl
+contre-fer KOnBD FEl
+copaïer KO PA YE
+coquillier KO KI YE
+cornier KOl NYE
+corsetier KOl$ TYE
+coupe-papier KOUB PA PYE
+crabier KRA P*YE
+cymbalier SIn P*A LYE
+dentellier T*An TLYE
+dinandier T*I NAn T*YE
+dominotier T*O MI NO TYE
+doublier T*OU P*LYE
+ensemblier An SAn P*LYE
+entrefer An TR FEl
 eye-liner
-fablier
-façonnier
-ferratier
-finassier
-flaconnier
-footballer
-fouacier
-franc-quartier
-freezer
-févier
-gabarrier
-galonnier
-garde-manger
-gattilier
-gazetier
-giletier
-gobeletier
-gonfanonier
-goyavier
-grainier
-gravatier
-hauturier
-heaumier
-hebdomadier
-horse-power
-houblonnier
-houppier
+fablier FA P*LYE
+façonnier FA SO NYE
+ferratier FE RA TYE
+finassier FI NA SYE
+flaconnier FLA KO NYE
+footballer FOUD P*O LEl
+fouacier FOAU SYE
+franc-quartier FRAn KAl TYE
+freezer FRI S*El
+févier FE F*YE
+gabarrier K*A P*A RYE
+galonnier K*A LO NYE
+garde-manger K*AlD MAn YE
+gattilier KA TI LYE
+gazetier  K*A$ TYE
+giletier YIl TYE
+gobeletier KO P*L TYE
+gonfanonier KOn FA NO NYE
+goyavier K*OI YA F*YE
+grainier K*RÈ NYE
+gravatier K*RA F*A TYE
+hauturier O TU RYE
+heaumier EAU MYE
+hebdomadier EB T*O MA T*YE
+horse-power Ol$ POEl
+houblonnier OU P*LO NYE
+houppier OU PYE
 hurdler
-icaquier
-indigotier
-ivoirier
-jambosier
-jamerosier
-jaquier
-kasher
-laisser-aller
-laissez-passer
-lamier
-langoustier
-languier
-lanier
-lantanier
-latanier
+icaquier I KA KYE
+indigotier In T*I K*O TYE
+ivoirier I F*OI RYE
+jambosier YAn P*O S*YE
+jamerosier YAnC RO S*YE
+jaquier YA KYE
+kasher KA SKEl
+laisser-aller LÈ SElÉ A LElÉ
+laissez-passer LÈ SE PA SElÉ
+lamier LA MYE
+langoustier LAn K*OU$ TYE
+languier LAn K*YE
+lanier LA NYE
+lantanier LAn TA NYE
+latanier LA TA NYE
 layetier
-limettier
-linier
-magnanier
-manglier
-manœuvrier
-massier
-matinier
-messier
-meulier
-minaudier
-minnesinger
-minutier
-morutier
-moulinier
-moyen-courrier
-mulassier
-muscadier
-médaillier
-médicinier
-ménétrier
-méthanier
-navier
-obier
-oeufrier
-onglier
-pantouflier
-parcheminier
-parurier
-paumier
-peignier
-perlier
-pertuisanier
-pilulier
-pincelier
-piroguier
-pis-aller
-plumassier
-pontier
-potinier
-poucier
-pressier
-propanier
-proyer
-prébendier
-prêts-à-porter
-putassassier
-péageer
-péronier
-quartanier
-quassier
-quillier
-radioreporter
-regrattier
-remisier
-robinetier
-rocker
-rocouyer
-rollier
-rondier
-roselier
-rubanier
-régatier
-résinier
-sapotier
-scraper
-scrubber
-sottisier
-soudier
-souffletier
-sourcilier
-sous-brigadier
-sous-clavier
-spalter
-sparganier
-spirifer
-stadhouder
-stathouder
-statthalter
-stéarinier
-suifer
-superwelter
-surloyer
-tabletier
-tamier
-tamisier
-taulier
-taupier
-teen-ager
-terre-neuvier
-tourier
-tuilier
-tullier
-tunnelier
-vaccinier
-vanillier
-veloutier
-vinaigrier
-violier
-virolier
-vomer
-vomiquier
-wagonnier
-walk-over
-weber
-zonier
-ébénier
-échelier
-épinglier
-étalier
-Länder
-cônir
-dahir
-hâloir
-ridoir
-rodoir
-alésoir
-drayoir
-fichoir
-fondoir
-fossoir
-germoir
-grésoir
-guipoir
-jabloir
-juchoir
-linsoir
-nichoir
-pendoir
-planoir
-rifloir
-rouloir
-régloir
-tordoir
-affiloir
-arrêtoir
-bobinoir
-bourroir
-enrayoir
-gaufroir
-greffoir
-grugeoir
-houssoir
-marquoir
-moussoir
-plomboir
-purgeoir
-saignoir
-soufroir
-voussoir
-à-valoir
-ébarboir
-émondoir
-accordoir
-aspersoir
-découpoir
-mouilloir
-rouissoir
-ébauchoir
-écharnoir
-égrappoir
-égrugeoir
-émouchoir
-dégorgeoir
-nonchaloir
-surmontoir
-ébranchoir
-étrangloir
-aplatissoir
-déchargeoir
-saupoudroir
-vendangeoir
-échenilloir
-écussonnoir
-agenouilloir
-emboutissoir
-faire-valoir
-équarrissoir
-sous-comptoir
-transplantoir
-bouton-poussoir
-wagon-réservoir
-épair
-képhir
-cinétir
-duumvir
-décemvir
-rivulair
-septemvir
-contre-vair
-demi-soupir
+limettier LInC TYE
+linier LI NYE
+magnanier MA K*NA NYE
+manglier MAn K*LYE
+manœuvrier MA NEU F*RYE
+massier MA SYE
+mulassier MU LA SYE
+muscadier MU$ KA T*YE
+médaillier ME T*A YE
+médicinier ME T*I SI NYE
+ménétrier ME NE TRYE
+méthanier ME TA NYE
+navier NA F*YE
+obier O P*YE
+oeufrier EU FRYE
+onglier On K*LYE
+pantouflier PAn TOU FLYE
+parcheminier PAl SKMI NYE
+parurier PA RU RYE
+paumier PO MYE
+peignier PE KNYE
+perlier PEl LYE
+pertuisanier PEl TUI S*A NYE
+pilulier PI LU LYE
+pincelier PIn$ LYE
+piroguier PI RO K*YE
+pis-aller PI A LElÉ
+plumassier PLU MA SYE
+pontier POn TYE
+potinier PO TI NYE
+poucier POU SYE
+pressier PRE SYE
+propanier PRO PA NYE
+proyer PROI YE
+prébendier PRE P*An T*YE
+prêts-à-porter PREÉ À POl TElÉ
+putassassier PU TA SYE
+péageer PEA YE
+péronier PE RO NYE
+quartanier KAl TA NYE
+quassier KA SYE
+quillier KI LYE
+radioreporter RA T*YO RE POl TEl
+regrattier R K*RA TYE
+remisier R MI S*YE
+robinetier RO P*In TYE
+rocker RO KEl
+rocouyer RO KOU YE
+rollier RO LYE
+rondier ROn T*YE
+roselier RO$ LYE
+rubanier RU P*A NYE
+régatier RE K*A TYE
+résinier RE S*I NYE
+sapotier SA PO TYE
+scraper SKRA PEl
+scrubber SKRU P*El
+sottisier SO TI S*YE
+soudier SOU T*YE
+souffletier SOU FL TYE
+sourcilier SOUl SI LYElÉ ***
+sous-brigadier SOU P*RI K*A T*YE
+sous-clavier SOU K*LA F*YE
+spalter SPAl TElÉ ***
+sparganier SPAl K*A NYE
+spirifer SPI RI FE
+stadhouder STA T*OU T*El
+stathouder STA TOU T*El
+statthalter STAD Al TEl
+stéarinier STEA RI NYE
+suifer SUI FE
+superwelter SE PEl *El TElÉ ß****
+surloyer SUl LOI YE
+tabletier TA P*L TYE
+tamier TA MYE
+tamisier TA MI S*YE
+taulier TO LYE
+taupier TO PYE
+teen-ager TIn EI YEUl
+terre-neuvier TEl NEU F*YE
+tourier TOU RYE
+tuilier TUI LYE
+tullier TU LYE
+tunnelier TUn LYE
+vaccinier F*AC SI NYE
+vanillier F*A NI LYE
+veloutier F* LOU TYE
+vinaigrier F*I NÈ K*RYE
+violier F*YO LYE
+virolier F*I RO LYE
+vomer F*O ME
+vomiquier F*O MI KYE
+wagonnier F*A K*O NYE
+walk-over OAlC O F*El
+weber F*E P*El
+zonier S*O NYE
+ébénier E P*E NYE
+échelier EDC LYE
+épinglier E PIn K*LYE
+étalier E TA LYE
+Länder LEn T*El
+cônir KO NIl
+dahir T*A Il
+hâloir A LOIl
+ridoir RI T*OIl
+rodoir RO T*OIl
+alésoir A LE S*OIl
+drayoir T*RE YOIl
+fichoir FI SKOIl
+fondoir FOn T*OIl
+fossoir FO SOIl
+germoir YEl MOIl
+grésoir K*RE S*OIl
+guipoir K*UI POIl
+jabloir YA P*LOIl
+juchoir YU SKOIl
+linsoir LIn SOIl
+nichoir NI SKOIl
+pendoir PAn T*OIl
+planoir PLA NOIl
+rifloir RI FLOIl
+rouloir ROU LOIl
+régloir RE K*LOIl
+tordoir TOl T*OIl
+affiloir A FI LOIl
+arrêtoir A RE TOIl
+bobinoir  P*O P*I NOIl
+bourroir P*OI ROIl
+enrayoir An RE YOIl
+gaufroir K*O FROIl
+greffoir K*RE FOIl
+grugeoir K*RU YOIl
+houssoir OU SOIl
 
-chaire
+soufroir SOU FROIl
+voussoir F*OU SOIl
+à-valoir À F*A LOIl
+ébarboir E P*Al P*OIl
+émondoir E MOn T*OIl
+accordoir A KOl T*OIl
+aspersoir A$ PEl SOIl
+découpoir T*E KOU POIl
+mouilloir MOU YOIl
+rouissoir ROUI SOIl
+ébauchoir E P*O SKOIl
+écharnoir E SKAl NOIl
+égrappoir E K*RA POIl
+égrugeoir E K*RU YOIl
+émouchoir E MOU SKOIl
+dégorgeoir T*E K*Ol YOIl
+nonchaloir NOn SKA LOIl
+surmontoir SUl MOn TOIl
+ébranchoir E P*RAn SKOIl
+étrangloir E TRAn K*LOIl
+aplatissoir A PLA TI S*OIl
+déchargeoir T*E SKAl YOIl
+saupoudroir SO POU T*ROIl
+vendangeoir F*An T*An YOIl
+échenilloir EDC NI YOIl
+écussonnoir E KU SOIl
+agenouilloir ABDC NOU YOIl
+emboutissoir An P*OU TI S*OIl
+faire-valoir FÈl F*A LOIl
+équarrissoir E KA RI SOIl
+sous-comptoir SOU KOn TOIl
+transplantoir TRAn$ PLAn TOIl
+bouton-poussoir P*OU TOn POU SOIl
+wagon-réservoir F*A K*On RE S*El F*OIl
+épair E PÈl
+képhir KE FIl
+cinétir SI NE TIl
+duumvir T*U Un F*Il
+décemvir T*E SAn F*Il
+rivulair RI F*U LÈl
+septemvir SE PTAn F*Il
+contre-vair KOnBD F*Èl
+demi-soupir T* MI SOU PIl
+
+chaire SKÈlC
 cheire
-praire
-cataire
-laraire
-pilaire
-repaire
-triaire
-tubaire
-ulmaire
-vinaire
-épiaire
-actuaire
-corsaire
-foliaire
-libraire
-limbaire
-miliaire
-nectaire
-ouï-dire
-planaire
-pulpaire
-quinaire
-radiaire
-rétiaire
-soléaire
-thonaire
-uvulaire
-vaccaire
-valvaire
-élitaire
-aréolaire
-bien-dire
-bifilaire
-cométaire
-dipolaire
-disquaire
-donataire
-décadaire
-locataire
-loculaire
-loricaire
-légataire
-minutaire
-nodulaire
-partiaire
-pilulaire
-pulicaire
-tarifaire
-tumulaire
-vacataire
-veuglaire
-vitulaire
-aciculaire
-adversaire
-annuitaire
-antiquaire
-armillaire
-caudataire
-coplanaire
-cymbalaire
-dentelaire
-dignitaire
-fistulaire
-lamellaire
-lucernaire
-mamillaire
-matricaire
-micellaire
-pariétaire
-partenaire
-persicaire
-piaculaire
-présalaire
-reliquaire
-résiduaire
-sagittaire
-septénaire
-signataire
-stipulaire
-sursalaire
-tabellaire
-uliginaire
-unifilaire
-vacuolaire
-valvulaire
-vexillaire
-abdicataire
-aliénataire
-allocataire
-allocutaire
-apophysaire
-baptistaire
-biloculaire
-calcéolaire
-catilinaire
-colocataire
-colégataire
-diamantaire
-dédicataire
-délégataire
-dépositaire
-fibrillaire
-finalitaire
-flagellaire
-frumentaire
-indivisaire
-moscoutaire
-naviculaire
-operculaire
-optionnaire
-phytozoaire
-prestataire
-pédiculaire
-scutellaire
-sermonnaire
-serpentaire
-surproduire
-tronculaire
-unilinéaire
-utriculaire
-voluptuaire
-attributaire
-bimillénaire
-cosignataire
-destinataire
-endossataire
-factionnaire
-hématozoaire
-indemnitaire
-inégalitaire
-multifilaire
-pamphlétaire
-particulaire
-pensionnaire
-phagocytaire
-portionnaire
-postscolaire
-primipilaire
-propriétaire
-préciputaire
-préglaciaire
-prémilitaire
-pédicellaire
-pédonculaire
-résignataire
-savoir-faire
-scripturaire
-stipendiaire
-subliminaire
-suburbicaire
-syndicataire
-tortionnaire
-transpolaire
-triloculaire
-uniloculaire
-vestibulaire
-adjudicataire
-alluvionnaire
-circumpolaire
-commanditaire
-commendataire
-concordataire
-consignataire
-corpusculaire
-discothécaire
-décisionnaire
-fonctionnaire
-interbancaire
-interlinéaire
-interoculaire
-intervallaire
-juxtalinéaire
-latifundiaire
-latitudinaire
-munitionnaire
-plébiscitaire
-polynucléaire
-postglaciaire
-proconsulaire
-protestataire
-périglaciaire
-pétitionnaire
-religionnaire
-renonciataire
-récipiendaire
-sacramentaire
-tractionnaire
-trigémellaire
-usufructuaire
-abandonnataire
-appendiculaire
-bibliothécaire
-bucco-dentaire
-chirographaire
-copropriétaire
-domiciliataire
-entrepositaire
-infraliminaire
-instrumentaire
-intranucléaire
-microglossaire
-multitubulaire
-nivo-glaciaire
-paralittéraire
-phytosanitaire
-réceptionnaire
-réclusionnaire
-saint-nectaire
-sous-locataire
-sous-orbitaire
-supraliminaire
-traditionnaire
-commissionnaire
-coreligionnaire
-demi-circulaire
-extracellulaire
-extrajudiciaire
-grand-angulaire
-génito-urinaire
-intermusculaire
-intracellulaire
-nu-propriétaire
-permissionnaire
-pluricellulaire
-pseudo-bulbaire
-semi-auxiliaire
-soumissionnaire
-sous-prolétaire
-sous-scapulaire
-équimoléculaire
-autogestionnaire
-contresignataire
-fidéicommissaire
-intermoléculaire
-intramoléculaire
-manutentionnaire
-nue-propriétaire
-subdivisionnaire
-antiparlementaire
-antiréglementaire
-demi-pensionnaire
-compromissionnaire
-interparlementaire
-extra-parlementaire
-intra-communautaire
-sous-bibliothécaire
-hospitalo-universitaire
-bétoire
-doloire
-mémoire
-drayoire
-ducroire
-jabloire
-lardoire
-pantoire
-décisoire
-eupatoire
-novatoire
-peignoire
-pétitoire
-captatoire
-collusoire
-dimissoire
-excrétoire
-gestatoire
-polissoire
-ratissoire
-rescisoire
-récursoire
-sécrétoire
-élévatoire
-émonctoire
-épuratoire
-évocatoire
-abrogatoire
-absolutoire
-aspiratoire
-commissoire
-discrétoire
-définitoire
-dénégatoire
-estimatoire
-faldistoire
-fumigatoire
-invitatoire
-possessoire
-résolutoire
-supplétoire
-usurpatoire
-aide-mémoire
-aplatissoire
-expurgatoire
-fidéjussoire
-frustratoire
-fulminatoire
-imprécatoire
-masticatoire
-subrogatoire
-évaporatoire
-articulatoire
-auscultatoire
-conciliatoire
-condamnatoire
-rémunératoire
-sternutatoire
-surérogatoire
-sacrificatoire
-classificatoire
-sous-répertoire
-cardiorespiratoire
-exèdre
-foudre
-gindre
-trièdre
-bélandre
-hexaèdre
-malandre
-heptaèdre
-loi-cadre
-pentaèdre
-parafoudre
-périchondre
-contre-ordre
-wagon-foudre
+praire PRÈl
+cataire KA TÈl
+laraire LA RÈl
+pilaire PI LÈl
+repaire R PÈl
+triaire TRYÈl
+tubaire TU P*Èl
+ulmaire Ul MÈl
+vinaire F*I NÈl
+épiaire E PYÈl
+actuaire AC TU Èl
+corsaire KOl SÈl
+foliaire FO LYÈl
+libraire LI P*RÈl
+limbaire LIn P*Èl
+miliaire MI LYÈl
+nectaire NEC TYÈl
+ouï-dire OUI T*Il
+planaire PLA NÈl
+pulpaire PUl PÈl
+quinaire KI NÈl
+radiaire RA T*YÈl
+rétiaire RE TYÈl
+soléaire SO LEÈl
+thonaire TO NÈl
+uvulaire U F*U LÈl
+vaccaire F*A KÈl
+valvaire F*Al F*Èl
+élitaire E LI TÈl
+aréolaire A RYO LÈl
+bien-dire P*YIn T*Il
+bifilaire P*I FI LÈl
+cométaire KO ME TÈl
+dipolaire T*I PO LÈl
+disquaire T*I$ KÈl
+donataire T*O NA TÈl
+décadaire T*E KA T*Èl
+locataire LO KA TÈl
+loculaire LO KU LÈl
+loricaire LO RI KÈl
+légataire LE K*A TÈl
+minutaire MU NI TÈl
+nodulaire NO T*U LÈl
+partiaire PAl SYÈl
+pilulaire PI LU LÈl
+pulicaire PU LI KÈl
+tarifaire TA RI FÈl
+tumulaire TU MU LÈl
+vacataire F*A KA TÈl
+veuglaire F*EU K*LÈl
+vitulaire F*I TU LÈl
+aciculaire A SI KU LÈl
+adversaire AD F*El SÈl
+annuitaire A NUI TÈl
+antiquaire An TI KÈl
+armillaire Al MI YÈl
+caudataire KO T*A TÈl
+coplanaire KO PLA NÈl
+cymbalaire SIn P*A LÈl
+dentelaire T*AnD LÈl
+dignitaire T*I KNI TÈl
+fistulaire FI$ TU LÈl
+lamellaire LAnC LÈl
+lucernaire LU SEl NÈl
+mamillaire MA MI YÈl
+matricaire MA TRI KÈl
+micellaire MI SE LÈl
+pariétaire PA RYE TÈl
+partenaire PAlD NÈl
+persicaire PEl SI KÈl
+piaculaire PYA KU LÈl
+présalaire PRE SA LÈl
+reliquaire RLI KÈl
+résiduaire RE S*I T*U Èl
+sagittaire SA YI TÈl
+septénaire SEB TE NÈl
+signataire SI KNA TÈl
+stipulaire STI PU LÈl
+sursalaire SUl SA LÈl
+tabellaire TA P*E LÈl
+uliginaire U LI YI NÈl
+unifilaire U NI FI LÈl
+vacuolaire F*A KU O LÈl
+valvulaire F*Al F*U LÈl
+vexillaire F*EC SI LYÈl
+abdicataire AB T*I KA TÈl
+aliénataire A LYE NA TÈl
+allocataire A LO KA TÈl
+allocutaire A LO KU TÈl
+apophysaire A PO FI S*Èl
+baptistaire P*A TI$ TÈl
+biloculaire P*I LO KU LÈl
+calcéolaire KAl SYO LÈl
+catilinaire KA TI LI NÈl
+colocataire KO LO KA TÈl
+colégataire KO LE K*A TÈl
+diamantaire T*YA MAn TÈl
+dédicataire T*E T*I KA TÈl
+délégataire T*E LE K*A TÈl
+dépositaire T*E PO S*I TÈl
+fibrillaire FI P*RI LÈl
+finalitaire FI NA LI TÈl
+flagellaire FLA YE LÈl
+frumentaire FRU MAn TÈl
+indivisaire In T*I F*I S*Èl
+moscoutaire MO$ KOU TÈl
+naviculaire NA F*I KU LÈl
+operculaire O PEl KU LÈl
+optionnaire OB SYO NÈl 
+phytozoaire FI TO S*OÈl
+prestataire PRE$ TA TÈl
+pédiculaire PE T*I KU LÈl
+scutellaire SKU TE LÈl
+sermonnaire SEl MO NÈl
+serpentaire SEl PAn TÈl
+surproduire SUl PRO T*UIl
+tronculaire TROn KU LÈl
+unilinéaire U NI LI NYÈl
+utriculaire U TRI KU LÈl
+voluptuaire F*O LUB TÈl
+attributaire A TRI P*U TÈl
+bimillénaire PI MI LE NÈl
+cosignataire KO SI K*NA TÈl
+destinataire T*E$ TI NA TÈl
+endossataire An T*O SA TÈl
+factionnaire FAC SY NÈl
+hématozoaire E MA TO S*OÈl
+indemnitaire In T*E  MNI TÈl
+inégalitaire I NE K*A LI TÈl
+multifilaire MUl TI FI LÈl
+pamphlétaire PAn FLE TÈl
+particulaire PAl TI KU LÈl
+pensionnaire PAn SYO NÈl
+phagocytaire FA K*O SI TÈl
+portionnaire POl SYO NÈl
+postscolaire PO$D SKO LÈl
+primipilaire PRI MI I LÈl
+propriétaire PRO PRYE TÈl
+préciputaire PRE SI PU TÈl
+préglaciaire PRE K*LA SYÈl
+prémilitaire PRE MI LI TÈl
+pédicellaire PRE T*I SE LÈl
+pédonculaire PE T*On KU LÈl
+résignataire RE S*I KNA TÈl
+savoir-faire SA F*OIl FÈl
+scripturaire SKRI PTU RÈl
+stipendiaire STI PAn T*YÈl
+subliminaire SU P*LI MI NÈl
+suburbicaire SU P*Ul PI KÈl
+syndicataire SIn T*I KA TÈl
+tortionnaire TOl SYO NÈl
+transpolaire TRAn$ PO LÈl
+triloculaire TRI LO KU LÈl
+uniloculaire U NI LO KU LÈl
+vestibulaire F*E$ TI P*U LÈl
+adjudicataire AD YU T*I KA TÈl
+alluvionnaire A LU F*YO NÈl
+circumpolaire SIl KUn PO LÈl
+commanditaire KO MAn T*I TÈl
+commendataire KOn MAn T*A TÈl
+concordataire KOn KOl T*A TÈl
+consignataire KOn SI KNA TÈl
+corpusculaire KOl PU$ KU LÈl
+discothécaire T*I$ KO TE KÈl
+décisionnaire T*E SI S*YO NÈl
+fonctionnaire FOnC SYO NÈl
+interbancaire In TEl P*An KÈl
+interlinéaire In TEl LI NYÈl
+interoculaire In TEl O KU LÈl
+intervallaire In TEl F*A LÈl
+juxtalinéaire YU$C TA LI NYÈl
+latifundiaire LA TI FOn T*YÈl
+latitudinaire LA TI TU T*I NÈl
+munitionnaire MU NI SYO NÈl
+plébiscitaire PLE P*I SI TÈl
+polynucléaire PO LI NU KLYÈl
+postglaciaire PO$D K*LA SYÈl
+proconsulaire PRO KOn SU LÈl
+protestataire PRO TE$ TA TÈl
+périglaciaire PE RI K*LA SYÈl
+pétitionnaire PE TI SYO NÈl
+religionnaire RLI YO NÈl
+renonciataire RNOn SYA TÈl
+récipiendaire RE SI PYAn T*Èl
+sacramentaire SA KRA MAn TÈl
+tractionnaire TRAC SYO NÈl
+trigémellaire TRI YE ME LÈl
+usufructuaire U S*U FRUC TÈl
+abandonnataire A P*An T*O NA TÈl
+appendiculaire A PAn T*I KU LÈl
+bibliothécaire P*I P*LYO TE KÈl
+bucco-dentaire P*U KO T*An TÈl
+chirographaire KI RO K*RA FÈl
+copropriétaire KO PRO PRYE TÈl
+domiciliataire T*O MI SI LYA TÈl
+entrepositaire AnBD PO S*I TÈl
+infraliminaire In FRA LI MI NÈl
+instrumentaire In$ TRU MAn TÈl
+intranucléaire In TRA NU KLYÈl
+microglossaire MI KRO K*LO SÈl
+multitubulaire MUl TI TU P*U LÈl
+nivo-glaciaire NI F*O K*LA SYÈl
+paralittéraire PA RA LI TE RÈl
+phytosanitaire FI TO SA NI TÈl
+réceptionnaire RE SEB SYO NÈl
+réclusionnaire RE KLU S*YO NÈl
+saint-nectaire SIn NEC TÈl
+sous-locataire SOU LO KA TÈl
+sous-orbitaire SOU Ol P*I TÈl
+supraliminaire SU PRA LI MI NÈl
+traditionnaire TRA T*I SYO NÈl
+commissionnaire KO MI SYO NÈl
+coreligionnaire K RLI YO NÈl
+demi-circulaire T* MI SIl KU LÈl
+extracellulaire E$C TRA SE LU LÈl
+extrajudiciaire E$C TRA YU T*I SYÈl
+grand-angulaire K*RAn An K*U LÈl
+génito-urinaire YE NI TO U RI NÈl
+intermusculaire In TEl MU$ KU LÈl
+intracellulaire In TRA SE LU LÈl
+nu-propriétaire NU PRO PRYE TÈl
+permissionnaire PEl MI SYO NÈl
+pluricellulaire PLU RI SE LU LÈl
+pseudo-bulbaire SEU T*O P*Ul P*Èl
+semi-auxiliaire SMI OC SI LYÈl
+soumissionnaire SOU MI SYO NÈl
+sous-prolétaire SOU PRO LE TÈl
+sous-scapulaire SOU SKA PU LÈl
+équimoléculaire E KI MO LE KU LÈl
+autogestionnaire O TO YE$ TYO NÈl
+contresignataire KOnBD SI KNA TÈl
+fidéicommissaire FI T*EI KO MI SÈl
+intermoléculaire In TEl MO LE KU LÈl
+intramoléculaire In TRA MO LE KU LÈl
+manutentionnaire MA NU TAn SYO NÈl
+nue-propriétaire NU PRO PRYE TÈl
+subdivisionnaire SUB T*I F*I S*YO NÈl
+antiparlementaire An TI PAl MAn TÈl
+antiréglementaire An TI RE K*L MAn TÈl
+demi-pensionnaire T* MI PAn SYO NÈl
+compromissionnaire KOn PRO MI SYO NÈl
+interparlementaire In TEl PAl MAn TÈl
+extra-parlementaire E$C TRA PAl MAn TÈl
+intra-communautaire In TRA KO MU NO TÈl
+sous-bibliothécaire SOU P*I P*LYO TE KÈl
+hospitalo-universitaire O$ PI TA LO U NI F*El SI TÈl
+bétoire P*E TOIl ß ß P*E TOIlC
+doloire T*O LOIl ß ß ß T*O LOIlC
+mémoire ME MOIl ß ME MOIlC
+drayoire T*RE YOIl
+ducroire T*U KROIl
+jabloire YA P*LOIl
+lardoire LAl T*OIl
+pantoire PAn TOIl
+décisoire T*E SI S*OIl
+eupatoire EU PA TOIl
+novatoire NO F*A TOIl
+peignoire PE KNOIlC
+pétitoire PE TI TOIl
+captatoire KAB TA TOIl
+collusoire KO LU S*OIl
+dimissoire T*I MI SOIl
+excrétoire E$C KRE TOIl
+gestatoire YE$ TA TOIl
+polissoire PO LI SOIl
+ratissoire RA TI SOIl
+rescisoire RE SI S*OIl
+récursoire RE KUl SOIl
+sécrétoire SE KRE TOIl
+élévatoire E LE F*A TOIl
+émonctoire E MOnC TOIl
+épuratoire E PU RA TOIl
+évocatoire E F*O KA TOIl
+abrogatoire A P*RO K*A TOIl
+absolutoire AB SO LU TOIl
+aspiratoire A$ PI RA TOIl
+commissoire KO MI SOIl
+discrétoire T*I$ KRE TOIl
+définitoire T*E FI NI TOIl
+dénégatoire T*E NE K*A TOIl
+estimatoire E$ TI MA TOIl
+faldistoire FLA T*I$ TOIl
+fumigatoire FU MI K*A TOIl
+invitatoire In F*I TA TOIl
+possessoire PE SE SOIl
+résolutoire RE SO LU TOIl
+supplétoire SU PLE TOIl
+usurpatoire U S*Ul PA TOIl
+aide-mémoire ÈD ME MOIl
+aplatissoire A PLA TI SOIl
+expurgatoire E$C PUl K*A TOIl
+fidéjussoire FI T*E YU SOIl
+frustratoire FRU$ TRA TOIl
+fulminatoire FUl MI NA TOIl
+imprécatoire In PRE KA TOIl
+masticatoire FA$ TI KA TOIl
+subrogatoire SUB RO K*A TOIl
+évaporatoire E F*A PO RA TOIl
+articulatoire Al TI KU LA TOIl
+auscultatoire O$ KUl TA TOIl
+conciliatoire KOn SI LYA TOIl
+condamnatoire KOn T*A NA TOIl
+rémunératoire NE MU NI RA TOIl
+sternutatoire STEl NU TA TOIl
+surérogatoire SU RE RO *A TOIl
+sacrificatoire SA KRI FI KA TOIl
+classificatoire KLA SI FI KA TOIl
+sous-répertoire SOU RE PEl TOIl
+cardiorespiratoire KAl T*YO RE$ PI RA TOIl
+exèdre EC SEBD
+foudre FOUBD
+gindre YInBD
+trièdre TRYEBD
+bélandre PE LAnBD
+hexaèdre EC SA EBD
+malandre MA LAnBD
+heptaèdre EB TA EBD
+loi-cadre LOI KABD
+pentaèdre PAn TA EBD
+parafoudre PA RA FOUBD
+périchondre PE RI KOnBD
+contre-ordre KOnBD OlBD
+wagon-foudre F*A K*On FOUBD
 dt
 où
 Ada
 Avé
 CEA
-œuf
+œuf EU$B
 cpt
 dey
 dut
@@ -668,40 +655,39 @@ Skaï
 Véda
 adné
 aisy
-allô
+allô A LO^
 amuï
-apex
-arum
-bayé
+apex A PE$C
+arum A RUnC
 beys
 bols
 brrr
 béez
 béké
-bœuf
+bœuf P*EU$B
 cabs
 ceci
 ceux
-ciao
-clef
-coke
-coqs
-cèpe
+ciao SKYA O
+clef KLE$B
+coke KOC
+coqs KOÉC
+cèpe SEB
 côni
 deys
 dols
 focs
 foxé
 frît
-gaga
-gaps
+gaga K*A K*A
+gaps K*AÉB
 gaur
-goïm
-gyms
+goïm K*OInC
+gyms YIÉnC
 hein
-holà
-inné
-ixia
+holà O LÀ
+inné I NE
+ixia IC SYA
 jars
 jaïn
 jobs
@@ -734,9 +720,9 @@ pfft
 pifa
 pife
 pifs
-pifé
-pigé
-ploc
+pifé PI FE
+pigé PI YE
+ploc PLOC
 poix
 pool
 prix
